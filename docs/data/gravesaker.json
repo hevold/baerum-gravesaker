@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "id": "26/13",
+    "sakstittel": "Emma hjort - stillas",
+    "arbeidstype": "Arbeidstillatelse",
+    "veinavn": "Franzefossveien",
+    "entreprenor": "Arne Olav Lund A/S",
+    "start": "02.02.2026",
+    "slutt": "24.04.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/530912",
+    "status": "pågår",
+    "scraped_date": "2026-04-14T15:31:58.581705"
+  },
+  {
+    "id": "26/113",
+    "sakstittel": "myrvollveien",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Myrvollveien",
+    "entreprenor": "KRISTOFFERSEN AS",
+    "start": "30.03.2026",
+    "slutt": "17.04.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/534239",
+    "status": "pågår",
+    "scraped_date": "2026-04-14T15:31:58.581705"
+  },
+  {
+    "id": "25/645",
+    "sakstittel": "Emma Hjort",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Franzefossveien",
+    "entreprenor": "Arne Olav Lund A/S",
+    "start": "12.01.2026",
+    "slutt": "01.05.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/529591",
+    "status": "pågår",
+    "scraped_date": "2026-04-14T15:31:58.581705"
+  },
+  {
+    "id": "25/642",
+    "sakstittel": "Hosleveien - SID1565",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Hosleveien",
+    "entreprenor": "Arne Olav Lund A/S",
+    "start": "05.01.2026",
+    "slutt": "01.05.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/529519",
+    "status": "pågår",
+    "scraped_date": "2026-04-14T15:31:58.581705"
+  },
+  {
+    "id": "25/36",
+    "sakstittel": "Søråsen etappe 4, fase 3 og 5_Grav skolevei",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Grav skolevei, Grav skolevei, Bjerkelundsveien, Bjerkelundsveien, Grav skolevei, Bjerkelundsveien, Hosleveien",
+    "entreprenor": "Arne Olav Lund A/S",
+    "start": "24.03.2025",
+    "slutt": "31.07.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/506275",
+    "status": "pågår",
+    "scraped_date": "2026-04-14T15:31:58.581705"
+  }
+]
