@@ -106,9 +106,9 @@ def fetch_page(page: int) -> list[dict]:
     soup = BeautifulSoup(resp.text, "html.parser")
     rows = []
 
-    for tr in soup.select("table tbody tr"):
+    for tr in soup.select("table tr"):
         cells = tr.select("td")
-        if len(cells) < 6:
+        if len(cells) < 6:  # Hopp over header-rader (th) og tomme rader
             continue
 
         # Prøv å hente lenke til detalj-side
@@ -133,7 +133,8 @@ def fetch_page(page: int) -> list[dict]:
 
 def get_total_pages(soup_page1: BeautifulSoup) -> int:
     """Les totalt antall sider fra pagineringslenker."""
-    links = soup_page1.select(".pagination a, ul.pagination li a")
+    # Siden bruker .paginate-buttons, ikke .pagination
+    links = soup_page1.select(".paginate-buttons a")
     max_page = 1
     for a in links:
         try:
