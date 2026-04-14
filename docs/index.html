@@ -1,0 +1,458 @@
+<!DOCTYPE html>
+<html lang="nb">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Gravesaker Eiksmarka – Bærum kommune</title>
+
+  <!-- Leaflet -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+
+  <style>
+    /* ── Reset & base ─────────────────────────────────────────────────── */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg: #f4f5f7;
+      --surface: #ffffff;
+      --border: #dde1e7;
+      --text: #1a1d23;
+      --muted: #6b7280;
+      --accent: #1d4ed8;
+      --green: #16a34a;
+      --orange: #ea580c;
+      --blue: #2563eb;
+      --gray: #9ca3af;
+      --red: #dc2626;
+      --radius: 10px;
+      --shadow: 0 1px 4px rgba(0,0,0,.08), 0 4px 16px rgba(0,0,0,.06);
+    }
+
+    html, body { height: 100%; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; background: var(--bg); color: var(--text); }
+
+    /* ── Layout ───────────────────────────────────────────────────────── */
+    .app { display: grid; grid-template-rows: 60px 1fr; height: 100vh; }
+
+    header {
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+      display: flex;
+      align-items: center;
+      padding: 0 20px;
+      gap: 16px;
+      box-shadow: 0 1px 3px rgba(0,0,0,.06);
+      z-index: 100;
+    }
+    header h1 { font-size: 16px; font-weight: 700; letter-spacing: -.3px; }
+    header .subtitle { font-size: 13px; color: var(--muted); }
+    header .spacer { flex: 1; }
+    header .last-updated { font-size: 12px; color: var(--muted); }
+    .logo { width: 28px; height: 28px; background: var(--accent); border-radius: 6px; display: flex; align-items: center; justify-content: center; color: #fff; font-size: 14px; flex-shrink: 0; }
+
+    .main { display: grid; grid-template-columns: 360px 1fr; overflow: hidden; }
+
+    /* ── Sidebar ──────────────────────────────────────────────────────── */
+    .sidebar {
+      background: var(--surface);
+      border-right: 1px solid var(--border);
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+    }
+
+    .stats-row {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 0;
+      border-bottom: 1px solid var(--border);
+    }
+    .stat {
+      padding: 12px 10px;
+      text-align: center;
+      border-right: 1px solid var(--border);
+    }
+    .stat:last-child { border-right: none; }
+    .stat .val { font-size: 22px; font-weight: 800; line-height: 1; }
+    .stat .lbl { font-size: 11px; color: var(--muted); margin-top: 3px; text-transform: uppercase; letter-spacing: .4px; }
+    .stat.pagaar .val { color: var(--red); }
+    .stat.planlagt .val { color: var(--blue); }
+    .stat.avsluttet .val { color: var(--gray); }
+
+    .filter-bar {
+      padding: 10px 12px;
+      border-bottom: 1px solid var(--border);
+      display: flex;
+      gap: 6px;
+      flex-wrap: wrap;
+      align-items: center;
+    }
+    .filter-bar input {
+      flex: 1;
+      min-width: 120px;
+      padding: 6px 10px;
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      font-size: 13px;
+      outline: none;
+    }
+    .filter-bar input:focus { border-color: var(--accent); }
+    .chip {
+      padding: 4px 10px;
+      border-radius: 20px;
+      border: 1px solid var(--border);
+      font-size: 12px;
+      cursor: pointer;
+      background: var(--bg);
+      transition: background .15s, border-color .15s;
+      white-space: nowrap;
+    }
+    .chip.active { background: var(--accent); color: #fff; border-color: var(--accent); }
+    .chip[data-status="pågår"].active { background: var(--red); border-color: var(--red); }
+    .chip[data-status="planlagt"].active { background: var(--blue); border-color: var(--blue); }
+    .chip[data-status="avsluttet"].active { background: var(--gray); border-color: var(--gray); }
+
+    .cases-list { flex: 1; overflow-y: auto; }
+    .case-item {
+      padding: 12px 14px;
+      border-bottom: 1px solid var(--border);
+      cursor: pointer;
+      transition: background .1s;
+    }
+    .case-item:hover { background: #f8f9fb; }
+    .case-item.selected { background: #eff6ff; border-left: 3px solid var(--accent); }
+    .case-header { display: flex; justify-content: space-between; align-items: flex-start; gap: 8px; }
+    .case-id { font-size: 11px; color: var(--muted); font-family: monospace; }
+    .case-badge {
+      font-size: 10px;
+      padding: 2px 7px;
+      border-radius: 10px;
+      font-weight: 600;
+      flex-shrink: 0;
+      text-transform: uppercase;
+      letter-spacing: .3px;
+    }
+    .badge-pågår { background: #fee2e2; color: #991b1b; }
+    .badge-planlagt { background: #dbeafe; color: #1e40af; }
+    .badge-avsluttet { background: #f3f4f6; color: #4b5563; }
+    .badge-ukjent { background: #fef9c3; color: #92400e; }
+    .case-title { font-size: 13px; font-weight: 600; margin-top: 4px; line-height: 1.3; }
+    .case-meta { font-size: 12px; color: var(--muted); margin-top: 3px; display: flex; gap: 10px; flex-wrap: wrap; }
+    .case-meta span::before { margin-right: 3px; }
+
+    .no-results { padding: 40px 20px; text-align: center; color: var(--muted); font-size: 14px; }
+
+    /* ── Map ──────────────────────────────────────────────────────────── */
+    #map { width: 100%; height: 100%; }
+
+    /* ── Leaflet popup ────────────────────────────────────────────────── */
+    .popup-box { min-width: 240px; font-size: 13px; line-height: 1.5; }
+    .popup-box h3 { font-size: 14px; font-weight: 700; margin-bottom: 6px; }
+    .popup-box .popup-grid { display: grid; grid-template-columns: 100px 1fr; gap: 2px 8px; }
+    .popup-box .pk { color: var(--muted); font-size: 12px; }
+    .popup-box .pv { font-size: 12px; }
+    .popup-box a { color: var(--accent); font-size: 12px; display: inline-block; margin-top: 6px; }
+
+    /* ── Map legend ───────────────────────────────────────────────────── */
+    .legend {
+      background: white;
+      padding: 10px 14px;
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      font-size: 12px;
+      line-height: 1.8;
+    }
+    .legend-title { font-weight: 700; margin-bottom: 4px; font-size: 13px; }
+    .dot { display: inline-block; width: 10px; height: 10px; border-radius: 50%; margin-right: 6px; vertical-align: middle; }
+
+    /* ── Responsive ───────────────────────────────────────────────────── */
+    @media (max-width: 700px) {
+      .main { grid-template-columns: 1fr; grid-template-rows: 45vh 1fr; }
+      .sidebar { border-right: none; border-top: 1px solid var(--border); order: 2; }
+      #map { order: 1; }
+    }
+  </style>
+</head>
+<body>
+
+<div class="app">
+  <!-- ── Header ──────────────────────────────────────────────────────── -->
+  <header>
+    <div class="logo">🕳</div>
+    <div>
+      <h1>Gravesaker Eiksmarka</h1>
+      <div class="subtitle">Bærum kommune · Automatisk overvåking</div>
+    </div>
+    <div class="spacer"></div>
+    <div class="last-updated" id="lastUpdated">Laster…</div>
+  </header>
+
+  <div class="main">
+    <!-- ── Sidebar ───────────────────────────────────────────────────── -->
+    <aside class="sidebar">
+      <!-- Statistikk -->
+      <div class="stats-row">
+        <div class="stat pagaar">
+          <div class="val" id="countPagar">–</div>
+          <div class="lbl">Pågår</div>
+        </div>
+        <div class="stat planlagt">
+          <div class="val" id="countPlanlagt">–</div>
+          <div class="lbl">Planlagt</div>
+        </div>
+        <div class="stat avsluttet">
+          <div class="val" id="countAvsluttet">–</div>
+          <div class="lbl">Avsluttet</div>
+        </div>
+      </div>
+
+      <!-- Filterkontroller -->
+      <div class="filter-bar">
+        <input type="text" id="searchInput" placeholder="🔍  Søk gate / tittel…" />
+        <button class="chip active" data-status="alle">Alle</button>
+        <button class="chip" data-status="pågår">Pågår</button>
+        <button class="chip" data-status="planlagt">Planlagt</button>
+        <button class="chip" data-status="avsluttet">Avsluttet</button>
+      </div>
+
+      <!-- Saksliste -->
+      <div class="cases-list" id="casesList"></div>
+    </aside>
+
+    <!-- ── Kart ───────────────────────────────────────────────────────── -->
+    <div id="map"></div>
+  </div>
+</div>
+
+<script>
+// ── Data & state ─────────────────────────────────────────────────────────────
+let ALL_CASES = [];
+let filtered = [];
+let activeFilter = 'alle';
+let searchQuery = '';
+let selectedId = null;
+let markers = {};
+
+// ── Kart-oppsett ──────────────────────────────────────────────────────────────
+const map = L.map('map', {
+  center: [59.935, 10.527],
+  zoom: 14,
+  zoomControl: true
+});
+
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+  attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+  maxZoom: 19
+}).addTo(map);
+
+// Legg til forklaring
+const legend = L.control({ position: 'bottomright' });
+legend.onAdd = () => {
+  const div = L.DomUtil.create('div', 'legend');
+  div.innerHTML = `
+    <div class="legend-title">Forklaring</div>
+    <div><span class="dot" style="background:#dc2626"></span> Pågår</div>
+    <div><span class="dot" style="background:#2563eb"></span> Planlagt</div>
+    <div><span class="dot" style="background:#9ca3af"></span> Avsluttet</div>
+  `;
+  return div;
+};
+legend.addTo(map);
+
+// ── Farger per status ─────────────────────────────────────────────────────────
+const COLORS = {
+  'pågår':     '#dc2626',
+  'planlagt':  '#2563eb',
+  'avsluttet': '#9ca3af',
+  'ukjent':    '#f59e0b',
+};
+
+function makeIcon(status) {
+  const color = COLORS[status] || '#6b7280';
+  return L.divIcon({
+    className: '',
+    html: `<div style="
+      width:14px;height:14px;border-radius:50%;
+      background:${color};border:2.5px solid white;
+      box-shadow:0 1px 4px rgba(0,0,0,.4);
+    "></div>`,
+    iconSize: [14, 14],
+    iconAnchor: [7, 7],
+    popupAnchor: [0, -10],
+  });
+}
+
+// ── Popup-innhold ─────────────────────────────────────────────────────────────
+function makePopupHtml(c) {
+  const badgeClass = `badge-${c.status || 'ukjent'}`;
+  const kildeLenke = c.kilde_url
+    ? `<a href="${c.kilde_url}" target="_blank" rel="noopener">Åpne søknad ↗</a>`
+    : '';
+  return `
+    <div class="popup-box">
+      <h3>${c.sakstittel || c.id}</h3>
+      <div class="popup-grid">
+        <span class="pk">Søknad</span>  <span class="pv">${c.id}</span>
+        <span class="pk">Gate</span>    <span class="pv">${c.veinavn || '–'}</span>
+        <span class="pk">Type</span>    <span class="pv">${c.arbeidstype || '–'}</span>
+        <span class="pk">Entreprenør</span><span class="pv">${c.entreprenor || '–'}</span>
+        <span class="pk">Start</span>   <span class="pv">${c.start || '–'}</span>
+        <span class="pk">Slutt</span>   <span class="pv">${c.slutt || '–'}</span>
+        <span class="pk">Status</span>  <span class="pv"><span class="case-badge ${badgeClass}">${c.status || 'ukjent'}</span></span>
+      </div>
+      ${kildeLenke}
+    </div>`;
+}
+
+// ── Tegn markører ─────────────────────────────────────────────────────────────
+function renderMarkers(cases) {
+  // Fjern alle eksisterende
+  Object.values(markers).forEach(m => map.removeLayer(m));
+  markers = {};
+
+  cases.forEach(c => {
+    if (!c.lat || !c.lon) return;
+    const m = L.marker([c.lat, c.lon], { icon: makeIcon(c.status) })
+      .addTo(map)
+      .bindPopup(makePopupHtml(c), { maxWidth: 320 });
+
+    m.on('click', () => selectCase(c.id));
+    markers[c.id] = m;
+  });
+}
+
+// ── Saksliste ─────────────────────────────────────────────────────────────────
+function renderList(cases) {
+  const el = document.getElementById('casesList');
+  if (cases.length === 0) {
+    el.innerHTML = '<div class="no-results">Ingen saker funnet</div>';
+    return;
+  }
+  el.innerHTML = cases.map(c => {
+    const badgeClass = `badge-${c.status || 'ukjent'}`;
+    const selected = c.id === selectedId ? ' selected' : '';
+    return `
+      <div class="case-item${selected}" data-id="${c.id}" onclick="selectCase('${c.id}')">
+        <div class="case-header">
+          <span class="case-id">${c.id}</span>
+          <span class="case-badge ${badgeClass}">${c.status || 'ukjent'}</span>
+        </div>
+        <div class="case-title">${c.sakstittel || '(ingen tittel)'}</div>
+        <div class="case-meta">
+          <span>📍 ${c.veinavn || '–'}</span>
+          <span>📅 ${c.start || '?'} → ${c.slutt || '?'}</span>
+        </div>
+      </div>`;
+  }).join('');
+}
+
+// ── Statistikk ────────────────────────────────────────────────────────────────
+function updateStats(cases) {
+  document.getElementById('countPagar').textContent =
+    cases.filter(c => c.status === 'pågår').length;
+  document.getElementById('countPlanlagt').textContent =
+    cases.filter(c => c.status === 'planlagt').length;
+  document.getElementById('countAvsluttet').textContent =
+    cases.filter(c => c.status === 'avsluttet').length;
+}
+
+// ── Filtrering ────────────────────────────────────────────────────────────────
+function applyFilters() {
+  filtered = ALL_CASES.filter(c => {
+    const matchStatus = activeFilter === 'alle' || c.status === activeFilter;
+    const q = searchQuery.toLowerCase();
+    const matchSearch = !q ||
+      (c.sakstittel || '').toLowerCase().includes(q) ||
+      (c.veinavn || '').toLowerCase().includes(q) ||
+      (c.id || '').toLowerCase().includes(q) ||
+      (c.entreprenor || '').toLowerCase().includes(q);
+    return matchStatus && matchSearch;
+  });
+
+  renderList(filtered);
+  renderMarkers(filtered);
+  updateStats(ALL_CASES);   // statistikk på tvers av alle filter
+}
+
+// ── Velg en sak ───────────────────────────────────────────────────────────────
+function selectCase(id) {
+  selectedId = id;
+  const c = ALL_CASES.find(x => x.id === id);
+  if (!c) return;
+
+  // Oppdater liste
+  document.querySelectorAll('.case-item').forEach(el => {
+    el.classList.toggle('selected', el.dataset.id === id);
+  });
+
+  // Scroll til valgt element
+  const el = document.querySelector(`.case-item[data-id="${id}"]`);
+  if (el) el.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+
+  // Åpne popup på kart
+  if (markers[id]) {
+    map.setView([c.lat, c.lon], Math.max(map.getZoom(), 16), { animate: true });
+    markers[id].openPopup();
+  }
+}
+
+// ── Filter-chips ──────────────────────────────────────────────────────────────
+document.querySelectorAll('.chip').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.chip').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    activeFilter = btn.dataset.status;
+    applyFilters();
+  });
+});
+
+document.getElementById('searchInput').addEventListener('input', e => {
+  searchQuery = e.target.value;
+  applyFilters();
+});
+
+// ── Last data ─────────────────────────────────────────────────────────────────
+async function loadData() {
+  try {
+    const resp = await fetch('data/gravesaker.json?_=' + Date.now());
+    if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+    ALL_CASES = await resp.json();
+
+    // Siste oppdatering
+    const dates = ALL_CASES
+      .map(c => c.scraped_date)
+      .filter(Boolean)
+      .sort();
+    if (dates.length) {
+      const d = new Date(dates[dates.length - 1]);
+      document.getElementById('lastUpdated').textContent =
+        'Sist oppdatert: ' + d.toLocaleDateString('nb-NO', { day: 'numeric', month: 'long', year: 'numeric' });
+    } else {
+      document.getElementById('lastUpdated').textContent = '';
+    }
+
+    applyFilters();
+
+    // Tilpass kartvisning til markørene
+    const withCoords = ALL_CASES.filter(c => c.lat && c.lon);
+    if (withCoords.length) {
+      const bounds = L.latLngBounds(withCoords.map(c => [c.lat, c.lon]));
+      map.fitBounds(bounds.pad(0.15));
+    }
+
+  } catch (err) {
+    console.error('Kunne ikke laste data:', err);
+    document.getElementById('casesList').innerHTML =
+      `<div class="no-results">
+        ⚠️ Kunne ikke laste data.<br><br>
+        Kontroller at <code>data/gravesaker.json</code> finnes<br>
+        og at GitHub Pages er aktivert.
+      </div>`;
+    document.getElementById('lastUpdated').textContent = 'Data ikke tilgjengelig';
+  }
+}
+
+loadData();
+</script>
+</body>
+</html>
