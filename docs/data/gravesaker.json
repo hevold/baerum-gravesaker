@@ -956,6 +956,34 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "26/117",
+    "sakstittel": "Glassverkveien 9",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Glassverkveien",
+    "entreprenor": "HEGNA TRANSPORT AS",
+    "start": "15.04.2026",
+    "slutt": "19.06.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/534524",
+    "lat": 59.8960086,
+    "lon": 10.5694367,
+    "status": "pågår",
+    "scraped_date": "2026-04-15T05:41:21.949948"
+  },
+  {
+    "id": "26/115",
+    "sakstittel": "Claude Monets alle 22, Bærum",
+    "arbeidstype": "Arbeidstillatelse",
+    "veinavn": "Claude Monets alle",
+    "entreprenor": "TRANSPORTSENTRALEN LILLESTRØM SA",
+    "start": "15.04.2026",
+    "slutt": "15.04.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/534385",
+    "lat": 59.8912736,
+    "lon": 10.5217795,
+    "status": "pågår",
+    "scraped_date": "2026-04-15T05:41:21.949948"
+  },
+  {
     "id": "26/114",
     "sakstittel": "Vallerveien fresing og reasfaltering",
     "arbeidstype": "Gravearbeid",
