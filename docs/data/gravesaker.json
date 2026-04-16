@@ -942,6 +942,20 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "26/123",
+    "sakstittel": "Hovedvei, 3064 Storøya kunstgressbane",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Forneburingen",
+    "entreprenor": "KJELDAAS AS",
+    "start": "13.04.2026",
+    "slutt": "30.06.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/534663",
+    "lat": 59.8986643,
+    "lon": 10.6105394,
+    "status": "pågår",
+    "scraped_date": "2026-04-16T05:43:55.938250"
+  },
+  {
     "id": "26/12",
     "sakstittel": "Tanumveien",
     "arbeidstype": "Gravearbeid",
@@ -2512,6 +2526,20 @@
     "lon": 10.620796,
     "status": "pågår",
     "scraped_date": "2026-04-14T15:41:55.877016"
+  },
+  {
+    "id": "25/407",
+    "sakstittel": "445 - 1001146 Velliveien m.fl – rehabilitering VL - provann Øvrevollveien #1",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Øvrevollveien, Øvrevollveien",
+    "entreprenor": "ARILD KOLSTAD A/S",
+    "start": "28.08.2025",
+    "slutt": "01.05.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/520446",
+    "lat": 59.9352361,
+    "lon": 10.6189918,
+    "status": "pågår",
+    "scraped_date": "2026-04-16T05:43:55.938250"
   },
   {
     "id": "25/401",
