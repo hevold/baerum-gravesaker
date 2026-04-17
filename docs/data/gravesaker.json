@@ -970,6 +970,20 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "26/118",
+    "sakstittel": "Bærumsveien (Gjønnes T)",
+    "arbeidstype": "Arbeidstillatelse",
+    "veinavn": "Bærumsveien",
+    "entreprenor": "RUTER AS",
+    "start": "17.04.2026",
+    "slutt": "30.04.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/534582",
+    "lat": 59.9102216,
+    "lon": 10.5468996,
+    "status": "pågår",
+    "scraped_date": "2026-04-17T05:43:06.731702"
+  },
+  {
     "id": "26/117",
     "sakstittel": "Glassverkveien 9",
     "arbeidstype": "Gravearbeid",
