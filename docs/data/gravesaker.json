@@ -528,6 +528,20 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "26/50",
+    "sakstittel": "Bankveien 20 - stolpeskift",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Bankveien",
+    "entreprenor": "LIER GRAVING OG TRANSPORT AS",
+    "start": "20.04.2026",
+    "slutt": "01.05.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/532171",
+    "lat": 59.9302855,
+    "lon": 10.5935767,
+    "status": "pågår",
+    "scraped_date": "2026-04-20T05:51:55.282936"
+  },
+  {
     "id": "26/49",
     "sakstittel": "Kabelfeil HS. Horniveien 106, Bærum",
     "arbeidstype": "Gravearbeid",
