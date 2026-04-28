@@ -942,6 +942,20 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "26/137",
+    "sakstittel": "Oreligrenda",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Oreligrenda",
+    "entreprenor": "GJ ENTREPRENØR AS",
+    "start": "28.04.2026",
+    "slutt": "07.05.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/535572",
+    "lat": 59.929018,
+    "lon": 10.6164777,
+    "status": "pågår",
+    "scraped_date": "2026-04-28T06:00:42.045177"
+  },
+  {
     "id": "26/133",
     "sakstittel": "Tømmerdrift  KV 1066 Dælimosen",
     "arbeidstype": "Arbeidstillatelse",
@@ -952,6 +966,20 @@
     "kilde_url": "https://baerum.gravearbeider.no/soknad/view/535373",
     "status": "pågår",
     "scraped_date": "2026-04-23T05:44:29.671686"
+  },
+  {
+    "id": "26/132",
+    "sakstittel": "Fasade og vindusvask av bygning.",
+    "arbeidstype": "Arbeidstillatelse",
+    "veinavn": "Claude Monets alle",
+    "entreprenor": "DRAMMEN LIFTUTLEIE AS",
+    "start": "22.04.2026",
+    "slutt": "30.04.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/535367",
+    "lat": 59.8894873,
+    "lon": 10.5224724,
+    "status": "pågår",
+    "scraped_date": "2026-04-28T06:00:42.045177"
   },
   {
     "id": "26/13",
@@ -966,6 +994,20 @@
     "lon": 10.494463,
     "status": "pågår",
     "scraped_date": "2026-04-14T15:41:55.877016"
+  },
+  {
+    "id": "26/129",
+    "sakstittel": "Sollisvingen 11, Asker - Oppgraving for omskjøting av eksisterende kabel",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Solliveien",
+    "entreprenor": "INFRAENT AS",
+    "start": "28.04.2026",
+    "slutt": "12.05.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/534907",
+    "lat": 59.9135642,
+    "lon": 10.6324301,
+    "status": "pågår",
+    "scraped_date": "2026-04-28T06:00:42.045177"
   },
   {
     "id": "26/124",
