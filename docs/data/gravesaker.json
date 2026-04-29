@@ -982,6 +982,20 @@
     "scraped_date": "2026-04-28T06:00:42.045177"
   },
   {
+    "id": "26/131",
+    "sakstittel": "Brenneveien 66",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Brenneveien",
+    "entreprenor": "BERGET ENTREPRENØR AS",
+    "start": "28.04.2026",
+    "slutt": "09.05.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/535352",
+    "lat": 59.9148658,
+    "lon": 10.4743871,
+    "status": "pågår",
+    "scraped_date": "2026-04-29T05:59:11.469762"
+  },
+  {
     "id": "26/13",
     "sakstittel": "Emma hjort - stillas",
     "arbeidstype": "Arbeidstillatelse",
@@ -1316,6 +1330,20 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "25/7",
+    "sakstittel": "2534-102 Nedre Åsvei, Fjerning av høyspentmast",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Nedre Åsvei",
+    "entreprenor": "VEFLEN ENTREPRENØR AS",
+    "start": "27.01.2025",
+    "slutt": "15.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/505354",
+    "lat": 59.8868587,
+    "lon": 10.4926097,
+    "status": "pågår",
+    "scraped_date": "2026-04-29T05:59:11.469762"
+  },
+  {
     "id": "25/678",
     "sakstittel": "445 - Provann Almelien",
     "arbeidstype": "Gravearbeid",
@@ -1592,6 +1620,20 @@
     "lon": 10.5016505,
     "status": "pågår",
     "scraped_date": "2026-04-14T15:41:55.877016"
+  },
+  {
+    "id": "25/651",
+    "sakstittel": "Graving ved Magnus Paulsens vei",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Fornebuveien",
+    "entreprenor": "LAJE AS",
+    "start": "15.12.2025",
+    "slutt": "15.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/529746",
+    "lat": 59.9073476,
+    "lon": 10.6294167,
+    "status": "pågår",
+    "scraped_date": "2026-04-29T05:59:11.469762"
   },
   {
     "id": "25/650",
@@ -1928,6 +1970,20 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "25/6",
+    "sakstittel": "2534-102 Åssletta, Fjerning av høyspentmast",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Åssletta",
+    "entreprenor": "VEFLEN ENTREPRENØR AS",
+    "start": "27.01.2025",
+    "slutt": "15.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/505349",
+    "lat": 59.8870024,
+    "lon": 10.492331,
+    "status": "pågår",
+    "scraped_date": "2026-04-29T05:59:11.469762"
+  },
+  {
     "id": "25/599",
     "sakstittel": "Omr. Kolsås Heggelia krysset Toppåsveien og Heggelikroken  -  17001012 Viken Fiber",
     "arbeidstype": "Gravearbeid",
@@ -1940,6 +1996,20 @@
     "lon": 10.5187853,
     "status": "pågår",
     "scraped_date": "2026-04-14T15:41:55.877016"
+  },
+  {
+    "id": "25/598",
+    "sakstittel": "Hastesak! Løvenskiolds vei 7",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Løvenskiolds vei",
+    "entreprenor": "VEISKILTING AS",
+    "start": "10.11.2025",
+    "slutt": "15.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/527537",
+    "lat": 59.9215593,
+    "lon": 10.6182058,
+    "status": "pågår",
+    "scraped_date": "2026-04-29T05:59:11.469762"
   },
   {
     "id": "25/597",
@@ -2094,6 +2164,20 @@
     "lon": 10.5097749,
     "status": "pågår",
     "scraped_date": "2026-04-14T15:41:55.877016"
+  },
+  {
+    "id": "25/574",
+    "sakstittel": "Gjettumtunet",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Gjettumtunet",
+    "entreprenor": "VEISKILTING AS",
+    "start": "27.10.2025",
+    "slutt": "15.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/526264",
+    "lat": 59.9060648,
+    "lon": 10.5300807,
+    "status": "pågår",
+    "scraped_date": "2026-04-29T05:59:11.469762"
   },
   {
     "id": "25/569",
@@ -2278,6 +2362,20 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "25/551",
+    "sakstittel": "Hastesak! Staverhagen",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Staverhagan",
+    "entreprenor": "VEISKILTING AS",
+    "start": "16.10.2025",
+    "slutt": "15.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/525610",
+    "lat": 59.8797328,
+    "lon": 10.4743014,
+    "status": "pågår",
+    "scraped_date": "2026-04-29T05:59:11.469762"
+  },
+  {
     "id": "25/550",
     "sakstittel": "Omr. Fjellhamar Solegladveien 1-3 + ned til krysset Rødskifervn.  -  17001012 Viken Fiber",
     "arbeidstype": "Gravearbeid",
@@ -2428,6 +2526,34 @@
     "scraped_date": "2026-04-24T05:47:14.273864"
   },
   {
+    "id": "25/521",
+    "sakstittel": "Blommenholmveien",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Blommenholmveien, Oksehovedveien, Gnr/Bnr: 9/343, Gnr/Bnr: 9/344",
+    "entreprenor": "NORCONSULT BORETEKNIKK AS",
+    "start": "30.09.2025",
+    "slutt": "15.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/524472",
+    "lat": 59.9001595,
+    "lon": 10.5553429,
+    "status": "pågår",
+    "scraped_date": "2026-04-29T05:59:11.469762"
+  },
+  {
+    "id": "25/520",
+    "sakstittel": "hastesak! Slependveien 37",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Slependveien",
+    "entreprenor": "VEISKILTING AS",
+    "start": "01.10.2025",
+    "slutt": "15.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/524412",
+    "lat": 59.8840752,
+    "lon": 10.5021083,
+    "status": "pågår",
+    "scraped_date": "2026-04-29T05:59:11.469762"
+  },
+  {
     "id": "25/517",
     "sakstittel": "Ny asfaltert, Baker Hansen Gangvei",
     "arbeidstype": "Gravearbeid",
@@ -2524,6 +2650,18 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "25/50",
+    "sakstittel": "Stolpeskifte - Fritjof Nansens vei 4C",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Gnr/Bnr: 300/1096, Fridtjof Nansens vei",
+    "entreprenor": "KIM STEINSHOLT AS",
+    "start": "12.02.2025",
+    "slutt": "15.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/507216",
+    "status": "pågår",
+    "scraped_date": "2026-04-29T05:59:11.469762"
+  },
+  {
     "id": "25/49",
     "sakstittel": "Etablering av midlertidig inn/utkjøring for anlegget, og permanent inn/utkjøring",
     "arbeidstype": "Gravearbeid",
@@ -2550,6 +2688,20 @@
     "lon": 10.6229151,
     "status": "pågår",
     "scraped_date": "2026-04-14T15:41:55.877016"
+  },
+  {
+    "id": "25/48",
+    "sakstittel": "Øvrevollveien 81, graving for nytt FS skap",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Øvrevollveien",
+    "entreprenor": "NORDBØ MASKIN AS",
+    "start": "12.02.2025",
+    "slutt": "15.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/507179",
+    "lat": 59.9352361,
+    "lon": 10.6189918,
+    "status": "pågår",
+    "scraped_date": "2026-04-29T05:59:11.469762"
   },
   {
     "id": "25/478",
@@ -2622,6 +2774,34 @@
     "scraped_date": "2026-04-23T05:44:29.671686"
   },
   {
+    "id": "25/467",
+    "sakstittel": "Jernbaneveien 43",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Jernbaneveien",
+    "entreprenor": "VEISKILTING AS",
+    "start": "15.09.2025",
+    "slutt": "15.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/522284",
+    "lat": 59.9066554,
+    "lon": 10.6007897,
+    "status": "pågår",
+    "scraped_date": "2026-04-29T05:59:11.469762"
+  },
+  {
+    "id": "25/465",
+    "sakstittel": "Fossveien grunnboring",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Fossveien, Gnr/Bnr: 8/1652, Kirkeveien",
+    "entreprenor": "NORCONSULT BORETEKNIKK AS",
+    "start": "08.09.2025",
+    "slutt": "15.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/522255",
+    "lat": 59.908282,
+    "lon": 10.5618199,
+    "status": "pågår",
+    "scraped_date": "2026-04-29T05:59:11.469762"
+  },
+  {
     "id": "25/456",
     "sakstittel": "Bekkestuveien 1 - 3 og 9 - 23  -  100321 Viken Fiber",
     "arbeidstype": "Gravearbeid",
@@ -2648,6 +2828,20 @@
     "lon": 10.6090994,
     "status": "pågår",
     "scraped_date": "2026-04-14T15:41:55.877016"
+  },
+  {
+    "id": "25/437",
+    "sakstittel": "Hovedvei, Hastesak! Hosleveien 52",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Hosleveien",
+    "entreprenor": "VEISKILTING AS",
+    "start": "27.08.2025",
+    "slutt": "15.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/521216",
+    "lat": 59.925758,
+    "lon": 10.5773043,
+    "status": "pågår",
+    "scraped_date": "2026-04-29T05:59:11.469762"
   },
   {
     "id": "25/434",
@@ -2690,6 +2884,18 @@
     "lon": 10.5625048,
     "status": "pågår",
     "scraped_date": "2026-04-14T15:41:55.877016"
+  },
+  {
+    "id": "25/429",
+    "sakstittel": "Lomviveien ( Nr2 )",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Gnr/Bnr: 300/2541",
+    "entreprenor": "KAARE MORTENSEN AS",
+    "start": "27.08.2025",
+    "slutt": "15.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/520805",
+    "status": "pågår",
+    "scraped_date": "2026-04-29T05:59:11.469762"
   },
   {
     "id": "25/428",
@@ -3106,6 +3312,20 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "25/262",
+    "sakstittel": "Glitterudveien 31",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Glitterudveien",
+    "entreprenor": "VEISKILTING AS",
+    "start": "08.07.2025",
+    "slutt": "15.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/515896",
+    "lat": 59.9193071,
+    "lon": 10.5007947,
+    "status": "pågår",
+    "scraped_date": "2026-04-29T05:59:11.469762"
+  },
+  {
     "id": "25/242",
     "sakstittel": "Leif Tronstads plass",
     "arbeidstype": "Arbeidstillatelse",
@@ -3118,6 +3338,20 @@
     "lon": 10.5226379,
     "status": "pågår",
     "scraped_date": "2026-04-14T15:41:55.877016"
+  },
+  {
+    "id": "25/239",
+    "sakstittel": "Hovedvei, Hosleveien 52",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Hosleveien",
+    "entreprenor": "VEISKILTING AS",
+    "start": "02.06.2025",
+    "slutt": "15.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/513847",
+    "lat": 59.925758,
+    "lon": 10.5773043,
+    "status": "pågår",
+    "scraped_date": "2026-04-29T05:59:11.469762"
   },
   {
     "id": "25/237",
@@ -3258,6 +3492,34 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "25/20",
+    "sakstittel": "Hastesak! Ringstabekkveien 43B",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Ringstabekkveien",
+    "entreprenor": "VEISKILTING AS",
+    "start": "23.01.2025",
+    "slutt": "15.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/505959",
+    "lat": 59.9250564,
+    "lon": 10.6072977,
+    "status": "pågår",
+    "scraped_date": "2026-04-29T05:59:11.469762"
+  },
+  {
+    "id": "25/2",
+    "sakstittel": "Graving for utbedring av kloakk brudd/svanke",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Jegeråsen",
+    "entreprenor": "HTV ENTREPRENØR AS",
+    "start": "07.01.2025",
+    "slutt": "15.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/504972",
+    "lat": 59.9394267,
+    "lon": 10.5925667,
+    "status": "pågår",
+    "scraped_date": "2026-04-29T05:59:11.469762"
+  },
+  {
     "id": "25/197",
     "sakstittel": "Levreveien29",
     "arbeidstype": "Gravearbeid",
@@ -3298,6 +3560,20 @@
     "lon": 10.5364793,
     "status": "pågår",
     "scraped_date": "2026-04-14T15:41:55.877016"
+  },
+  {
+    "id": "25/173",
+    "sakstittel": "Stasjonsveien - Grunnundersøkelser",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Stasjonsveien",
+    "entreprenor": "NORCONSULT BORETEKNIKK AS",
+    "start": "31.03.2025",
+    "slutt": "15.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/510298",
+    "lat": 59.8959645,
+    "lon": 10.5515637,
+    "status": "pågår",
+    "scraped_date": "2026-04-29T05:59:11.469762"
   },
   {
     "id": "25/171",
@@ -3368,6 +3644,20 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "25/109",
+    "sakstittel": "Grunnundersøkelser, dykkerledning - Bærum",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Ringeriksveien, brenneveien, Holmaveien",
+    "entreprenor": "NORCONSULT BORETEKNIKK AS",
+    "start": "11.03.2025",
+    "slutt": "15.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/508776",
+    "lat": 59.8947641,
+    "lon": 10.5100601,
+    "status": "pågår",
+    "scraped_date": "2026-04-29T05:59:11.469762"
+  },
+  {
     "id": "25/1",
     "sakstittel": "Hauger skolevei 15",
     "arbeidstype": "Gravearbeid",
@@ -3380,6 +3670,18 @@
     "lon": 10.5007965,
     "status": "pågår",
     "scraped_date": "2026-04-14T15:41:55.877016"
+  },
+  {
+    "id": "24/79",
+    "sakstittel": "353 Kirkedalsveien - stenge Kirkedalsveien",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Kirkedalsveinen",
+    "entreprenor": "KAARE MORTENSEN OSLO/AKERSHUS AS",
+    "start": "29.02.2024",
+    "slutt": "15.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/475158",
+    "status": "pågår",
+    "scraped_date": "2026-04-29T05:59:11.469762"
   },
   {
     "id": "24/76",
@@ -3422,6 +3724,20 @@
     "lon": 10.5957444,
     "status": "pågår",
     "scraped_date": "2026-04-14T15:41:55.877016"
+  },
+  {
+    "id": "24/613",
+    "sakstittel": "EL Stikkledning Tjernsrudveien 47",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Tjernsrudveien",
+    "entreprenor": "KIM STEINSHOLT AS",
+    "start": "17.12.2024",
+    "slutt": "15.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/504409",
+    "lat": 59.9166734,
+    "lon": 10.6039268,
+    "status": "pågår",
+    "scraped_date": "2026-04-29T05:59:11.469762"
   },
   {
     "id": "24/612",
@@ -3502,6 +3818,20 @@
     "lon": 10.5837202,
     "status": "pågår",
     "scraped_date": "2026-04-14T15:41:55.877016"
+  },
+  {
+    "id": "24/58",
+    "sakstittel": "Hovedvei Nansenløkka, Etablering av permanent inn/utkjørsel fra eiendom",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Nansenløkka",
+    "entreprenor": "FIRING & THORSEN AS",
+    "start": "01.03.2024",
+    "slutt": "15.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/474682",
+    "lat": 59.894315,
+    "lon": 10.6167954,
+    "status": "pågår",
+    "scraped_date": "2026-04-29T05:59:11.469762"
   },
   {
     "id": "24/570",
@@ -3714,6 +4044,62 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "24/48",
+    "sakstittel": "Hovedvei Nansenløkka, Etablering av permanent inn/utkjørsel fra eiendom",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Nansenløkka",
+    "entreprenor": "FIRING & THORSEN AS",
+    "start": "15.02.2024",
+    "slutt": "15.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/474156",
+    "lat": 59.894315,
+    "lon": 10.6167954,
+    "status": "pågår",
+    "scraped_date": "2026-04-29T05:59:11.469762"
+  },
+  {
+    "id": "24/47",
+    "sakstittel": "Sandtakveien ny asfaltert vei",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Tveterveien",
+    "entreprenor": "HERMANSEN MASKIN AS",
+    "start": "21.02.2024",
+    "slutt": "15.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/474138",
+    "lat": 59.9184004,
+    "lon": 10.5695839,
+    "status": "pågår",
+    "scraped_date": "2026-04-29T05:59:11.469762"
+  },
+  {
+    "id": "24/469",
+    "sakstittel": "Skytterdalen - Graving for utskifting av kum midt i veibanen",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Skytterdalen",
+    "entreprenor": "ELTEL NETWORKS AS",
+    "start": "30.09.2024",
+    "slutt": "15.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/495632",
+    "lat": 59.8972111,
+    "lon": 10.5246556,
+    "status": "pågår",
+    "scraped_date": "2026-04-29T05:59:11.469762"
+  },
+  {
+    "id": "24/449",
+    "sakstittel": "skytterdalen 5",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Skytterdalen",
+    "entreprenor": "ØSTLANDSKE ELEKTRO-MEKANISKE AS",
+    "start": "30.10.2024",
+    "slutt": "15.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/494703",
+    "lat": 59.8972111,
+    "lon": 10.5246556,
+    "status": "pågår",
+    "scraped_date": "2026-04-29T05:59:11.469762"
+  },
+  {
     "id": "24/446",
     "sakstittel": "Generell tillatelse, Generelt Vedtak for Bærum kommune",
     "arbeidstype": "Arbeidstillatelse",
@@ -3822,6 +4208,20 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "24/396",
+    "sakstittel": "Bekkestua Bibliotek Fjernvarme",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Gamle Ringeriksvei",
+    "entreprenor": "ENVIRO ENTREPRENØR AS",
+    "start": "05.09.2024",
+    "slutt": "15.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/491474",
+    "lat": 59.9197548,
+    "lon": 10.5785149,
+    "status": "pågår",
+    "scraped_date": "2026-04-29T05:59:11.469762"
+  },
+  {
     "id": "24/374",
     "sakstittel": "Kv 2149 Gjønnesjordet m.fl. - Stenge parkeringsplass - KLB",
     "arbeidstype": "Gravearbeid",
@@ -3864,6 +4264,20 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "24/338",
+    "sakstittel": "Vallerkroken 14 - brudd VA",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Vallerkroken",
+    "entreprenor": "ENVIRO ENTREPRENØR AS",
+    "start": "08.07.2024",
+    "slutt": "15.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/487896",
+    "lat": 59.9115465,
+    "lon": 10.542055,
+    "status": "pågår",
+    "scraped_date": "2026-04-29T05:59:11.469762"
+  },
+  {
     "id": "24/328",
     "sakstittel": "Jarhuset",
     "arbeidstype": "Gravearbeid",
@@ -3890,6 +4304,20 @@
     "lon": 10.4901574,
     "status": "pågår",
     "scraped_date": "2026-04-14T15:41:55.877016"
+  },
+  {
+    "id": "24/319",
+    "sakstittel": "Skaujordveien 11b, Bekkestua",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Skaujordveien",
+    "entreprenor": "TOPAAS OG HAUG AS ENTREPRENØRFORRETNING",
+    "start": "25.06.2024",
+    "slutt": "15.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/486798",
+    "lat": 59.9220998,
+    "lon": 10.5890627,
+    "status": "pågår",
+    "scraped_date": "2026-04-29T05:59:11.469762"
   },
   {
     "id": "24/312",
@@ -3974,6 +4402,20 @@
     "lon": 10.6105394,
     "status": "pågår",
     "scraped_date": "2026-04-14T15:41:55.877016"
+  },
+  {
+    "id": "24/270",
+    "sakstittel": "Hovedvei, Etablering av midlertidig inn/utkjøring for anlegget",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Tornsangerveien",
+    "entreprenor": "FIRING & THORSEN AS",
+    "start": "10.06.2024",
+    "slutt": "15.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/483885",
+    "lat": 59.8963291,
+    "lon": 10.6048666,
+    "status": "pågår",
+    "scraped_date": "2026-04-29T05:59:11.469762"
   },
   {
     "id": "24/27",
@@ -4088,6 +4530,20 @@
     "scraped_date": "2026-04-24T05:47:14.273864"
   },
   {
+    "id": "24/100",
+    "sakstittel": "Hovedvei og Ny asfaltert, Niels Leuchs vei",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Niels Leuchs vei",
+    "entreprenor": "UREIST AS",
+    "start": "02.04.2024",
+    "slutt": "15.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/476571",
+    "lat": 59.9454651,
+    "lon": 10.6118226,
+    "status": "pågår",
+    "scraped_date": "2026-04-29T05:59:11.469762"
+  },
+  {
     "id": "23/69",
     "sakstittel": "2313 Jongsåsveien 49, Sandvika",
     "arbeidstype": "Gravearbeid",
@@ -4184,6 +4640,20 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "23/487",
+    "sakstittel": "Hoslegata",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Hoslegata",
+    "entreprenor": "LIER GRAVING OG TRANSPORT AS",
+    "start": "22.11.2023",
+    "slutt": "15.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/466189",
+    "lat": 59.9284009,
+    "lon": 10.573036,
+    "status": "pågår",
+    "scraped_date": "2026-04-29T05:59:11.469762"
+  },
+  {
     "id": "23/467",
     "sakstittel": "Erik Werenskiolds vei",
     "arbeidstype": "Gravearbeid",
@@ -4252,6 +4722,20 @@
     "lon": 10.6206206,
     "status": "pågår",
     "scraped_date": "2026-04-24T05:47:14.273864"
+  },
+  {
+    "id": "23/319",
+    "sakstittel": "Ny asfaltert vei Stikkledninger for ny enebolig Flatveien 1A",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Flatveien",
+    "entreprenor": "ØSTLANDS ENTREPRENØREN AS",
+    "start": "18.08.2023",
+    "slutt": "15.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/456836",
+    "lat": 59.9296994,
+    "lon": 10.6187826,
+    "status": "pågår",
+    "scraped_date": "2026-04-29T05:59:11.469762"
   },
   {
     "id": "23/256",
