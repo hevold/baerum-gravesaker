@@ -956,6 +956,20 @@
     "scraped_date": "2026-04-28T06:00:42.045177"
   },
   {
+    "id": "26/135",
+    "sakstittel": "Netel Kongshavn",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Kongshavn",
+    "entreprenor": "OMMEDAL MASKIN AS",
+    "start": "27.04.2026",
+    "slutt": "08.05.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/535470",
+    "lat": 59.8781699,
+    "lon": 10.6099691,
+    "status": "pågår",
+    "scraped_date": "2026-04-30T06:00:20.406784"
+  },
+  {
     "id": "26/133",
     "sakstittel": "Tømmerdrift  KV 1066 Dælimosen",
     "arbeidstype": "Arbeidstillatelse",
@@ -996,6 +1010,20 @@
     "scraped_date": "2026-04-29T05:59:11.469762"
   },
   {
+    "id": "26/130",
+    "sakstittel": "Ny asfaltert, Emma hjorths vei",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Emma Hjorths vei",
+    "entreprenor": "KIM STEINSHOLT AS",
+    "start": "23.04.2026",
+    "slutt": "29.05.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/535289",
+    "lat": 59.8967013,
+    "lon": 10.4942158,
+    "status": "pågår",
+    "scraped_date": "2026-04-30T06:00:20.406784"
+  },
+  {
     "id": "26/13",
     "sakstittel": "Emma hjort - stillas",
     "arbeidstype": "Arbeidstillatelse",
@@ -1022,6 +1050,20 @@
     "lon": 10.6324301,
     "status": "pågår",
     "scraped_date": "2026-04-28T06:00:42.045177"
+  },
+  {
+    "id": "26/126",
+    "sakstittel": "Ny asfaltert, Øygardveien 21 _ Vannlekkasje",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Øygardveien",
+    "entreprenor": "BÆRUM KOMMUNE",
+    "start": "09.04.2026",
+    "slutt": "29.05.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/534735",
+    "lat": 59.928022,
+    "lon": 10.5890773,
+    "status": "pågår",
+    "scraped_date": "2026-04-30T06:00:20.406784"
   },
   {
     "id": "26/124",
