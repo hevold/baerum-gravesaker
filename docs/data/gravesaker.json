@@ -942,6 +942,48 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "26/143",
+    "sakstittel": "Trykktesting i grunn .",
+    "arbeidstype": "Arbeidstillatelse",
+    "veinavn": "Fornebuveien",
+    "entreprenor": "DRIIV VEI AS",
+    "start": "04.05.2026",
+    "slutt": "15.05.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/535762",
+    "lat": 59.9034434,
+    "lon": 10.6298663,
+    "status": "pågår",
+    "scraped_date": "2026-05-04T06:01:33.604339"
+  },
+  {
+    "id": "26/140",
+    "sakstittel": "Hovedvei, Consto, Vannledning - Rolfsbuktveien",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Rolfsbuktveien",
+    "entreprenor": "CONSTO ANLEGG ØST AS",
+    "start": "04.05.2026",
+    "slutt": "15.05.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/535694",
+    "lat": 59.892671,
+    "lon": 10.6294044,
+    "status": "pågår",
+    "scraped_date": "2026-05-04T06:01:33.604339"
+  },
+  {
+    "id": "26/138",
+    "sakstittel": "Vallerveien 146 - Heising av Sedum",
+    "arbeidstype": "Arbeidstillatelse",
+    "veinavn": "Vallerveien",
+    "entreprenor": "BUNDEBYGG AS",
+    "start": "04.05.2026",
+    "slutt": "07.05.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/535591",
+    "lat": 59.9087059,
+    "lon": 10.5348792,
+    "status": "pågår",
+    "scraped_date": "2026-05-04T06:01:33.604339"
+  },
+  {
     "id": "26/137",
     "sakstittel": "Oreligrenda",
     "arbeidstype": "Gravearbeid",
