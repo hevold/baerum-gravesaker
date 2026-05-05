@@ -860,6 +860,20 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "26/23",
+    "sakstittel": "Hovedvei og ny asfaltert, Utbedring av lekkasjer på gatevarme i Kleivkrysset i Bekkestua",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Kleivveien",
+    "entreprenor": "SKAARET LANDSKAP AS",
+    "start": "30.01.2026",
+    "slutt": "05.05.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/531421",
+    "lat": 59.9117652,
+    "lon": 10.5798679,
+    "status": "pågår",
+    "scraped_date": "2026-05-05T05:52:27.095926"
+  },
+  {
     "id": "26/22",
     "sakstittel": "Utskifting av eksiterende VA -ledning",
     "arbeidstype": "Gravearbeid",
@@ -940,6 +954,20 @@
     "lon": 10.5798679,
     "status": "pågår",
     "scraped_date": "2026-04-14T15:41:55.877016"
+  },
+  {
+    "id": "26/146",
+    "sakstittel": "Ruglandveien 93B",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Ruglandveien",
+    "entreprenor": "SKOLLERUD ANLEGG AS",
+    "start": "04.05.2026",
+    "slutt": "15.05.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/535826",
+    "lat": 59.9420224,
+    "lon": 10.6299142,
+    "status": "pågår",
+    "scraped_date": "2026-05-05T05:52:27.095926"
   },
   {
     "id": "26/143",
