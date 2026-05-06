@@ -38,6 +38,20 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "26/95",
+    "sakstittel": "Ny fiberfremføring",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Nedre Toppenhaug",
+    "entreprenor": "BERNT GUNDERSEN GRAVESERVICE AS",
+    "start": "04.05.2026",
+    "slutt": "29.05.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/533591",
+    "lat": 59.9383403,
+    "lon": 10.5071153,
+    "status": "pågår",
+    "scraped_date": "2026-05-06T06:00:18.286345"
+  },
+  {
     "id": "26/94",
     "sakstittel": "Gjønnesveien del 3",
     "arbeidstype": "Gravearbeid",
@@ -956,6 +970,20 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "26/148",
+    "sakstittel": "30136 – Fortetting - Tuengveien 21 1363 Høvik",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Tuengveien",
+    "entreprenor": "TOM HVAAL AS",
+    "start": "06.05.2026",
+    "slutt": "26.06.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/535972",
+    "lat": 59.8939704,
+    "lon": 10.5630053,
+    "status": "pågår",
+    "scraped_date": "2026-05-06T06:00:18.286345"
+  },
+  {
     "id": "26/146",
     "sakstittel": "Ruglandveien 93B",
     "arbeidstype": "Gravearbeid",
@@ -1230,6 +1258,20 @@
     "lon": 10.5694367,
     "status": "pågår",
     "scraped_date": "2026-04-15T05:41:21.949948"
+  },
+  {
+    "id": "26/116",
+    "sakstittel": "Hastesak, Vestfjordgaten",
+    "arbeidstype": "Arbeidstillatelse",
+    "veinavn": "Vestfjordgaten",
+    "entreprenor": "VEISKILTING AS",
+    "start": "10.04.2026",
+    "slutt": "06.05.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/534490",
+    "lat": 59.8904175,
+    "lon": 10.5218365,
+    "status": "pågår",
+    "scraped_date": "2026-05-06T06:00:18.286345"
   },
   {
     "id": "26/115",
