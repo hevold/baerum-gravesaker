@@ -1026,6 +1026,20 @@
     "scraped_date": "2026-05-04T06:01:33.604339"
   },
   {
+    "id": "26/139",
+    "sakstittel": "Ha en lift på et bredt fortau i Gml Ringeriksvei i Bekkestua sentrum noen timer for å demontere markise",
+    "arbeidstype": "Arbeidstillatelse",
+    "veinavn": "Bærumsveien",
+    "entreprenor": "WEBTECH JAN HELGE SALVESEN",
+    "start": "08.05.2026",
+    "slutt": "22.05.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/535675",
+    "lat": 59.9074745,
+    "lon": 10.5063927,
+    "status": "pågår",
+    "scraped_date": "2026-05-09T05:54:38.970357"
+  },
+  {
     "id": "26/138",
     "sakstittel": "Vallerveien 146 - Heising av Sedum",
     "arbeidstype": "Arbeidstillatelse",
