@@ -970,6 +970,20 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "26/153",
+    "sakstittel": "Vannlekkasje",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Kitty Kiellands vei",
+    "entreprenor": "BRØDRENE HANSEN GRAVESERVICE AS",
+    "start": "11.05.2026",
+    "slutt": "22.05.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/536362",
+    "lat": 59.9162148,
+    "lon": 10.5446356,
+    "status": "pågår",
+    "scraped_date": "2026-05-11T08:20:07.091570"
+  },
+  {
     "id": "26/148",
     "sakstittel": "30136 – Fortetting - Tuengveien 21 1363 Høvik",
     "arbeidstype": "Gravearbeid",
@@ -996,6 +1010,20 @@
     "lon": 10.6299142,
     "status": "pågår",
     "scraped_date": "2026-05-05T05:52:27.095926"
+  },
+  {
+    "id": "26/144",
+    "sakstittel": "2541-148 Langoddveien 73, skjøtehull",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Langoddveien",
+    "entreprenor": "VEFLEN ENTREPRENØR AS",
+    "start": "11.05.2026",
+    "slutt": "11.06.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/535820",
+    "lat": 59.8881269,
+    "lon": 10.6207298,
+    "status": "pågår",
+    "scraped_date": "2026-05-11T08:20:07.091570"
   },
   {
     "id": "26/143",
@@ -1066,6 +1094,20 @@
     "lon": 10.6164777,
     "status": "pågår",
     "scraped_date": "2026-04-28T06:00:42.045177"
+  },
+  {
+    "id": "26/136",
+    "sakstittel": "Hauger Skolevei 15, Bærum",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Hauger skolevei",
+    "entreprenor": "EIKER GRAVESERVICE AS",
+    "start": "11.05.2026",
+    "slutt": "15.05.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/535479",
+    "lat": 59.9086795,
+    "lon": 10.5007965,
+    "status": "pågår",
+    "scraped_date": "2026-05-11T08:20:07.091570"
   },
   {
     "id": "26/135",
@@ -1384,6 +1426,20 @@
     "lon": 10.5910778,
     "status": "pågår",
     "scraped_date": "2026-04-14T15:41:55.877016"
+  },
+  {
+    "id": "26/106",
+    "sakstittel": "Hovedvei, 2647-101 Veikryssing Rolfsbuktveien, lysregulering",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Rolfsbuktveien",
+    "entreprenor": "VEFLEN ENTREPRENØR AS",
+    "start": "11.05.2026",
+    "slutt": "10.07.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/533972",
+    "lat": 59.8913374,
+    "lon": 10.6262346,
+    "status": "pågår",
+    "scraped_date": "2026-05-11T08:20:07.091570"
   },
   {
     "id": "26/105",
