@@ -984,6 +984,20 @@
     "scraped_date": "2026-05-11T08:20:07.091570"
   },
   {
+    "id": "26/151",
+    "sakstittel": "Bytte Defekt Strømskap Nedre Åsvei 75",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Nedre Åsvei",
+    "entreprenor": "INFRATEK NORGE AS",
+    "start": "12.05.2026",
+    "slutt": "22.05.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/536296",
+    "lat": 59.8868587,
+    "lon": 10.4926097,
+    "status": "pågår",
+    "scraped_date": "2026-05-12T07:37:20.888039"
+  },
+  {
     "id": "26/148",
     "sakstittel": "30136 – Fortetting - Tuengveien 21 1363 Høvik",
     "arbeidstype": "Gravearbeid",
@@ -996,6 +1010,20 @@
     "lon": 10.5630053,
     "status": "pågår",
     "scraped_date": "2026-05-06T06:00:18.286345"
+  },
+  {
+    "id": "26/147",
+    "sakstittel": "Arbeid med fiberkabel",
+    "arbeidstype": "Arbeidstillatelse",
+    "veinavn": "Kleivveien",
+    "entreprenor": "DRAMMEN LIFTUTLEIE AS",
+    "start": "12.05.2026",
+    "slutt": "12.05.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/535837",
+    "lat": 59.9092021,
+    "lon": 10.5765584,
+    "status": "pågår",
+    "scraped_date": "2026-05-12T07:37:20.888039"
   },
   {
     "id": "26/146",
