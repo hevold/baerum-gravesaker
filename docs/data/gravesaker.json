@@ -1068,6 +1068,20 @@
     "scraped_date": "2026-05-04T06:01:33.604339"
   },
   {
+    "id": "26/141",
+    "sakstittel": "Ruglandveien 54",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Ruglandveien",
+    "entreprenor": "JACOBSEN ENTREPRENØR AS",
+    "start": "04.05.2026",
+    "slutt": "31.07.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/535696",
+    "lat": 59.9350361,
+    "lon": 10.6296734,
+    "status": "pågår",
+    "scraped_date": "2026-05-14T07:36:50.682081"
+  },
+  {
     "id": "26/140",
     "sakstittel": "Hovedvei, Consto, Vannledning - Rolfsbuktveien",
     "arbeidstype": "Gravearbeid",
