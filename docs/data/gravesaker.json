@@ -848,6 +848,20 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "26/26",
+    "sakstittel": "Tanumstien VA",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "tanumstien",
+    "entreprenor": "SKOLLERUD ANLEGG AS",
+    "start": "18.05.2026",
+    "slutt": "30.06.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/531630",
+    "lat": 59.8884565,
+    "lon": 10.4785032,
+    "status": "pågår",
+    "scraped_date": "2026-05-18T06:25:11.965215"
+  },
+  {
     "id": "26/25",
     "sakstittel": "VK6 og Ny AF-kum 4",
     "arbeidstype": "Gravearbeid",
@@ -1066,6 +1080,20 @@
     "lon": 10.6298663,
     "status": "pågår",
     "scraped_date": "2026-05-04T06:01:33.604339"
+  },
+  {
+    "id": "26/142",
+    "sakstittel": "Eilins vei 18",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Eilins vei",
+    "entreprenor": "JAR ANLEGG AS",
+    "start": "18.05.2026",
+    "slutt": "26.06.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/535749",
+    "lat": 59.9390189,
+    "lon": 10.6263032,
+    "status": "pågår",
+    "scraped_date": "2026-05-18T06:25:11.965215"
   },
   {
     "id": "26/141",
