@@ -1276,6 +1276,20 @@
     "scraped_date": "2026-04-28T06:00:42.045177"
   },
   {
+    "id": "26/127",
+    "sakstittel": "Åsløkkveien 23, 1341 Slependen",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Åsløkkveien",
+    "entreprenor": "FLEXCOM ANLEGG AS",
+    "start": "19.05.2026",
+    "slutt": "30.06.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/534743",
+    "lat": 59.8811924,
+    "lon": 10.5003509,
+    "status": "pågår",
+    "scraped_date": "2026-05-19T06:22:20.263059"
+  },
+  {
     "id": "26/126",
     "sakstittel": "Ny asfaltert, Øygardveien 21 _ Vannlekkasje",
     "arbeidstype": "Gravearbeid",
