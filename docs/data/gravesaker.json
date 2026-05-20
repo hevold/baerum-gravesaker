@@ -984,6 +984,34 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "26/157",
+    "sakstittel": "Oppstilling lastebil",
+    "arbeidstype": "Arbeidstillatelse",
+    "veinavn": "Strandveien",
+    "entreprenor": "RENTA AS",
+    "start": "18.05.2026",
+    "slutt": "12.06.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/536664",
+    "lat": 59.9115945,
+    "lon": 10.6351973,
+    "status": "pågår",
+    "scraped_date": "2026-05-20T06:21:54.838672"
+  },
+  {
+    "id": "26/154",
+    "sakstittel": "Vestfjordgaten",
+    "arbeidstype": "Arbeidstillatelse",
+    "veinavn": "Vestfjordgaten",
+    "entreprenor": "VEISKILTING AS",
+    "start": "08.05.2026",
+    "slutt": "22.05.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/536380",
+    "lat": 59.8904175,
+    "lon": 10.5218365,
+    "status": "pågår",
+    "scraped_date": "2026-05-20T06:21:54.838672"
+  },
+  {
     "id": "26/153",
     "sakstittel": "Vannlekkasje",
     "arbeidstype": "Gravearbeid",
