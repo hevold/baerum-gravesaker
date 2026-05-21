@@ -984,6 +984,48 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "26/161",
+    "sakstittel": "Ny asfaltert, Ruglandveien x Snaret Vannlekkasje",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Ruglandveien",
+    "entreprenor": "BÆRUM KOMMUNE",
+    "start": "14.05.2026",
+    "slutt": "30.06.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/537003",
+    "lat": 59.9350361,
+    "lon": 10.6296734,
+    "status": "pågår",
+    "scraped_date": "2026-05-21T06:22:14.280673"
+  },
+  {
+    "id": "26/160",
+    "sakstittel": "Fasade arbeid",
+    "arbeidstype": "Arbeidstillatelse",
+    "veinavn": "Gamle Ringeriksvei",
+    "entreprenor": "OSLO LIFTUTLEIE AS",
+    "start": "21.05.2026",
+    "slutt": "22.05.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/536992",
+    "lat": 59.90905,
+    "lon": 10.6016138,
+    "status": "pågår",
+    "scraped_date": "2026-05-21T06:22:14.280673"
+  },
+  {
+    "id": "26/158",
+    "sakstittel": "22906 – BRL – BELSETHAGEN BOLIGSAMEIE",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Stigerbakken",
+    "entreprenor": "TOM HVAAL AS",
+    "start": "18.05.2026",
+    "slutt": "26.06.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/536845",
+    "lat": 59.9221821,
+    "lon": 10.4908029,
+    "status": "pågår",
+    "scraped_date": "2026-05-21T06:22:14.280673"
+  },
+  {
     "id": "26/157",
     "sakstittel": "Oppstilling lastebil",
     "arbeidstype": "Arbeidstillatelse",
@@ -1038,6 +1080,20 @@
     "lon": 10.4926097,
     "status": "pågår",
     "scraped_date": "2026-05-12T07:37:20.888039"
+  },
+  {
+    "id": "26/150",
+    "sakstittel": "Prost Holsviks vei 17 A",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Prost Holsviks vei",
+    "entreprenor": "GRAVER1 AS",
+    "start": "21.05.2026",
+    "slutt": "29.05.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/536108",
+    "lat": 59.9327531,
+    "lon": 10.590945,
+    "status": "pågår",
+    "scraped_date": "2026-05-21T06:22:14.280673"
   },
   {
     "id": "26/148",
