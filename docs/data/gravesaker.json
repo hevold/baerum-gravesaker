@@ -1012,6 +1012,20 @@
     "scraped_date": "2026-05-21T06:22:14.280673"
   },
   {
+    "id": "26/159",
+    "sakstittel": "Graving av ny HS forbindelser fra Rud trafo til Brynsveien",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Gamle Lommedalsvei, Rudssletta",
+    "entreprenor": "ANLEGG & INFRASTRUKTUR AS",
+    "start": "20.05.2026",
+    "slutt": "30.11.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/536975",
+    "lat": 59.930417,
+    "lon": 10.4951857,
+    "status": "pågår",
+    "scraped_date": "2026-05-23T06:01:40.088115"
+  },
+  {
     "id": "26/158",
     "sakstittel": "22906 – BRL – BELSETHAGEN BOLIGSAMEIE",
     "arbeidstype": "Gravearbeid",
