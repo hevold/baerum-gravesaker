@@ -984,6 +984,20 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "26/167",
+    "sakstittel": "Kaddafest 2026",
+    "arbeidstype": "Arbeidstillatelse",
+    "veinavn": "Kadettangen",
+    "entreprenor": "DRIIV VEI AS",
+    "start": "26.05.2026",
+    "slutt": "31.05.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/537573",
+    "lat": 59.8890437,
+    "lon": 10.5280719,
+    "status": "pågår",
+    "scraped_date": "2026-05-28T06:23:38.581418"
+  },
+  {
     "id": "26/161",
     "sakstittel": "Ny asfaltert, Ruglandveien x Snaret Vannlekkasje",
     "arbeidstype": "Gravearbeid",
