@@ -998,6 +998,34 @@
     "scraped_date": "2026-05-28T06:23:38.581418"
   },
   {
+    "id": "26/164",
+    "sakstittel": "2026-056 Bruksveien 50",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Bruksveien",
+    "entreprenor": "ASKER OG BÆRUM GRAVESERVICE AS",
+    "start": "01.06.2026",
+    "slutt": "03.07.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/537316",
+    "lat": 59.8815382,
+    "lon": 10.6106026,
+    "status": "pågår",
+    "scraped_date": "2026-06-01T06:35:30.614800"
+  },
+  {
+    "id": "26/162",
+    "sakstittel": "22993 – BRL – Helgerud Boligsameie",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Dr. Schmidts vei",
+    "entreprenor": "TOM HVAAL AS",
+    "start": "01.06.2026",
+    "slutt": "07.08.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/537119",
+    "lat": 59.9008559,
+    "lon": 10.5051302,
+    "status": "pågår",
+    "scraped_date": "2026-06-01T06:35:30.614800"
+  },
+  {
     "id": "26/161",
     "sakstittel": "Ny asfaltert, Ruglandveien x Snaret Vannlekkasje",
     "arbeidstype": "Gravearbeid",
