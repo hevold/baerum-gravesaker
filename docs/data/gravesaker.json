@@ -970,6 +970,20 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "26/172",
+    "sakstittel": "Malmskriverveien",
+    "arbeidstype": "Arbeidstillatelse",
+    "veinavn": "Malmskriverveien",
+    "entreprenor": "HAGE AS",
+    "start": "03.06.2026",
+    "slutt": "17.07.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/537930",
+    "lat": 59.89308,
+    "lon": 10.5271901,
+    "status": "pågår",
+    "scraped_date": "2026-06-03T06:34:39.194042"
+  },
+  {
     "id": "26/17",
     "sakstittel": "midlertidig avkjørsel, Kleivjordet 45, Bærum",
     "arbeidstype": "Arbeidstillatelse",
@@ -996,6 +1010,20 @@
     "lon": 10.5280719,
     "status": "pågår",
     "scraped_date": "2026-05-28T06:23:38.581418"
+  },
+  {
+    "id": "26/165",
+    "sakstittel": "Ny asfalt, Bekkestuveien 19a og b  -  100321 Viken Fiber",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Bekkestuveien",
+    "entreprenor": "TOM HVAAL AS",
+    "start": "03.06.2026",
+    "slutt": "03.08.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/537337",
+    "lat": 59.9170051,
+    "lon": 10.5930797,
+    "status": "pågår",
+    "scraped_date": "2026-06-03T06:34:39.194042"
   },
   {
     "id": "26/164",
