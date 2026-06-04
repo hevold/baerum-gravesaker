@@ -970,6 +970,20 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "26/175",
+    "sakstittel": "Hovedvei, 800vl Byveien",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Byveien",
+    "entreprenor": "BÆRUM KOMMUNE",
+    "start": "01.06.2026",
+    "slutt": "10.07.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/538023",
+    "lat": 59.9974153,
+    "lon": 10.4471403,
+    "status": "pågår",
+    "scraped_date": "2026-06-04T06:31:21.669995"
+  },
+  {
     "id": "26/172",
     "sakstittel": "Malmskriverveien",
     "arbeidstype": "Arbeidstillatelse",
@@ -1442,6 +1456,20 @@
     "lon": 10.6324301,
     "status": "pågår",
     "scraped_date": "2026-04-28T06:00:42.045177"
+  },
+  {
+    "id": "26/128",
+    "sakstittel": "Midlertidig avkjørsel, Fossveien 12",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Fossveien",
+    "entreprenor": "JAR ANLEGG AS",
+    "start": "03.06.2026",
+    "slutt": "28.08.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/534878",
+    "lat": 59.908282,
+    "lon": 10.5618199,
+    "status": "pågår",
+    "scraped_date": "2026-06-04T06:31:21.669995"
   },
   {
     "id": "26/127",
