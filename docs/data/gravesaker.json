@@ -1026,6 +1026,20 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "26/169",
+    "sakstittel": "Midlertidig avkjørsel, 3066 Høvik",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Fjordveien",
+    "entreprenor": "KJELDAAS AS",
+    "start": "01.06.2026",
+    "slutt": "31.07.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/537805",
+    "lat": 59.8952719,
+    "lon": 10.5770906,
+    "status": "pågår",
+    "scraped_date": "2026-06-07T06:29:08.315886"
+  },
+  {
     "id": "26/167",
     "sakstittel": "Kaddafest 2026",
     "arbeidstype": "Arbeidstillatelse",
