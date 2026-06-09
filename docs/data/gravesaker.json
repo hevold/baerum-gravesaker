@@ -944,6 +944,20 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "26/192",
+    "sakstittel": "Hastesak! Måneveien 6",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Måneveien",
+    "entreprenor": "VEISKILTING AS",
+    "start": "08.06.2026",
+    "slutt": "17.06.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/538416",
+    "lat": 59.8853807,
+    "lon": 10.509105,
+    "status": "pågår",
+    "scraped_date": "2026-06-09T06:21:32.624104"
+  },
+  {
     "id": "26/19",
     "sakstittel": "Åsterudsletta _ Spillvann",
     "arbeidstype": "Gravearbeid",
@@ -956,6 +970,48 @@
     "lon": 10.5488833,
     "status": "pågår",
     "scraped_date": "2026-04-14T15:41:55.877016"
+  },
+  {
+    "id": "26/185",
+    "sakstittel": "Utbedring av avløp",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Almelien",
+    "entreprenor": "BREVIK AS",
+    "start": "04.06.2026",
+    "slutt": "18.06.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/538340",
+    "lat": 59.9338835,
+    "lon": 10.6177783,
+    "status": "pågår",
+    "scraped_date": "2026-06-09T06:21:32.624104"
+  },
+  {
+    "id": "26/183",
+    "sakstittel": "Myrvollveien 1-3",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Myrvollveien",
+    "entreprenor": "IVAR TANUM ENTREPRENØR AS",
+    "start": "08.06.2026",
+    "slutt": "12.06.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/538330",
+    "lat": 59.899652,
+    "lon": 10.5912902,
+    "status": "pågår",
+    "scraped_date": "2026-06-09T06:21:32.624104"
+  },
+  {
+    "id": "26/182",
+    "sakstittel": "Durudveien",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Durudveien",
+    "entreprenor": "Arne Olav Lund A/S",
+    "start": "08.06.2026",
+    "slutt": "21.08.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/538328",
+    "lat": 59.9105603,
+    "lon": 10.5456991,
+    "status": "pågår",
+    "scraped_date": "2026-06-09T06:21:32.624104"
   },
   {
     "id": "26/180",
@@ -982,6 +1038,34 @@
     "kilde_url": "https://baerum.gravearbeider.no/soknad/view/531203",
     "status": "pågår",
     "scraped_date": "2026-04-14T15:41:55.877016"
+  },
+  {
+    "id": "26/177",
+    "sakstittel": "Dæliveien krysset Gjettumveien og krysset Seljefløyten  -  100366 Viken Fiber",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Seljefløyten, Dæliveien, Gjettumveien",
+    "entreprenor": "TOM HVAAL AS",
+    "start": "08.06.2026",
+    "slutt": "31.08.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/538180",
+    "lat": 59.9097502,
+    "lon": 10.5308516,
+    "status": "pågår",
+    "scraped_date": "2026-06-09T06:21:32.624104"
+  },
+  {
+    "id": "26/176",
+    "sakstittel": "Seljefløyten 1 - 47  -  100366 Viken Fiber",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Seljefløyten, Dæliveien",
+    "entreprenor": "TOM HVAAL AS",
+    "start": "08.06.2026",
+    "slutt": "31.08.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/538163",
+    "lat": 59.9097502,
+    "lon": 10.5308516,
+    "status": "pågår",
+    "scraped_date": "2026-06-09T06:21:32.624104"
   },
   {
     "id": "26/175",
@@ -1054,6 +1138,20 @@
     "scraped_date": "2026-05-28T06:23:38.581418"
   },
   {
+    "id": "26/166",
+    "sakstittel": "Midlertidig avkjørsel, ny asfaltert, Haukeveien, Bærum",
+    "arbeidstype": "Arbeidstillatelse",
+    "veinavn": "Haukeveien",
+    "entreprenor": "BACKE STOR-OSLO AS",
+    "start": "28.05.2026",
+    "slutt": "15.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/537428",
+    "lat": 59.9216633,
+    "lon": 10.5856356,
+    "status": "pågår",
+    "scraped_date": "2026-06-09T06:21:32.624104"
+  },
+  {
     "id": "26/165",
     "sakstittel": "Ny asfalt, Bekkestuveien 19a og b  -  100321 Viken Fiber",
     "arbeidstype": "Gravearbeid",
@@ -1080,6 +1178,20 @@
     "lon": 10.6106026,
     "status": "pågår",
     "scraped_date": "2026-06-01T06:35:30.614800"
+  },
+  {
+    "id": "26/163",
+    "sakstittel": "Eilinsvei 5, Jar",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "St. Halvards vei",
+    "entreprenor": "BONSTAD ATLE",
+    "start": "27.05.2026",
+    "slutt": "31.08.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/537276",
+    "lat": 59.9368926,
+    "lon": 10.6253606,
+    "status": "pågår",
+    "scraped_date": "2026-06-09T06:21:32.624104"
   },
   {
     "id": "26/162",
