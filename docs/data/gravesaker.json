@@ -916,6 +916,18 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "26/207",
+    "sakstittel": "Handverkeriet Mosaikk bilder",
+    "arbeidstype": "Arbeidstillatelse",
+    "veinavn": "Sandvika storsenter Parkeringshus Kjeller",
+    "entreprenor": "HÅNDVERKERIET AS",
+    "start": "11.06.2026",
+    "slutt": "11.06.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/538830",
+    "status": "pågår",
+    "scraped_date": "2026-06-11T06:32:12.403241"
+  },
+  {
     "id": "26/20",
     "sakstittel": "2647-101 Prøvegraving Rolfsbuktveien",
     "arbeidstype": "Gravearbeid",
@@ -970,6 +982,20 @@
     "lon": 10.5488833,
     "status": "pågår",
     "scraped_date": "2026-04-14T15:41:55.877016"
+  },
+  {
+    "id": "26/186",
+    "sakstittel": "2634-105 Fornebuveien",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Fornebuveien",
+    "entreprenor": "VEFLEN ENTREPRENØR AS",
+    "start": "11.06.2026",
+    "slutt": "09.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/538384",
+    "lat": 59.9073476,
+    "lon": 10.6294167,
+    "status": "pågår",
+    "scraped_date": "2026-06-11T06:32:12.403241"
   },
   {
     "id": "26/185",
