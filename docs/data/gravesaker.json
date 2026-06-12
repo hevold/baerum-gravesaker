@@ -956,6 +956,20 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "26/197",
+    "sakstittel": "Vestfjordgaten",
+    "arbeidstype": "Arbeidstillatelse",
+    "veinavn": "Vestfjordgaten",
+    "entreprenor": "VEISKILTING AS",
+    "start": "12.06.2026",
+    "slutt": "10.07.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/538532",
+    "lat": 59.8904175,
+    "lon": 10.5218365,
+    "status": "pågår",
+    "scraped_date": "2026-06-12T06:31:19.041180"
+  },
+  {
     "id": "26/192",
     "sakstittel": "Hastesak! Måneveien 6",
     "arbeidstype": "Gravearbeid",
