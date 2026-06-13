@@ -916,6 +916,20 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "26/210",
+    "sakstittel": "Lekkasje Øvrevollveien 78",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Øvrevollveien",
+    "entreprenor": "ARILD KOLSTAD A/S",
+    "start": "11.06.2026",
+    "slutt": "03.07.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/538907",
+    "lat": 59.9352361,
+    "lon": 10.6189918,
+    "status": "pågår",
+    "scraped_date": "2026-06-13T06:25:54.281695"
+  },
+  {
     "id": "26/207",
     "sakstittel": "Handverkeriet Mosaikk bilder",
     "arbeidstype": "Arbeidstillatelse",
@@ -1344,6 +1358,20 @@
     "lon": 10.5446356,
     "status": "pågår",
     "scraped_date": "2026-05-11T08:20:07.091570"
+  },
+  {
+    "id": "26/152",
+    "sakstittel": "Arrangement - Haslum Mila",
+    "arbeidstype": "Arbeidstillatelse",
+    "veinavn": "Fagertunveien",
+    "entreprenor": "RAMUDDEN NORGE AS",
+    "start": "13.06.2026",
+    "slutt": "13.06.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/536356",
+    "lat": 59.9228463,
+    "lon": 10.5948404,
+    "status": "pågår",
+    "scraped_date": "2026-06-13T06:25:54.281695"
   },
   {
     "id": "26/151",
