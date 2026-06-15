@@ -916,6 +916,20 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "26/212",
+    "sakstittel": "Ny asfaltert, Hastesak! Skogveien 154",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Skogveien",
+    "entreprenor": "VEISKILTING AS",
+    "start": "15.06.2026",
+    "slutt": "26.06.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/539001",
+    "lat": 59.9075353,
+    "lon": 10.5903021,
+    "status": "pågår",
+    "scraped_date": "2026-06-15T06:45:53.334445"
+  },
+  {
     "id": "26/210",
     "sakstittel": "Lekkasje Øvrevollveien 78",
     "arbeidstype": "Gravearbeid",
@@ -940,6 +954,20 @@
     "kilde_url": "https://baerum.gravearbeider.no/soknad/view/538830",
     "status": "pågår",
     "scraped_date": "2026-06-11T06:32:12.403241"
+  },
+  {
+    "id": "26/202",
+    "sakstittel": "Etablering av bom",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Strandalleen",
+    "entreprenor": "SWARCO NORGE AS",
+    "start": "15.06.2026",
+    "slutt": "22.06.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/538723",
+    "lat": 59.8995742,
+    "lon": 10.5939672,
+    "status": "pågår",
+    "scraped_date": "2026-06-15T06:45:53.334445"
   },
   {
     "id": "26/20",
@@ -970,6 +998,20 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "26/198",
+    "sakstittel": "Folkefesten - visning av Fotball-VM på Kadettangen",
+    "arbeidstype": "Arbeidstillatelse",
+    "veinavn": "Kadettangen",
+    "entreprenor": "DRIIV VEI AS",
+    "start": "08.06.2026",
+    "slutt": "21.07.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/538613",
+    "lat": 59.8890437,
+    "lon": 10.5280719,
+    "status": "pågår",
+    "scraped_date": "2026-06-15T06:45:53.334445"
+  },
+  {
     "id": "26/197",
     "sakstittel": "Vestfjordgaten",
     "arbeidstype": "Arbeidstillatelse",
@@ -982,6 +1024,20 @@
     "lon": 10.5218365,
     "status": "pågår",
     "scraped_date": "2026-06-12T06:31:19.041180"
+  },
+  {
+    "id": "26/196",
+    "sakstittel": "Thommessens vei 6 , Sandvika",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Thommessens vei",
+    "entreprenor": "GRAVERE AS",
+    "start": "15.06.2026",
+    "slutt": "13.07.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/538511",
+    "lat": 59.8974087,
+    "lon": 10.5166456,
+    "status": "pågår",
+    "scraped_date": "2026-06-15T06:45:53.334445"
   },
   {
     "id": "26/192",
@@ -998,6 +1054,20 @@
     "scraped_date": "2026-06-09T06:21:32.624104"
   },
   {
+    "id": "26/191",
+    "sakstittel": "76073 Bærumsmarka FUS barnehage, Gamle Ringeriksvei 110",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Gamle Ringeriksvei",
+    "entreprenor": "TOM HVAAL AS",
+    "start": "15.06.2026",
+    "slutt": "28.08.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/538412",
+    "lat": 59.9188739,
+    "lon": 10.5812102,
+    "status": "pågår",
+    "scraped_date": "2026-06-15T06:45:53.334445"
+  },
+  {
     "id": "26/19",
     "sakstittel": "Åsterudsletta _ Spillvann",
     "arbeidstype": "Gravearbeid",
@@ -1010,6 +1080,48 @@
     "lon": 10.5488833,
     "status": "pågår",
     "scraped_date": "2026-04-14T15:41:55.877016"
+  },
+  {
+    "id": "26/189",
+    "sakstittel": "Graving for vannlekkasje",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Jongskollen",
+    "entreprenor": "GEORG GJERTSEN AS",
+    "start": "15.06.2026",
+    "slutt": "19.06.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/538395",
+    "lat": 59.8866687,
+    "lon": 10.5151907,
+    "status": "pågår",
+    "scraped_date": "2026-06-15T06:45:53.334445"
+  },
+  {
+    "id": "26/188",
+    "sakstittel": "Malmskriverveien, 1337 Sandvika",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Lychesvingen",
+    "entreprenor": "BONSTAD ATLE",
+    "start": "15.06.2026",
+    "slutt": "31.08.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/538391",
+    "lat": 59.8931579,
+    "lon": 10.5287422,
+    "status": "pågår",
+    "scraped_date": "2026-06-15T06:45:53.334445"
+  },
+  {
+    "id": "26/187",
+    "sakstittel": "Borgveien (Ramstadsletta) - Prøvetaking",
+    "arbeidstype": "Arbeidstillatelse",
+    "veinavn": "Borgveien",
+    "entreprenor": "DRIIV VEI AS",
+    "start": "15.06.2026",
+    "slutt": "30.06.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/538386",
+    "lat": 59.8946794,
+    "lon": 10.5552673,
+    "status": "pågår",
+    "scraped_date": "2026-06-15T06:45:53.334445"
   },
   {
     "id": "26/186",
@@ -1136,6 +1248,20 @@
     "scraped_date": "2026-06-04T06:31:21.669995"
   },
   {
+    "id": "26/174",
+    "sakstittel": "Hovedvei, 2647-101 Veikryssing Rolfsbuktveien, manuell dirigering",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Rolfsbuktveien",
+    "entreprenor": "VEFLEN ENTREPRENØR AS",
+    "start": "15.06.2026",
+    "slutt": "10.07.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/538018",
+    "lat": 59.8913374,
+    "lon": 10.6262346,
+    "status": "pågår",
+    "scraped_date": "2026-06-15T06:45:53.334445"
+  },
+  {
     "id": "26/172",
     "sakstittel": "Malmskriverveien",
     "arbeidstype": "Arbeidstillatelse",
@@ -1148,6 +1274,20 @@
     "lon": 10.5271901,
     "status": "pågår",
     "scraped_date": "2026-06-03T06:34:39.194042"
+  },
+  {
+    "id": "26/170",
+    "sakstittel": "Sandvika torg Øst",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Stasjonstorget, Rådmann Halmrasts vei, Malmskriverveien, Jørgen Kanitz' gate, Rådhustorget",
+    "entreprenor": "BRAATHEN LANDSKAPSENTREPRENØR AS",
+    "start": "15.06.2026",
+    "slutt": "15.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/537855",
+    "lat": 59.8921612,
+    "lon": 10.5248572,
+    "status": "pågår",
+    "scraped_date": "2026-06-15T06:45:53.334445"
   },
   {
     "id": "26/17",
