@@ -916,6 +916,20 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "26/214",
+    "sakstittel": "Graving for vannlekkasje",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Bjarne Skaus vei",
+    "entreprenor": "NORGRAV AS",
+    "start": "17.06.2026",
+    "slutt": "26.06.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/539179",
+    "lat": 59.9427341,
+    "lon": 10.5893304,
+    "status": "pågår",
+    "scraped_date": "2026-06-17T06:41:51.361807"
+  },
+  {
     "id": "26/212",
     "sakstittel": "Ny asfaltert, Hastesak! Skogveien 154",
     "arbeidstype": "Gravearbeid",
@@ -1038,6 +1052,20 @@
     "lon": 10.5166456,
     "status": "pågår",
     "scraped_date": "2026-06-15T06:45:53.334445"
+  },
+  {
+    "id": "26/195",
+    "sakstittel": "Graving av ny HS forbindelser gangsti mellom Lommedalsveien og Gamle Lommedalsvei",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Gamle Lommedalsvei, Rudssletta",
+    "entreprenor": "ANLEGG & INFRASTRUKTUR AS",
+    "start": "10.06.2026",
+    "slutt": "15.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/538501",
+    "lat": 59.9220993,
+    "lon": 10.4921826,
+    "status": "pågår",
+    "scraped_date": "2026-06-17T06:41:51.361807"
   },
   {
     "id": "26/192",
