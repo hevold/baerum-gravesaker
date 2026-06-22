@@ -944,6 +944,20 @@
     "scraped_date": "2026-06-15T06:45:53.334445"
   },
   {
+    "id": "26/211",
+    "sakstittel": "Hovedvei, 7360 Eikeli skole",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Bispeveien",
+    "entreprenor": "SKOLLERUD ANLEGG AS",
+    "start": "22.06.2026",
+    "slutt": "03.07.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/538913",
+    "lat": 59.9336303,
+    "lon": 10.5822332,
+    "status": "pågår",
+    "scraped_date": "2026-06-22T06:46:33.472259"
+  },
+  {
     "id": "26/210",
     "sakstittel": "Lekkasje Øvrevollveien 78",
     "arbeidstype": "Gravearbeid",
@@ -968,6 +982,20 @@
     "kilde_url": "https://baerum.gravearbeider.no/soknad/view/538830",
     "status": "pågår",
     "scraped_date": "2026-06-11T06:32:12.403241"
+  },
+  {
+    "id": "26/205",
+    "sakstittel": "Stikkledning Caroline Øverlands vei 16",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Caroline Øverlands vei, Gnr/Bnr: 8/1773, Gnr/Bnr: 8/365",
+    "entreprenor": "KIM STEINSHOLT AS",
+    "start": "22.06.2026",
+    "slutt": "10.07.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/538787",
+    "lat": 59.9094544,
+    "lon": 10.5692443,
+    "status": "pågår",
+    "scraped_date": "2026-06-22T06:46:33.472259"
   },
   {
     "id": "26/202",
