@@ -902,6 +902,20 @@
     "scraped_date": "2026-05-05T05:52:27.095926"
   },
   {
+    "id": "26/224",
+    "sakstittel": "Graving Vannlekkasje",
+    "arbeidstype": "Arbeidstillatelse",
+    "veinavn": "Otto Ruges vei",
+    "entreprenor": "BRØDRENE HANSEN GRAVESERVICE AS",
+    "start": "22.06.2026",
+    "slutt": "11.07.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/539384",
+    "lat": 59.9478164,
+    "lon": 10.611325,
+    "status": "pågår",
+    "scraped_date": "2026-06-24T06:19:17.870260"
+  },
+  {
     "id": "26/22",
     "sakstittel": "Utskifting av eksiterende VA -ledning",
     "arbeidstype": "Gravearbeid",
