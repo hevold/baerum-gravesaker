@@ -916,6 +916,20 @@
     "scraped_date": "2026-06-24T06:19:17.870260"
   },
   {
+    "id": "26/221",
+    "sakstittel": "Skifte Telestolper",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Gamleveien",
+    "entreprenor": "LUND & REISTAD AS",
+    "start": "25.06.2026",
+    "slutt": "25.06.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/539341",
+    "lat": 59.9480451,
+    "lon": 10.4881616,
+    "status": "pågår",
+    "scraped_date": "2026-06-25T06:21:46.267145"
+  },
+  {
     "id": "26/22",
     "sakstittel": "Utskifting av eksiterende VA -ledning",
     "arbeidstype": "Gravearbeid",
@@ -1010,6 +1024,20 @@
     "lon": 10.5692443,
     "status": "pågår",
     "scraped_date": "2026-06-22T06:46:33.472259"
+  },
+  {
+    "id": "26/203",
+    "sakstittel": "Gjønnesparken, ny GS vei og bru",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Gamle Ringeriksvei, Gjønnesskogen",
+    "entreprenor": "HAB CONSTRUCTION AS",
+    "start": "19.06.2026",
+    "slutt": "29.01.2027",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/538738",
+    "lat": 59.9148654,
+    "lon": 10.5927114,
+    "status": "pågår",
+    "scraped_date": "2026-06-25T06:21:46.267145"
   },
   {
     "id": "26/202",
@@ -3142,6 +3170,20 @@
     "lon": 10.4798951,
     "status": "pågår",
     "scraped_date": "2026-04-14T15:41:55.877016"
+  },
+  {
+    "id": "25/565",
+    "sakstittel": "OHLA - Kv 7247 Gjønneshallen. G/S-vei anleggstrafikk ifbm flomvann tunnel. Fase1 - J.K.L.",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Gjønnesjordet",
+    "entreprenor": "OBRASCÓN HUARTE LAIN S.A. NORWEGIAN BRANCH",
+    "start": "16.10.2025",
+    "slutt": "01.05.2027",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/525790",
+    "lat": 59.9155779,
+    "lon": 10.5760851,
+    "status": "pågår",
+    "scraped_date": "2026-06-25T06:21:46.267145"
   },
   {
     "id": "25/563",
