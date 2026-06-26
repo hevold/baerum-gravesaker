@@ -888,6 +888,32 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "26/235",
+    "sakstittel": "Boreprosjekt - Elias Smiths vei 2",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Gnr/Bnr: 200/22",
+    "entreprenor": "NORCONSULT BORETEKNIKK AS",
+    "start": "25.06.2026",
+    "slutt": "10.07.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/539785",
+    "status": "pågår",
+    "scraped_date": "2026-06-26T06:22:36.264779"
+  },
+  {
+    "id": "26/230",
+    "sakstittel": "Ny asfaltert vei Graving for vannlekkasje",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Vallerveien",
+    "entreprenor": "NORGRAV AS",
+    "start": "25.06.2026",
+    "slutt": "10.07.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/539656",
+    "lat": 59.9096422,
+    "lon": 10.5360859,
+    "status": "pågår",
+    "scraped_date": "2026-06-26T06:22:36.264779"
+  },
+  {
     "id": "26/23",
     "sakstittel": "Hovedvei og ny asfaltert, Utbedring av lekkasjer på gatevarme i Kleivkrysset i Bekkestua",
     "arbeidstype": "Gravearbeid",
@@ -944,6 +970,34 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "26/217",
+    "sakstittel": "Fagertunveien _ 59 Vannlekkasje",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Fagertunveien",
+    "entreprenor": "BÆRUM KOMMUNE",
+    "start": "14.06.2026",
+    "slutt": "16.07.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/539276",
+    "lat": 59.9228463,
+    "lon": 10.5948404,
+    "status": "pågår",
+    "scraped_date": "2026-06-26T06:22:36.264779"
+  },
+  {
+    "id": "26/216",
+    "sakstittel": "22303 – BRL – Avløskollen Huseierforening",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Lokes vei",
+    "entreprenor": "TOM HVAAL AS",
+    "start": "26.06.2026",
+    "slutt": "07.08.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/539228",
+    "lat": 59.914034,
+    "lon": 10.5541016,
+    "status": "pågår",
+    "scraped_date": "2026-06-26T06:22:36.264779"
+  },
+  {
     "id": "26/214",
     "sakstittel": "Graving for vannlekkasje",
     "arbeidstype": "Gravearbeid",
@@ -956,6 +1010,20 @@
     "lon": 10.5893304,
     "status": "pågår",
     "scraped_date": "2026-06-17T06:41:51.361807"
+  },
+  {
+    "id": "26/213",
+    "sakstittel": "Glassverkveien 9",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Glassverkveien",
+    "entreprenor": "HEGNA TRANSPORT AS",
+    "start": "16.06.2026",
+    "slutt": "24.07.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/539104",
+    "lat": 59.8960086,
+    "lon": 10.5694367,
+    "status": "pågår",
+    "scraped_date": "2026-06-26T06:22:36.264779"
   },
   {
     "id": "26/212",
@@ -998,6 +1066,34 @@
     "lon": 10.6189918,
     "status": "pågår",
     "scraped_date": "2026-06-13T06:25:54.281695"
+  },
+  {
+    "id": "26/209",
+    "sakstittel": "Dyrefaret 4",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Dyrefaret",
+    "entreprenor": "BK-ANLEGG AS",
+    "start": "25.06.2026",
+    "slutt": "17.07.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/538903",
+    "lat": 59.9332762,
+    "lon": 10.5950567,
+    "status": "pågår",
+    "scraped_date": "2026-06-26T06:22:36.264779"
+  },
+  {
+    "id": "26/208",
+    "sakstittel": "Valler VGS, Fjernvarme - Kim Steinsholt AS",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Brynsveien",
+    "entreprenor": "VEI OG TRAFIKKSIKRING AS",
+    "start": "26.06.2026",
+    "slutt": "31.08.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/538837",
+    "lat": 59.8985589,
+    "lon": 10.5241049,
+    "status": "pågår",
+    "scraped_date": "2026-06-26T06:22:36.264779"
   },
   {
     "id": "26/207",
@@ -1414,6 +1510,20 @@
     "lon": 10.5770906,
     "status": "pågår",
     "scraped_date": "2026-06-07T06:29:08.315886"
+  },
+  {
+    "id": "26/168",
+    "sakstittel": "el til Glassverkveien 11",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Glassverkveien",
+    "entreprenor": "HEGNA TRANSPORT AS",
+    "start": "25.06.2026",
+    "slutt": "25.07.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/537620",
+    "lat": 59.8960086,
+    "lon": 10.5694367,
+    "status": "pågår",
+    "scraped_date": "2026-06-26T06:22:36.264779"
   },
   {
     "id": "26/167",
