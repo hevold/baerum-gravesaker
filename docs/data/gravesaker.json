@@ -928,6 +928,20 @@
     "scraped_date": "2026-05-05T05:52:27.095926"
   },
   {
+    "id": "26/226",
+    "sakstittel": "Hauger Skolevei",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Hauger skolevei, Baker Østbys vei, Olav Ingstads vei, Løxaveien, Johs. Haugeruds vei, Dønskitoppen, Dønskiveien",
+    "entreprenor": "RØNAAS ENTREPRENØR AS",
+    "start": "26.06.2026",
+    "slutt": "24.07.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/539467",
+    "lat": 59.9086795,
+    "lon": 10.5007965,
+    "status": "pågår",
+    "scraped_date": "2026-06-27T06:10:35.101834"
+  },
+  {
     "id": "26/224",
     "sakstittel": "Graving Vannlekkasje",
     "arbeidstype": "Arbeidstillatelse",
