@@ -970,6 +970,20 @@
     "scraped_date": "2026-06-25T06:21:46.267145"
   },
   {
+    "id": "26/220",
+    "sakstittel": "Brambanigården - Søknad om leie av kommunal gategrunn for plassering av lastebilkran",
+    "arbeidstype": "Arbeidstillatelse",
+    "veinavn": "Kinoveien, Rådhustorget",
+    "entreprenor": "HENT AS",
+    "start": "29.06.2026",
+    "slutt": "29.06.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/539324",
+    "lat": 59.8909001,
+    "lon": 10.5245901,
+    "status": "pågår",
+    "scraped_date": "2026-06-29T06:31:27.551572"
+  },
+  {
     "id": "26/22",
     "sakstittel": "Utskifting av eksiterende VA -ledning",
     "arbeidstype": "Gravearbeid",
@@ -1358,6 +1372,20 @@
     "lon": 10.6177783,
     "status": "pågår",
     "scraped_date": "2026-06-09T06:21:32.624104"
+  },
+  {
+    "id": "26/184",
+    "sakstittel": "Oppsett av stillas",
+    "arbeidstype": "Arbeidstillatelse",
+    "veinavn": "nadderudveien",
+    "entreprenor": "AS STILLASER",
+    "start": "29.06.2026",
+    "slutt": "03.07.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/538333",
+    "lat": 59.9380106,
+    "lon": 10.6084137,
+    "status": "pågår",
+    "scraped_date": "2026-06-29T06:31:27.551572"
   },
   {
     "id": "26/183",
