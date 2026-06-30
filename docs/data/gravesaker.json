@@ -876,6 +876,34 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "26/241",
+    "sakstittel": "Kabelfeil Høyspent Skogveien 52",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Skogveien",
+    "entreprenor": "INFRATEK NORGE AS",
+    "start": "30.06.2026",
+    "slutt": "10.07.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/539848",
+    "lat": 59.9075882,
+    "lon": 10.5877037,
+    "status": "pågår",
+    "scraped_date": "2026-06-30T06:24:17.456096"
+  },
+  {
+    "id": "26/240",
+    "sakstittel": "Otto Ruges vei Vannlekkasje",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Otto Ruges vei",
+    "entreprenor": "BRØDRENE HANSEN GRAVESERVICE AS",
+    "start": "24.06.2026",
+    "slutt": "03.07.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/539823",
+    "lat": 59.9478164,
+    "lon": 10.611325,
+    "status": "pågår",
+    "scraped_date": "2026-06-30T06:24:17.456096"
+  },
+  {
     "id": "26/24",
     "sakstittel": "Bytte ut Vann rør som lekker",
     "arbeidstype": "Gravearbeid",
@@ -888,6 +916,48 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "26/238",
+    "sakstittel": "372 Rud vgs - HS kabel",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Hauger skolevei",
+    "entreprenor": "KAARE MORTENSEN OSLO/AKERSHUS AS",
+    "start": "29.06.2026",
+    "slutt": "30.08.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/539799",
+    "lat": 59.9086795,
+    "lon": 10.5007965,
+    "status": "pågår",
+    "scraped_date": "2026-06-30T06:24:17.456096"
+  },
+  {
+    "id": "26/237",
+    "sakstittel": "372 Rud vgs - VA Hauger Skolevei",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Hauger skolevei",
+    "entreprenor": "KAARE MORTENSEN OSLO/AKERSHUS AS",
+    "start": "29.06.2026",
+    "slutt": "30.08.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/539797",
+    "lat": 59.9086795,
+    "lon": 10.5007965,
+    "status": "pågår",
+    "scraped_date": "2026-06-30T06:24:17.456096"
+  },
+  {
+    "id": "26/236",
+    "sakstittel": "Bytte Defekt mast Gamleveien 125",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Gamleveien",
+    "entreprenor": "INFRATEK NORGE AS",
+    "start": "30.06.2026",
+    "slutt": "01.07.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/539791",
+    "lat": 59.9577734,
+    "lon": 10.479731,
+    "status": "pågår",
+    "scraped_date": "2026-06-30T06:24:17.456096"
+  },
+  {
     "id": "26/235",
     "sakstittel": "Boreprosjekt - Elias Smiths vei 2",
     "arbeidstype": "Gravearbeid",
@@ -898,6 +968,34 @@
     "kilde_url": "https://baerum.gravearbeider.no/soknad/view/539785",
     "status": "pågår",
     "scraped_date": "2026-06-26T06:22:36.264779"
+  },
+  {
+    "id": "26/232",
+    "sakstittel": "Ruglandsveien",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Ruglandveien",
+    "entreprenor": "KIM STEINSHOLT AS",
+    "start": "30.06.2026",
+    "slutt": "24.07.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/539745",
+    "lat": 59.9420224,
+    "lon": 10.6299142,
+    "status": "pågår",
+    "scraped_date": "2026-06-30T06:24:17.456096"
+  },
+  {
+    "id": "26/231",
+    "sakstittel": "OHLA - Kv 2149 Gjønnesjordet. Fotgjengerovergang ifm midl GS-bru. Fase1 - J.K.L.",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Gjønnesjordet",
+    "entreprenor": "OHLA NORGE - OBRASCÓN HUARTE LAIN S.A. NORWEGIAN BRANCH",
+    "start": "29.06.2026",
+    "slutt": "21.08.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/539667",
+    "lat": 59.9197487,
+    "lon": 10.5770071,
+    "status": "pågår",
+    "scraped_date": "2026-06-30T06:24:17.456096"
   },
   {
     "id": "26/230",
@@ -928,6 +1026,48 @@
     "scraped_date": "2026-05-05T05:52:27.095926"
   },
   {
+    "id": "26/229",
+    "sakstittel": "Netel skjøting fiber,  Niels Leuchs vei / Eiksveien",
+    "arbeidstype": "Arbeidstillatelse",
+    "veinavn": "Eiksveien",
+    "entreprenor": "AVARN SECURITY SERVICE AS",
+    "start": "29.06.2026",
+    "slutt": "09.07.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/539594",
+    "lat": 59.9397531,
+    "lon": 10.6060285,
+    "status": "pågår",
+    "scraped_date": "2026-06-30T06:24:17.456096"
+  },
+  {
+    "id": "26/228",
+    "sakstittel": "HASTER - Graving for vannlekkasje ved Søråsen 6",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Søråsen",
+    "entreprenor": "TRANSGRAV AS",
+    "start": "29.06.2026",
+    "slutt": "06.07.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/539511",
+    "lat": 59.9116073,
+    "lon": 10.5827724,
+    "status": "pågår",
+    "scraped_date": "2026-06-30T06:24:17.456096"
+  },
+  {
+    "id": "26/227",
+    "sakstittel": "Borgveien  3",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Borgveien",
+    "entreprenor": "KIM STEINSHOLT AS",
+    "start": "29.06.2026",
+    "slutt": "10.07.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/539485",
+    "lat": 59.8946794,
+    "lon": 10.5552673,
+    "status": "pågår",
+    "scraped_date": "2026-06-30T06:24:17.456096"
+  },
+  {
     "id": "26/226",
     "sakstittel": "Hauger Skolevei",
     "arbeidstype": "Gravearbeid",
@@ -954,6 +1094,20 @@
     "lon": 10.611325,
     "status": "pågår",
     "scraped_date": "2026-06-24T06:19:17.870260"
+  },
+  {
+    "id": "26/222",
+    "sakstittel": "Løsnet Brønnlokk Telenor -  Anthon Walles vei 34A",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Anthon Walles vei",
+    "entreprenor": "BONSTAD ATLE",
+    "start": "19.06.2026",
+    "slutt": "30.06.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/539349",
+    "lat": 59.8940247,
+    "lon": 10.5361388,
+    "status": "pågår",
+    "scraped_date": "2026-06-30T06:24:17.456096"
   },
   {
     "id": "26/221",
@@ -1176,6 +1330,20 @@
     "lon": 10.5939672,
     "status": "pågår",
     "scraped_date": "2026-06-15T06:45:53.334445"
+  },
+  {
+    "id": "26/201",
+    "sakstittel": "Hans Øverlands vei",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Hans Øverlands vei",
+    "entreprenor": "KIM STEINSHOLT AS",
+    "start": "29.06.2026",
+    "slutt": "17.07.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/538621",
+    "lat": 59.9079132,
+    "lon": 10.5689374,
+    "status": "pågår",
+    "scraped_date": "2026-06-30T06:24:17.456096"
   },
   {
     "id": "26/20",
