@@ -916,6 +916,20 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "26/239",
+    "sakstittel": "Drenering Rugdefaret",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Rugdefaret",
+    "entreprenor": "RUNE ROMSDAL AS",
+    "start": "30.06.2026",
+    "slutt": "10.07.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/539805",
+    "lat": 59.8807758,
+    "lon": 10.4866716,
+    "status": "pågår",
+    "scraped_date": "2026-07-01T06:29:40.715100"
+  },
+  {
     "id": "26/238",
     "sakstittel": "372 Rud vgs - HS kabel",
     "arbeidstype": "Gravearbeid",
