@@ -876,6 +876,34 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "26/245",
+    "sakstittel": "Benytte kranbil for ferdigstillelse arbeid på tak.",
+    "arbeidstype": "Arbeidstillatelse",
+    "veinavn": "Claude Monets alle",
+    "entreprenor": "ASFALTLAPPER`N AS",
+    "start": "02.07.2026",
+    "slutt": "02.07.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/539927",
+    "lat": 59.8901613,
+    "lon": 10.5212803,
+    "status": "pågår",
+    "scraped_date": "2026-07-02T06:15:34.314227"
+  },
+  {
+    "id": "26/244",
+    "sakstittel": "HASTER - Hagaliveien - brudd på spillvannsledning",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Hagaliveien",
+    "entreprenor": "STAKE & GRAVE SERVICE AS",
+    "start": "29.06.2026",
+    "slutt": "03.07.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/539907",
+    "lat": 59.9341417,
+    "lon": 10.6262051,
+    "status": "pågår",
+    "scraped_date": "2026-07-02T06:15:34.314227"
+  },
+  {
     "id": "26/241",
     "sakstittel": "Kabelfeil Høyspent Skogveien 52",
     "arbeidstype": "Gravearbeid",
