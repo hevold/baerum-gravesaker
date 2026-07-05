@@ -876,6 +876,20 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "26/246",
+    "sakstittel": "Oppretting mast og bardun - Velliveien 1A",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Velliveien, Bjerkelundsveien, Gnr/Bnr: 37/340",
+    "entreprenor": "KIM STEINSHOLT AS",
+    "start": "30.06.2026",
+    "slutt": "10.07.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/540000",
+    "lat": 59.9344427,
+    "lon": 10.620796,
+    "status": "pågår",
+    "scraped_date": "2026-07-05T06:17:05.403718"
+  },
+  {
     "id": "26/245",
     "sakstittel": "Benytte kranbil for ferdigstillelse arbeid på tak.",
     "arbeidstype": "Arbeidstillatelse",
