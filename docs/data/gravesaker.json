@@ -1360,6 +1360,20 @@
     "scraped_date": "2026-06-22T06:46:33.472259"
   },
   {
+    "id": "26/204",
+    "sakstittel": "Nye Rud VGS - stenge fortau, etablere fartshumper og fotgjengerovergang, midlertidig avkjørsel til anlegg",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Hauger skolevei",
+    "entreprenor": "VEDAL ENTREPRENØR AS",
+    "start": "06.07.2026",
+    "slutt": "10.07.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/538762",
+    "lat": 59.9086795,
+    "lon": 10.5007965,
+    "status": "pågår",
+    "scraped_date": "2026-07-06T06:29:56.810085"
+  },
+  {
     "id": "26/203",
     "sakstittel": "Gjønnesparken, ny GS vei og bru",
     "arbeidstype": "Gravearbeid",
