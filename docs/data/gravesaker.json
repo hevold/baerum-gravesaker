@@ -876,6 +876,18 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "26/248",
+    "sakstittel": "2634-105 Magnus Poulsons vei",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Magnus Poulsons vei",
+    "entreprenor": "VEFLEN ENTREPRENØR AS",
+    "start": "07.07.2026",
+    "slutt": "11.09.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/540115",
+    "status": "pågår",
+    "scraped_date": "2026-07-09T06:18:39.222737"
+  },
+  {
     "id": "26/246",
     "sakstittel": "Oppretting mast og bardun - Velliveien 1A",
     "arbeidstype": "Gravearbeid",
