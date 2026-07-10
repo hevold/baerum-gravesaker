@@ -862,6 +862,34 @@
     "scraped_date": "2026-05-18T06:25:11.965215"
   },
   {
+    "id": "26/254",
+    "sakstittel": "Oppstilling lastebil",
+    "arbeidstype": "Arbeidstillatelse",
+    "veinavn": "Strandveien",
+    "entreprenor": "STAKE & GRAVE SERVICE AS",
+    "start": "18.05.2026",
+    "slutt": "30.09.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/540508",
+    "lat": 59.9108643,
+    "lon": 10.6393508,
+    "status": "pågår",
+    "scraped_date": "2026-07-10T06:17:55.968643"
+  },
+  {
+    "id": "26/252",
+    "sakstittel": "Bruk av personløfter til bytting av logoer på Limbra AS",
+    "arbeidstype": "Arbeidstillatelse",
+    "veinavn": "Rådmann Halmrasts vei",
+    "entreprenor": "FOLLO LIFTUTLEIE AS",
+    "start": "10.07.2026",
+    "slutt": "10.07.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/540364",
+    "lat": 59.8909178,
+    "lon": 10.5257507,
+    "status": "pågår",
+    "scraped_date": "2026-07-10T06:17:55.968643"
+  },
+  {
     "id": "26/25",
     "sakstittel": "VK6 og Ny AF-kum 4",
     "arbeidstype": "Gravearbeid",
