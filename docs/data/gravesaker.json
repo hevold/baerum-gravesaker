@@ -1276,6 +1276,20 @@
     "scraped_date": "2026-06-26T06:22:36.264779"
   },
   {
+    "id": "26/215",
+    "sakstittel": "Stasjonshagen. GS Snoveien 17- Terrasseveien",
+    "arbeidstype": "Arbeidstillatelse",
+    "veinavn": "Snoveien",
+    "entreprenor": "BRØDRENE DOKKEN AS",
+    "start": "13.07.2026",
+    "slutt": "15.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/539199",
+    "lat": 59.900998,
+    "lon": 10.5792503,
+    "status": "pågår",
+    "scraped_date": "2026-07-13T06:01:22.902944"
+  },
+  {
     "id": "26/214",
     "sakstittel": "Graving for vannlekkasje",
     "arbeidstype": "Gravearbeid",
