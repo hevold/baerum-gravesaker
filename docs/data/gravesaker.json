@@ -904,6 +904,20 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "26/249",
+    "sakstittel": "Oppheng av fiberkabel",
+    "arbeidstype": "Arbeidstillatelse",
+    "veinavn": "Båtstøjordet",
+    "entreprenor": "ELEKTRO FIBER AS",
+    "start": "03.07.2026",
+    "slutt": "31.07.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/540119",
+    "lat": 59.8914442,
+    "lon": 10.5748965,
+    "status": "pågår",
+    "scraped_date": "2026-07-15T05:46:00.240493"
+  },
+  {
     "id": "26/248",
     "sakstittel": "2634-105 Magnus Poulsons vei",
     "arbeidstype": "Gravearbeid",
