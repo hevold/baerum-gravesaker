@@ -862,6 +862,20 @@
     "scraped_date": "2026-05-18T06:25:11.965215"
   },
   {
+    "id": "26/255",
+    "sakstittel": "Østenåslia 6, grave for kabelfeil",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Østenåsveien",
+    "entreprenor": "KIM STEINSHOLT AS",
+    "start": "16.07.2026",
+    "slutt": "28.07.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/540627",
+    "lat": 59.9206233,
+    "lon": 10.5663915,
+    "status": "pågår",
+    "scraped_date": "2026-07-16T05:51:06.524830"
+  },
+  {
     "id": "26/254",
     "sakstittel": "Oppstilling lastebil",
     "arbeidstype": "Arbeidstillatelse",
