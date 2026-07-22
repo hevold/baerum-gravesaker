@@ -862,6 +862,20 @@
     "scraped_date": "2026-05-18T06:25:11.965215"
   },
   {
+    "id": "26/256",
+    "sakstittel": "Ny asfaltert, Grini Næringspark 7 Vannlekkasje",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Grini Næringspark",
+    "entreprenor": "BÆRUM KOMMUNE",
+    "start": "15.07.2026",
+    "slutt": "31.08.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/540786",
+    "lat": 59.9467124,
+    "lon": 10.5997026,
+    "status": "pågår",
+    "scraped_date": "2026-07-22T05:57:17.847603"
+  },
+  {
     "id": "26/255",
     "sakstittel": "Østenåslia 6, grave for kabelfeil",
     "arbeidstype": "Gravearbeid",
