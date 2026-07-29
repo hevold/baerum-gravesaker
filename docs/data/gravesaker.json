@@ -932,6 +932,20 @@
     "scraped_date": "2026-07-10T06:17:55.968643"
   },
   {
+    "id": "26/250",
+    "sakstittel": "E102-Forarbeider på Oksenøyveien ifm. transportering og brumontasje på Fornebukrysset",
+    "arbeidstype": "Arbeidstillatelse",
+    "veinavn": "Oksenøyveien",
+    "entreprenor": "SKANSKA NORGE AS",
+    "start": "29.07.2026",
+    "slutt": "30.07.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/540159",
+    "lat": 59.9058316,
+    "lon": 10.62325,
+    "status": "pågår",
+    "scraped_date": "2026-07-29T05:58:27.986576"
+  },
+  {
     "id": "26/25",
     "sakstittel": "VK6 og Ny AF-kum 4",
     "arbeidstype": "Gravearbeid",
