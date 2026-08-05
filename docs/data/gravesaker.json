@@ -1042,6 +1042,20 @@
     "scraped_date": "2026-07-02T06:15:34.314227"
   },
   {
+    "id": "26/242",
+    "sakstittel": "Graving av ny HS forbindelse i gangsti langs med Johs Haugeruds vei",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Gamle Lommedalsvei, Rudssletta",
+    "entreprenor": "ANLEGG & INFRASTRUKTUR AS",
+    "start": "04.08.2026",
+    "slutt": "15.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/539854",
+    "lat": 59.9132746,
+    "lon": 10.4779863,
+    "status": "pågår",
+    "scraped_date": "2026-08-05T05:54:06.173517"
+  },
+  {
     "id": "26/241",
     "sakstittel": "Kabelfeil Høyspent Skogveien 52",
     "arbeidstype": "Gravearbeid",
