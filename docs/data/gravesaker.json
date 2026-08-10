@@ -876,6 +876,20 @@
     "scraped_date": "2026-08-03T06:02:06.523470"
   },
   {
+    "id": "26/257",
+    "sakstittel": "Hans Øverlands vei. Grave for strøm fra trafo og langs veien til nr 10b",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Hans Haslums vei",
+    "entreprenor": "STENE JOHANSEN AS",
+    "start": "10.08.2026",
+    "slutt": "05.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/540855",
+    "lat": 59.9211069,
+    "lon": 10.5735821,
+    "status": "pågår",
+    "scraped_date": "2026-08-10T05:29:05.184248"
+  },
+  {
     "id": "26/256",
     "sakstittel": "Ny asfaltert, Grini Næringspark 7 Vannlekkasje",
     "arbeidstype": "Gravearbeid",
