@@ -848,6 +848,34 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "26/261",
+    "sakstittel": "Bjerkealleen 2",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Bjerkealleen",
+    "entreprenor": "KRISTOFFERSEN AS",
+    "start": "11.08.2026",
+    "slutt": "28.08.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/540959",
+    "lat": 59.8984596,
+    "lon": 10.5911595,
+    "status": "pågår",
+    "scraped_date": "2026-08-11T05:22:09.187516"
+  },
+  {
+    "id": "26/260",
+    "sakstittel": "Riiser Larsens vei _ vannlekkasje",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Riiser-Larsens vei",
+    "entreprenor": "BÆRUM KOMMUNE",
+    "start": "18.07.2026",
+    "slutt": "30.08.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/540899",
+    "lat": 59.9069092,
+    "lon": 10.6129035,
+    "status": "pågår",
+    "scraped_date": "2026-08-11T05:22:09.187516"
+  },
+  {
     "id": "26/26",
     "sakstittel": "Tanumstien VA",
     "arbeidstype": "Gravearbeid",
