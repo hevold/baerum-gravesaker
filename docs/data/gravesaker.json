@@ -848,6 +848,34 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "26/263",
+    "sakstittel": "Mellemveien kantstein 710002 - Høvik",
+    "arbeidstype": "Arbeidstillatelse",
+    "veinavn": "Mellemveien",
+    "entreprenor": "AKTIV VEIDRIFT AS",
+    "start": "12.08.2026",
+    "slutt": "21.08.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/541085",
+    "lat": 59.8981759,
+    "lon": 10.5837202,
+    "status": "pågår",
+    "scraped_date": "2026-08-12T05:29:46.069925"
+  },
+  {
+    "id": "26/262",
+    "sakstittel": "Graving tilstøtende kommunal vei",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Hosletoppen",
+    "entreprenor": "ANLEGG ØST ENTREPRENØR AS",
+    "start": "29.07.2026",
+    "slutt": "15.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/541000",
+    "lat": 59.9411185,
+    "lon": 10.584874,
+    "status": "pågår",
+    "scraped_date": "2026-08-12T05:29:46.069925"
+  },
+  {
     "id": "26/261",
     "sakstittel": "Bjerkealleen 2",
     "arbeidstype": "Gravearbeid",
@@ -986,6 +1014,20 @@
     "lon": 10.5257507,
     "status": "pågår",
     "scraped_date": "2026-07-10T06:17:55.968643"
+  },
+  {
+    "id": "26/251",
+    "sakstittel": "Grindakummen-ny vannledning",
+    "arbeidstype": "Arbeidstillatelse",
+    "veinavn": "Gamleveien",
+    "entreprenor": "Arne Olav Lund A/S",
+    "start": "12.08.2026",
+    "slutt": "15.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/540300",
+    "lat": 59.9480451,
+    "lon": 10.4881616,
+    "status": "pågår",
+    "scraped_date": "2026-08-12T05:29:46.069925"
   },
   {
     "id": "26/250",
