@@ -848,6 +848,34 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "26/269",
+    "sakstittel": "Bytte av defekt stoppekran",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Borkenveien",
+    "entreprenor": "TRANSGRAV AS",
+    "start": "12.08.2026",
+    "slutt": "14.08.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/541446",
+    "lat": 59.9059983,
+    "lon": 10.4782694,
+    "status": "pågår",
+    "scraped_date": "2026-08-13T05:30:42.493531"
+  },
+  {
+    "id": "26/265",
+    "sakstittel": "krysse veien for EL  Trudvangkroken 10",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Trudvangkroken",
+    "entreprenor": "ASKER OG BÆRUM GRAVESERVICE AS",
+    "start": "13.08.2026",
+    "slutt": "25.09.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/541376",
+    "lat": 59.9156933,
+    "lon": 10.6071968,
+    "status": "pågår",
+    "scraped_date": "2026-08-13T05:30:42.493531"
+  },
+  {
     "id": "26/263",
     "sakstittel": "Mellemveien kantstein 710002 - Høvik",
     "arbeidstype": "Arbeidstillatelse",
@@ -930,6 +958,20 @@
     "lon": 10.5218365,
     "status": "pågår",
     "scraped_date": "2026-08-03T06:02:06.523470"
+  },
+  {
+    "id": "26/258",
+    "sakstittel": "Møllebakken 16. Grave for strøm til skap ved nr 14",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Møllebakken",
+    "entreprenor": "KIM STEINSHOLT AS",
+    "start": "13.08.2026",
+    "slutt": "11.09.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/540859",
+    "lat": 59.9501078,
+    "lon": 10.6317434,
+    "status": "pågår",
+    "scraped_date": "2026-08-13T05:30:42.493531"
   },
   {
     "id": "26/257",
