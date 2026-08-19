@@ -834,6 +834,20 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "26/285",
+    "sakstittel": "Kryssing av Rudssletta",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Rudssletta",
+    "entreprenor": "ANLEGG & INFRASTRUKTUR AS",
+    "start": "18.08.2026",
+    "slutt": "30.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/542137",
+    "lat": 59.9091343,
+    "lon": 10.4910551,
+    "status": "pågår",
+    "scraped_date": "2026-08-19T05:07:55.647309"
+  },
+  {
     "id": "26/28",
     "sakstittel": "Vannlekkasje Bauneveien 11 og 13A",
     "arbeidstype": "Gravearbeid",
