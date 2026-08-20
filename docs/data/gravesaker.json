@@ -834,6 +834,34 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "26/289",
+    "sakstittel": "Vannlekkasje Baunekroken 18",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Kirkeveien",
+    "entreprenor": "ENVIRO ENTREPRENØR AS",
+    "start": "18.08.2026",
+    "slutt": "21.08.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/542178",
+    "lat": 59.9028562,
+    "lon": 10.5669885,
+    "status": "pågår",
+    "scraped_date": "2026-08-20T05:08:52.820870"
+  },
+  {
+    "id": "26/287",
+    "sakstittel": "Kleivveien 28",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Kleivveien",
+    "entreprenor": "STAKE & GRAVE SERVICE AS",
+    "start": "19.08.2026",
+    "slutt": "28.08.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/542155",
+    "lat": 59.9129659,
+    "lon": 10.5861878,
+    "status": "pågår",
+    "scraped_date": "2026-08-20T05:08:52.820870"
+  },
+  {
     "id": "26/285",
     "sakstittel": "Kryssing av Rudssletta",
     "arbeidstype": "Gravearbeid",
