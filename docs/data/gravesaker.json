@@ -876,6 +876,20 @@
     "scraped_date": "2026-08-19T05:07:55.647309"
   },
   {
+    "id": "26/282",
+    "sakstittel": "Kleivveien 31A _ Vannlekkasje",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Kleivveien",
+    "entreprenor": "BÆRUM KOMMUNE",
+    "start": "12.08.2026",
+    "slutt": "16.09.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/541927",
+    "lat": 59.9129659,
+    "lon": 10.5861878,
+    "status": "pågår",
+    "scraped_date": "2026-08-22T05:06:09.264014"
+  },
+  {
     "id": "26/28",
     "sakstittel": "Vannlekkasje Bauneveien 11 og 13A",
     "arbeidstype": "Gravearbeid",
@@ -1928,6 +1942,20 @@
     "lon": 10.5954505,
     "status": "pågår",
     "scraped_date": "2026-04-14T15:41:55.877016"
+  },
+  {
+    "id": "26/199",
+    "sakstittel": "Ny asfaltert, 25008 Etablering av ny GS-vei langs Fv. 168 Griniveien",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Fredheimlia",
+    "entreprenor": "ANLEGG ØST ENTREPRENØR AS",
+    "start": "01.06.2026",
+    "slutt": "01.12.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/538618",
+    "lat": 59.9453905,
+    "lon": 10.5959452,
+    "status": "pågår",
+    "scraped_date": "2026-08-22T05:06:09.264014"
   },
   {
     "id": "26/198",
