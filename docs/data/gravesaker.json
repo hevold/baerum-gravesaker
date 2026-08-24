@@ -890,6 +890,20 @@
     "scraped_date": "2026-08-22T05:06:09.264014"
   },
   {
+    "id": "26/281",
+    "sakstittel": "Hovedvei, Rud-Skui",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Isiveien",
+    "entreprenor": "TK MASKINDRIFT AS",
+    "start": "24.08.2026",
+    "slutt": "30.09.2027",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/541923",
+    "lat": 59.9415827,
+    "lon": 10.4343387,
+    "status": "pågår",
+    "scraped_date": "2026-08-24T05:13:15.330001"
+  },
+  {
     "id": "26/28",
     "sakstittel": "Vannlekkasje Bauneveien 11 og 13A",
     "arbeidstype": "Gravearbeid",
