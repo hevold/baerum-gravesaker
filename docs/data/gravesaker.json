@@ -862,6 +862,20 @@
     "scraped_date": "2026-08-20T05:08:52.820870"
   },
   {
+    "id": "26/286",
+    "sakstittel": "710005 Ballerud Sykkeltrase",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Høvikveien",
+    "entreprenor": "AKTIV VEIDRIFT AS",
+    "start": "24.08.2026",
+    "slutt": "15.12.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/542144",
+    "lat": 59.9131689,
+    "lon": 10.5781824,
+    "status": "pågår",
+    "scraped_date": "2026-08-25T05:09:47.275075"
+  },
+  {
     "id": "26/285",
     "sakstittel": "Kryssing av Rudssletta",
     "arbeidstype": "Gravearbeid",
@@ -874,6 +888,34 @@
     "lon": 10.4910551,
     "status": "pågår",
     "scraped_date": "2026-08-19T05:07:55.647309"
+  },
+  {
+    "id": "26/284",
+    "sakstittel": "Kabelfeil Lavspent  Bruksveien 50",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Bruksveien",
+    "entreprenor": "INFRATEK NORGE AS",
+    "start": "24.08.2026",
+    "slutt": "31.08.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/542115",
+    "lat": 59.8803771,
+    "lon": 10.6037394,
+    "status": "pågår",
+    "scraped_date": "2026-08-25T05:09:47.275075"
+  },
+  {
+    "id": "26/283",
+    "sakstittel": "Hovedvei, 100 Vannlekkasje Sandvika Sentrum - Rådhustorget x Jørgen Kanitz gate",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Rådhustorget",
+    "entreprenor": "KAARE MORTENSEN OSLO/AKERSHUS AS",
+    "start": "25.08.2026",
+    "slutt": "27.08.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/542067",
+    "lat": 59.8903667,
+    "lon": 10.5258168,
+    "status": "pågår",
+    "scraped_date": "2026-08-25T05:09:47.275075"
   },
   {
     "id": "26/282",
