@@ -820,6 +820,20 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "26/290",
+    "sakstittel": "Omr. Hosle Dyrefaret krysset Nadderudveien 78  -  17001029 Viken Fiber",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Dyrefaret",
+    "entreprenor": "TOM HVAAL AS",
+    "start": "24.08.2026",
+    "slutt": "30.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/542184",
+    "lat": 59.9332762,
+    "lon": 10.5950567,
+    "status": "pågår",
+    "scraped_date": "2026-08-26T05:09:33.954573"
+  },
+  {
     "id": "26/29",
     "sakstittel": "2026-023 Kolsåslia 62",
     "arbeidstype": "Gravearbeid",
@@ -846,6 +860,20 @@
     "lon": 10.5669885,
     "status": "pågår",
     "scraped_date": "2026-08-20T05:08:52.820870"
+  },
+  {
+    "id": "26/288",
+    "sakstittel": "7306 Kleven Gård",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Kleivveien",
+    "entreprenor": "SKOLLERUD ANLEGG AS",
+    "start": "20.08.2026",
+    "slutt": "30.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/542157",
+    "lat": 59.9129659,
+    "lon": 10.5861878,
+    "status": "pågår",
+    "scraped_date": "2026-08-26T05:09:33.954573"
   },
   {
     "id": "26/287",
