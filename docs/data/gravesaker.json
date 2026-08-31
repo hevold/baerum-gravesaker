@@ -820,6 +820,34 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "26/296",
+    "sakstittel": "22401 – BRL – Jongskollen Boligsameie 3",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Tappen",
+    "entreprenor": "TOM HVAAL AS",
+    "start": "31.08.2026",
+    "slutt": "30.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/542770",
+    "lat": 59.8858443,
+    "lon": 10.5083419,
+    "status": "pågår",
+    "scraped_date": "2026-08-31T05:03:43.859620"
+  },
+  {
+    "id": "26/293",
+    "sakstittel": "22984 – BRL – Sameiet Eiksveien 1",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Eiksveien",
+    "entreprenor": "TOM HVAAL AS",
+    "start": "31.08.2026",
+    "slutt": "23.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/542601",
+    "lat": 59.9397531,
+    "lon": 10.6060285,
+    "status": "pågår",
+    "scraped_date": "2026-08-31T05:03:43.859620"
+  },
+  {
     "id": "26/290",
     "sakstittel": "Omr. Hosle Dyrefaret krysset Nadderudveien 78  -  17001029 Viken Fiber",
     "arbeidstype": "Gravearbeid",
@@ -1124,6 +1152,20 @@
     "kilde_url": "https://baerum.gravearbeider.no/soknad/view/541410",
     "status": "pågår",
     "scraped_date": "2026-08-17T05:12:19.309413"
+  },
+  {
+    "id": "26/266",
+    "sakstittel": "Midlertidig bussholdeplass Nesveien",
+    "arbeidstype": "Arbeidstillatelse",
+    "veinavn": "Nesveien",
+    "entreprenor": "RUTER AS",
+    "start": "31.08.2026",
+    "slutt": "02.09.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/541390",
+    "lat": 59.9114516,
+    "lon": 10.5432523,
+    "status": "pågår",
+    "scraped_date": "2026-08-31T05:03:43.859620"
   },
   {
     "id": "26/265",
