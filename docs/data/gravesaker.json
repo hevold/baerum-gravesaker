@@ -1736,6 +1736,20 @@
     "scraped_date": "2026-06-24T06:19:17.870260"
   },
   {
+    "id": "26/223",
+    "sakstittel": "Hovedvei, Bærumsveien",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Bærumsveien",
+    "entreprenor": "STENE JOHANSEN AS",
+    "start": "01.09.2026",
+    "slutt": "30.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/539361",
+    "lat": 59.9058193,
+    "lon": 10.521179,
+    "status": "pågår",
+    "scraped_date": "2026-09-01T05:03:28.429129"
+  },
+  {
     "id": "26/222",
     "sakstittel": "Løsnet Brønnlokk Telenor -  Anthon Walles vei 34A",
     "arbeidstype": "Gravearbeid",
