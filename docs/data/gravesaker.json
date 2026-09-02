@@ -2154,6 +2154,20 @@
     "scraped_date": "2026-06-17T06:41:51.361807"
   },
   {
+    "id": "26/194",
+    "sakstittel": "Ny fiberfremføring",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Leif Larsens vei",
+    "entreprenor": "BERNT GUNDERSEN GRAVESERVICE AS",
+    "start": "31.08.2026",
+    "slutt": "04.09.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/538499",
+    "lat": 59.8958008,
+    "lon": 10.5219818,
+    "status": "pågår",
+    "scraped_date": "2026-09-02T05:03:02.579974"
+  },
+  {
     "id": "26/192",
     "sakstittel": "Hastesak! Måneveien 6",
     "arbeidstype": "Gravearbeid",
