@@ -848,6 +848,20 @@
     "scraped_date": "2026-08-31T05:03:43.859620"
   },
   {
+    "id": "26/292",
+    "sakstittel": "Leieavtale, Rolfstangveien 7, Bærum. Balkongteam AS",
+    "arbeidstype": "Arbeidstillatelse",
+    "veinavn": "Bjerkesvingen",
+    "entreprenor": "BALKONGTEAM AS",
+    "start": "28.08.2026",
+    "slutt": "27.11.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/542308",
+    "lat": 59.8895609,
+    "lon": 10.6288379,
+    "status": "pågår",
+    "scraped_date": "2026-09-04T05:03:55.020278"
+  },
+  {
     "id": "26/290",
     "sakstittel": "Omr. Hosle Dyrefaret krysset Nadderudveien 78  -  17001029 Viken Fiber",
     "arbeidstype": "Gravearbeid",
