@@ -792,6 +792,34 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "26/307",
+    "sakstittel": "375 FV Gjønnes  - arbeid Gjønnesjordet",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Gamle Ringeriksvei, Gjønnesskogen, Gjønnesjordet",
+    "entreprenor": "KAARE MORTENSEN OSLO/AKERSHUS AS",
+    "start": "07.09.2026",
+    "slutt": "01.12.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/543334",
+    "lat": 59.9183001,
+    "lon": 10.5844051,
+    "status": "pågår",
+    "scraped_date": "2026-09-07T05:03:30.869354"
+  },
+  {
+    "id": "26/305",
+    "sakstittel": "Skifte Telestolpe",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Fridtjof Nansens vei",
+    "entreprenor": "LUND & REISTAD AS",
+    "start": "07.09.2026",
+    "slutt": "14.09.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/543256",
+    "lat": 59.9097858,
+    "lon": 10.6343517,
+    "status": "pågår",
+    "scraped_date": "2026-09-07T05:03:30.869354"
+  },
+  {
     "id": "26/30",
     "sakstittel": "Forneburingen",
     "arbeidstype": "Gravearbeid",
@@ -832,6 +860,20 @@
     "lon": 10.5083419,
     "status": "pågår",
     "scraped_date": "2026-08-31T05:03:43.859620"
+  },
+  {
+    "id": "26/294",
+    "sakstittel": "Bjerkåsen 11",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Bjerkåsen",
+    "entreprenor": "SKOLLERUD ANLEGG AS",
+    "start": "07.09.2026",
+    "slutt": "31.12.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/542650",
+    "lat": 59.9008187,
+    "lon": 10.5510075,
+    "status": "pågår",
+    "scraped_date": "2026-09-07T05:03:30.869354"
   },
   {
     "id": "26/293",
