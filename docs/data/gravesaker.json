@@ -848,6 +848,20 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "26/298",
+    "sakstittel": "Riggområdet",
+    "arbeidstype": "Arbeidstillatelse",
+    "veinavn": "Brodtkorbsgate",
+    "entreprenor": "JI BYGG AS",
+    "start": "07.09.2026",
+    "slutt": "25.09.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/542914",
+    "lat": 59.8910409,
+    "lon": 10.5199023,
+    "status": "pågår",
+    "scraped_date": "2026-09-08T05:03:36.336888"
+  },
+  {
     "id": "26/296",
     "sakstittel": "22401 – BRL – Jongskollen Boligsameie 3",
     "arbeidstype": "Gravearbeid",
