@@ -820,6 +820,20 @@
     "scraped_date": "2026-09-07T05:03:30.869354"
   },
   {
+    "id": "26/301",
+    "sakstittel": "Rud skui. Del 2",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Berghoffveien, Bjørumveien, Bjørumdalen",
+    "entreprenor": "TK MASKINDRIFT AS",
+    "start": "04.09.2026",
+    "slutt": "30.11.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/543142",
+    "lat": 59.9306054,
+    "lon": 10.448017,
+    "status": "pågår",
+    "scraped_date": "2026-09-09T05:03:12.747499"
+  },
+  {
     "id": "26/30",
     "sakstittel": "Forneburingen",
     "arbeidstype": "Gravearbeid",
