@@ -1114,6 +1114,20 @@
     "scraped_date": "2026-08-21T05:09:17.364791"
   },
   {
+    "id": "26/277",
+    "sakstittel": "Ovenbakken",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Ovenbakken",
+    "entreprenor": "VEISKILTING AS",
+    "start": "09.09.2026",
+    "slutt": "25.09.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/541693",
+    "lat": 59.9435369,
+    "lon": 10.6081986,
+    "status": "pågår",
+    "scraped_date": "2026-09-10T05:03:24.496765"
+  },
+  {
     "id": "26/276",
     "sakstittel": "Gamle Ringeriksvei 120 - Utskfting av kabel",
     "arbeidstype": "Gravearbeid",
