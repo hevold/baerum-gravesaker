@@ -764,6 +764,20 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "26/325",
+    "sakstittel": "Vannlekkasje Magnus Blikstads vei",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Magnus Blikstads vei",
+    "entreprenor": "BÆRUM KOMMUNE",
+    "start": "11.09.2026",
+    "slutt": "31.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/543950",
+    "lat": 59.9316951,
+    "lon": 10.5868694,
+    "status": "pågår",
+    "scraped_date": "2026-09-12T05:02:53.524232"
+  },
+  {
     "id": "26/32",
     "sakstittel": "Vallersbekken Boligsameie",
     "arbeidstype": "Gravearbeid",
@@ -776,6 +790,34 @@
     "lon": 10.5055434,
     "status": "pågår",
     "scraped_date": "2026-04-14T15:41:55.877016"
+  },
+  {
+    "id": "26/314",
+    "sakstittel": "2026-078 Halfdan Jønnsons vei 3a",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Halfdan Jønssons vei",
+    "entreprenor": "ASKER OG BÆRUM GRAVESERVICE AS",
+    "start": "08.09.2026",
+    "slutt": "25.09.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/543615",
+    "lat": 59.9259036,
+    "lon": 10.5943991,
+    "status": "pågår",
+    "scraped_date": "2026-09-12T05:02:53.524232"
+  },
+  {
+    "id": "26/310",
+    "sakstittel": "Gjønnesveien - asfaltering",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Johs Faales vei",
+    "entreprenor": "HOLE GRAVESERVICE AS",
+    "start": "10.09.2026",
+    "slutt": "30.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/543466",
+    "lat": 59.9077851,
+    "lon": 10.5782918,
+    "status": "pågår",
+    "scraped_date": "2026-09-12T05:02:53.524232"
   },
   {
     "id": "26/31",
