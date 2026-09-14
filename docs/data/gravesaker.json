@@ -778,6 +778,34 @@
     "scraped_date": "2026-09-12T05:02:53.524232"
   },
   {
+    "id": "26/323",
+    "sakstittel": "Vannlekkasje Åsengveien 85",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Nedre Åsvei",
+    "entreprenor": "A. TANGEN AS",
+    "start": "14.09.2026",
+    "slutt": "05.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/543878",
+    "lat": 59.8868587,
+    "lon": 10.4926097,
+    "status": "pågår",
+    "scraped_date": "2026-09-14T05:03:30.620540"
+  },
+  {
+    "id": "26/320",
+    "sakstittel": "Utomhus-Bekkestua",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Furuveien",
+    "entreprenor": "SØNSTEGÅRD AS",
+    "start": "14.09.2026",
+    "slutt": "14.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/543778",
+    "lat": 59.9244901,
+    "lon": 10.5783496,
+    "status": "pågår",
+    "scraped_date": "2026-09-14T05:03:30.620540"
+  },
+  {
     "id": "26/32",
     "sakstittel": "Vallersbekken Boligsameie",
     "arbeidstype": "Gravearbeid",
@@ -790,6 +818,34 @@
     "lon": 10.5055434,
     "status": "pågår",
     "scraped_date": "2026-04-14T15:41:55.877016"
+  },
+  {
+    "id": "26/317",
+    "sakstittel": "Hovedvei og ny asfaltert, Kolsåsstien 9",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Kolsåsstien",
+    "entreprenor": "TOM HVAAL AS",
+    "start": "14.09.2026",
+    "slutt": "06.11.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/543720",
+    "lat": 59.9162337,
+    "lon": 10.5076253,
+    "status": "pågår",
+    "scraped_date": "2026-09-14T05:03:30.620540"
+  },
+  {
+    "id": "26/316",
+    "sakstittel": "22245 – BRL – Sameiet Solegladveien 9 - 11",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Solegladveien",
+    "entreprenor": "TOM HVAAL AS",
+    "start": "14.09.2026",
+    "slutt": "06.11.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/543630",
+    "lat": 59.9134703,
+    "lon": 10.5031222,
+    "status": "pågår",
+    "scraped_date": "2026-09-14T05:03:30.620540"
   },
   {
     "id": "26/314",
@@ -846,6 +902,20 @@
     "lon": 10.5844051,
     "status": "pågår",
     "scraped_date": "2026-09-07T05:03:30.869354"
+  },
+  {
+    "id": "26/306",
+    "sakstittel": "Tjernsrudveien 29",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Idrettsveien",
+    "entreprenor": "SKOLLERUD ANLEGG AS",
+    "start": "14.09.2026",
+    "slutt": "02.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/543308",
+    "lat": 59.9154777,
+    "lon": 10.6000936,
+    "status": "pågår",
+    "scraped_date": "2026-09-14T05:03:30.620540"
   },
   {
     "id": "26/305",
@@ -1182,6 +1252,20 @@
     "lon": 10.5927114,
     "status": "pågår",
     "scraped_date": "2026-08-17T05:12:19.309413"
+  },
+  {
+    "id": "26/275",
+    "sakstittel": "100 Vannlekkasje Sandvika Sentrum - Leif Trondstads plass",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Leif Tronstads plass",
+    "entreprenor": "KAARE MORTENSEN OSLO/AKERSHUS AS",
+    "start": "14.09.2026",
+    "slutt": "02.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/541564",
+    "lat": 59.8929993,
+    "lon": 10.5228162,
+    "status": "pågår",
+    "scraped_date": "2026-09-14T05:03:30.620540"
   },
   {
     "id": "26/274",
