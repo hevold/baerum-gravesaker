@@ -750,6 +750,20 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "26/330",
+    "sakstittel": "Midlertidig parkering forbudt langs Langoddveien 35",
+    "arbeidstype": "Arbeidstillatelse",
+    "veinavn": "Langoddveien",
+    "entreprenor": "SOLSTRÅLE AS",
+    "start": "11.09.2026",
+    "slutt": "01.07.2027",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/544068",
+    "lat": 59.8876458,
+    "lon": 10.6196701,
+    "status": "pågår",
+    "scraped_date": "2026-09-15T05:03:40.170858"
+  },
+  {
     "id": "26/33",
     "sakstittel": "2647-101 Gangvei Rolfsbuktveien",
     "arbeidstype": "Gravearbeid",
