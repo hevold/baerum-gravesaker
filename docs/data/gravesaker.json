@@ -806,6 +806,20 @@
     "scraped_date": "2026-09-14T05:03:30.620540"
   },
   {
+    "id": "26/322",
+    "sakstittel": "24/11395-26/127839 MALTR Reparere utv VA",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Ruglandveien",
+    "entreprenor": "C3 HOLDING AS",
+    "start": "16.09.2026",
+    "slutt": "23.09.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/543788",
+    "lat": 59.9350361,
+    "lon": 10.6296734,
+    "status": "pågår",
+    "scraped_date": "2026-09-16T05:03:24.837925"
+  },
+  {
     "id": "26/320",
     "sakstittel": "Utomhus-Bekkestua",
     "arbeidstype": "Gravearbeid",
