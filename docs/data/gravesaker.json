@@ -778,6 +778,34 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "26/327",
+    "sakstittel": "Bjerkeholtet 5",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Bjerkeholtet",
+    "entreprenor": "VEISKILTING AS",
+    "start": "17.09.2026",
+    "slutt": "24.09.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/543981",
+    "lat": 59.9088874,
+    "lon": 10.5533102,
+    "status": "pågår",
+    "scraped_date": "2026-09-17T05:03:45.392301"
+  },
+  {
+    "id": "26/326",
+    "sakstittel": "Geotekniske grunnundersøkelser Kabeltunnel Hamang-Bærum-Smestad",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Levreveien, Rudsveien",
+    "entreprenor": "MULTICONSULT NORGE AS",
+    "start": "16.09.2026",
+    "slutt": "21.09.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/543958",
+    "lat": 59.9043081,
+    "lon": 10.5165805,
+    "status": "pågår",
+    "scraped_date": "2026-09-17T05:03:45.392301"
+  },
+  {
     "id": "26/325",
     "sakstittel": "Vannlekkasje Magnus Blikstads vei",
     "arbeidstype": "Gravearbeid",
@@ -890,6 +918,20 @@
     "scraped_date": "2026-09-12T05:02:53.524232"
   },
   {
+    "id": "26/312",
+    "sakstittel": "Bekkestua Terrasse",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Bærumsveien",
+    "entreprenor": "HAGE AS",
+    "start": "14.09.2026",
+    "slutt": "16.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/543560",
+    "lat": 59.9058193,
+    "lon": 10.521179,
+    "status": "pågår",
+    "scraped_date": "2026-09-17T05:03:45.392301"
+  },
+  {
     "id": "26/310",
     "sakstittel": "Gjønnesveien - asfaltering",
     "arbeidstype": "Gravearbeid",
@@ -958,6 +1000,20 @@
     "lon": 10.6343517,
     "status": "pågår",
     "scraped_date": "2026-09-07T05:03:30.869354"
+  },
+  {
+    "id": "26/304",
+    "sakstittel": "Ringsveien 2",
+    "arbeidstype": "Arbeidstillatelse",
+    "veinavn": "Ringsveien",
+    "entreprenor": "AKER TREPLEIE AS",
+    "start": "17.09.2026",
+    "slutt": "18.09.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/543186",
+    "lat": 59.9126088,
+    "lon": 10.6022156,
+    "status": "pågår",
+    "scraped_date": "2026-09-17T05:03:45.392301"
   },
   {
     "id": "26/301",
