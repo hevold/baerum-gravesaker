@@ -750,6 +750,20 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "26/339",
+    "sakstittel": "Rolfsbuktveien, Bærum.",
+    "arbeidstype": "Arbeidstillatelse",
+    "veinavn": "Rolfsbuktveien",
+    "entreprenor": "ENERGIANLEGG AS",
+    "start": "16.09.2026",
+    "slutt": "25.09.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/544356",
+    "lat": 59.8947771,
+    "lon": 10.626237,
+    "status": "pågår",
+    "scraped_date": "2026-09-18T05:03:13.205991"
+  },
+  {
     "id": "26/330",
     "sakstittel": "Midlertidig parkering forbudt langs Langoddveien 35",
     "arbeidstype": "Arbeidstillatelse",
