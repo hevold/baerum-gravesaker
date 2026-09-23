@@ -736,6 +736,34 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "26/349",
+    "sakstittel": "Ruglandveien 151",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Ruglandveien",
+    "entreprenor": "BRINCHEN & MYKLAND AS",
+    "start": "21.09.2026",
+    "slutt": "25.09.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/544617",
+    "lat": 59.9483799,
+    "lon": 10.6318553,
+    "status": "pågår",
+    "scraped_date": "2026-09-23T05:03:20.155378"
+  },
+  {
+    "id": "26/347",
+    "sakstittel": "Asfaltering i Jongsåsveien - Sandvika",
+    "arbeidstype": "Arbeidstillatelse",
+    "veinavn": "Kjørbokollen, Jongsåsveien, Brodtkorbsgate",
+    "entreprenor": "SAFEROAD TRAFFIC AS",
+    "start": "23.09.2026",
+    "slutt": "09.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/544531",
+    "lat": 59.8874997,
+    "lon": 10.5193927,
+    "status": "pågår",
+    "scraped_date": "2026-09-23T05:03:20.155378"
+  },
+  {
     "id": "26/34",
     "sakstittel": "2647-101 Martin Linges Vei - kryssing",
     "arbeidstype": "Gravearbeid",
@@ -832,6 +860,20 @@
     "lon": 10.5890627,
     "status": "pågår",
     "scraped_date": "2026-09-21T05:03:44.917539"
+  },
+  {
+    "id": "26/331",
+    "sakstittel": "Riving og oppsetting av garasjer",
+    "arbeidstype": "Arbeidstillatelse",
+    "veinavn": "Stian Kristensens vei",
+    "entreprenor": "S&L ENTREPRENØR AS",
+    "start": "15.09.2026",
+    "slutt": "31.03.2027",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/544106",
+    "lat": 59.9300625,
+    "lon": 10.4838011,
+    "status": "pågår",
+    "scraped_date": "2026-09-23T05:03:20.155378"
   },
   {
     "id": "26/330",
@@ -932,6 +974,20 @@
     "scraped_date": "2026-09-16T05:03:24.837925"
   },
   {
+    "id": "26/321",
+    "sakstittel": "Graving for HS del 3",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Tåjeveien, Jarenveien",
+    "entreprenor": "TK MASKINDRIFT AS",
+    "start": "14.09.2026",
+    "slutt": "30.12.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/543780",
+    "lat": 59.9241102,
+    "lon": 10.4487526,
+    "status": "pågår",
+    "scraped_date": "2026-09-23T05:03:20.155378"
+  },
+  {
     "id": "26/320",
     "sakstittel": "Utomhus-Bekkestua",
     "arbeidstype": "Gravearbeid",
@@ -1000,6 +1056,20 @@
     "lon": 10.5943991,
     "status": "pågår",
     "scraped_date": "2026-09-12T05:02:53.524232"
+  },
+  {
+    "id": "26/313",
+    "sakstittel": "Skytten 1/Stian kristensen vei 69/Skytten 69",
+    "arbeidstype": "Arbeidstillatelse",
+    "veinavn": "Skytten",
+    "entreprenor": "S&L ENTREPRENØR AS",
+    "start": "10.09.2026",
+    "slutt": "30.06.2027",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/543598",
+    "lat": 59.9283705,
+    "lon": 10.4844765,
+    "status": "pågår",
+    "scraped_date": "2026-09-23T05:03:20.155378"
   },
   {
     "id": "26/312",
