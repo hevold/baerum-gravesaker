@@ -764,6 +764,34 @@
     "scraped_date": "2026-09-23T05:03:20.155378"
   },
   {
+    "id": "26/343",
+    "sakstittel": "Omr. Åsterud Christian Skredsvigs vei 1b - 4, 5 - 11 og 8 - 15  -  17001053 Viken Fiber",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Chr. Skredsvigs vei",
+    "entreprenor": "TOM HVAAL AS",
+    "start": "23.09.2026",
+    "slutt": "30.11.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/544447",
+    "lat": 59.9126928,
+    "lon": 10.542083,
+    "status": "pågår",
+    "scraped_date": "2026-09-24T05:03:06.130311"
+  },
+  {
+    "id": "26/342",
+    "sakstittel": "Omr. Åsterud Vallerkroken 10a - 12  -  17001053 Viken Fiber",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Vallerkroken",
+    "entreprenor": "TOM HVAAL AS",
+    "start": "23.09.2026",
+    "slutt": "30.11.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/544444",
+    "lat": 59.9115465,
+    "lon": 10.542055,
+    "status": "pågår",
+    "scraped_date": "2026-09-24T05:03:06.130311"
+  },
+  {
     "id": "26/34",
     "sakstittel": "2647-101 Martin Linges Vei - kryssing",
     "arbeidstype": "Gravearbeid",
@@ -904,6 +932,20 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "26/328",
+    "sakstittel": "Jenshaugveien 39",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Jenshaugveien",
+    "entreprenor": "VEISKILTING AS",
+    "start": "24.09.2026",
+    "slutt": "01.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/543996",
+    "lat": 59.8955449,
+    "lon": 10.5643734,
+    "status": "pågår",
+    "scraped_date": "2026-09-24T05:03:06.130311"
+  },
+  {
     "id": "26/327",
     "sakstittel": "Bjerkeholtet 5",
     "arbeidstype": "Gravearbeid",
@@ -944,6 +986,20 @@
     "lon": 10.5868694,
     "status": "pågår",
     "scraped_date": "2026-09-12T05:02:53.524232"
+  },
+  {
+    "id": "26/324",
+    "sakstittel": "Brageveien 4",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Brageveien",
+    "entreprenor": "HAGE AS",
+    "start": "22.09.2026",
+    "slutt": "23.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/543940",
+    "lat": 59.9214648,
+    "lon": 10.5944236,
+    "status": "pågår",
+    "scraped_date": "2026-09-24T05:03:06.130311"
   },
   {
     "id": "26/323",
