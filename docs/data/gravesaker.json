@@ -722,6 +722,20 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "26/358",
+    "sakstittel": "375 FV Gjønnes - fase 3",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Gamle Ringeriksvei, Gjønnesskogen, Gjønnesjordet",
+    "entreprenor": "KAARE MORTENSEN OSLO/AKERSHUS AS",
+    "start": "25.05.2026",
+    "slutt": "01.12.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/544783",
+    "lat": 59.9188739,
+    "lon": 10.5812102,
+    "status": "pågår",
+    "scraped_date": "2026-09-25T05:03:22.987829"
+  },
+  {
     "id": "26/35",
     "sakstittel": "Guldbrandslia 20, Bærum. RW Graveservice AS",
     "arbeidstype": "Gravearbeid",
@@ -762,6 +776,20 @@
     "lon": 10.5193927,
     "status": "pågår",
     "scraped_date": "2026-09-23T05:03:20.155378"
+  },
+  {
+    "id": "26/345",
+    "sakstittel": "Omr. Åsterud Nestoppen 14 - 16  -  17001053 Viken Fiber",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Nestoppen",
+    "entreprenor": "TOM HVAAL AS",
+    "start": "23.09.2026",
+    "slutt": "30.11.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/544456",
+    "lat": 59.9163243,
+    "lon": 10.5531934,
+    "status": "pågår",
+    "scraped_date": "2026-09-25T05:03:22.987829"
   },
   {
     "id": "26/343",
