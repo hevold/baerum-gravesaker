@@ -708,6 +708,20 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "26/361",
+    "sakstittel": "Stasjonshagen Høvik Snoveien",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Snoveien",
+    "entreprenor": "BRØDRENE DOKKEN AS",
+    "start": "21.09.2026",
+    "slutt": "01.05.2027",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/544823",
+    "lat": 59.900998,
+    "lon": 10.5792503,
+    "status": "pågår",
+    "scraped_date": "2026-09-26T05:03:03.853863"
+  },
+  {
     "id": "26/36",
     "sakstittel": "Bytte av Mast 111683 Bruksveien 4",
     "arbeidstype": "Gravearbeid",
@@ -1098,6 +1112,20 @@
     "lon": 10.5055434,
     "status": "pågår",
     "scraped_date": "2026-04-14T15:41:55.877016"
+  },
+  {
+    "id": "26/319",
+    "sakstittel": "Bruksveien PST",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Bruksveien",
+    "entreprenor": "Arne Olav Lund A/S",
+    "start": "21.09.2026",
+    "slutt": "30.06.2027",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/543762",
+    "lat": 59.8803771,
+    "lon": 10.6037394,
+    "status": "pågår",
+    "scraped_date": "2026-09-26T05:03:03.853863"
   },
   {
     "id": "26/317",
