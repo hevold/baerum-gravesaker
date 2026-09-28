@@ -708,6 +708,34 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "26/367",
+    "sakstittel": "E18VK - Kjerneboringer - Sandvika",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Brodtkorbsgate",
+    "entreprenor": "NORCONSULT BORETEKNIKK AS",
+    "start": "28.09.2026",
+    "slutt": "09.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/544877",
+    "lat": 59.8905525,
+    "lon": 10.5179121,
+    "status": "pågår",
+    "scraped_date": "2026-09-28T05:04:04.080708"
+  },
+  {
+    "id": "26/364",
+    "sakstittel": "Omr. Åsterud Åsterudstien 1 - 3  -  17001053  Viken Fiber",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Åsterudstien",
+    "entreprenor": "TOM HVAAL AS",
+    "start": "28.09.2026",
+    "slutt": "30.11.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/544854",
+    "lat": 59.9232482,
+    "lon": 10.5559124,
+    "status": "pågår",
+    "scraped_date": "2026-09-28T05:04:04.080708"
+  },
+  {
     "id": "26/361",
     "sakstittel": "Stasjonshagen Høvik Snoveien",
     "arbeidstype": "Gravearbeid",
@@ -720,6 +748,20 @@
     "lon": 10.5792503,
     "status": "pågår",
     "scraped_date": "2026-09-26T05:03:03.853863"
+  },
+  {
+    "id": "26/360",
+    "sakstittel": "Skuiveien fortau",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Vinkelveien, Åses vei",
+    "entreprenor": "STENE JOHANSEN AS",
+    "start": "28.09.2026",
+    "slutt": "30.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/544816",
+    "lat": 59.9028545,
+    "lon": 10.4885142,
+    "status": "pågår",
+    "scraped_date": "2026-09-28T05:04:04.080708"
   },
   {
     "id": "26/36",
@@ -748,6 +790,46 @@
     "lon": 10.5812102,
     "status": "pågår",
     "scraped_date": "2026-09-25T05:03:22.987829"
+  },
+  {
+    "id": "26/357",
+    "sakstittel": "Søknad om avkjøring riggområdet",
+    "arbeidstype": "Arbeidstillatelse",
+    "veinavn": "",
+    "entreprenor": "BRØDRENE DOKKEN AS",
+    "start": "28.09.2026",
+    "slutt": "01.05.2027",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/544715",
+    "status": "pågår",
+    "scraped_date": "2026-09-28T05:04:04.080708"
+  },
+  {
+    "id": "26/354",
+    "sakstittel": "Helsetdammen 40  -  37001013 Viken Fiber",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Helsetdammen",
+    "entreprenor": "TOM HVAAL AS",
+    "start": "28.09.2026",
+    "slutt": "30.11.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/544669",
+    "lat": 59.9421141,
+    "lon": 10.5152685,
+    "status": "pågår",
+    "scraped_date": "2026-09-28T05:04:04.080708"
+  },
+  {
+    "id": "26/352",
+    "sakstittel": "Prøvegraving John Strandruds vei til Teleplan",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "John Strandruds vei, Arnstein Arnebergs vei",
+    "entreprenor": "BRØDRENE DOKKEN AS",
+    "start": "28.09.2026",
+    "slutt": "02.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/544646",
+    "lat": 59.9022778,
+    "lon": 10.6182852,
+    "status": "pågår",
+    "scraped_date": "2026-09-28T05:04:04.080708"
   },
   {
     "id": "26/35",
@@ -1336,6 +1418,20 @@
     "lon": 10.5199023,
     "status": "pågår",
     "scraped_date": "2026-09-08T05:03:36.336888"
+  },
+  {
+    "id": "26/297",
+    "sakstittel": "Hovedvei, Vestmarkveien asfaltering",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Vestmarkveien",
+    "entreprenor": "ISACHSEN ANLEGG AS",
+    "start": "28.09.2026",
+    "slutt": "18.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/542796",
+    "lat": 59.8868718,
+    "lon": 10.4343857,
+    "status": "pågår",
+    "scraped_date": "2026-09-28T05:04:04.080708"
   },
   {
     "id": "26/296",
