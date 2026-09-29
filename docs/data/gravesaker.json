@@ -694,6 +694,20 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "26/375",
+    "sakstittel": "Markalleen , Bærum",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Markalleen",
+    "entreprenor": "TOPAAS OG HAUG ENTREPRENØR AS",
+    "start": "28.09.2026",
+    "slutt": "16.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/545022",
+    "lat": 59.9028079,
+    "lon": 10.5905949,
+    "status": "pågår",
+    "scraped_date": "2026-09-29T05:03:31.921910"
+  },
+  {
     "id": "26/37",
     "sakstittel": "Bytte Mast 172138 Fagerstrandveien 71/73",
     "arbeidstype": "Gravearbeid",
@@ -706,6 +720,20 @@
     "lon": 10.5907563,
     "status": "pågår",
     "scraped_date": "2026-04-14T15:41:55.877016"
+  },
+  {
+    "id": "26/368",
+    "sakstittel": "Hovedvei og ny asfaltert, øygardveien",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "øygardveien",
+    "entreprenor": "HAGE AS",
+    "start": "28.09.2026",
+    "slutt": "30.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/544887",
+    "lat": 59.9201764,
+    "lon": 10.5779876,
+    "status": "pågår",
+    "scraped_date": "2026-09-29T05:03:31.921910"
   },
   {
     "id": "26/367",
@@ -722,6 +750,34 @@
     "scraped_date": "2026-09-28T05:04:04.080708"
   },
   {
+    "id": "26/366",
+    "sakstittel": "Hovedvei og ny asfaltert, wilhelmsens vei",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Wilh.Wilhelmsens vei , Bankveien",
+    "entreprenor": "HAGE AS",
+    "start": "28.09.2026",
+    "slutt": "27.11.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/544872",
+    "lat": 59.9318517,
+    "lon": 10.5932069,
+    "status": "pågår",
+    "scraped_date": "2026-09-29T05:03:31.921910"
+  },
+  {
+    "id": "26/365",
+    "sakstittel": "bankveien",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Wilh.Wilhelmsens vei , Bankveien",
+    "entreprenor": "HAGE AS",
+    "start": "21.09.2026",
+    "slutt": "05.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/544869",
+    "lat": 59.9318517,
+    "lon": 10.5932069,
+    "status": "pågår",
+    "scraped_date": "2026-09-29T05:03:31.921910"
+  },
+  {
     "id": "26/364",
     "sakstittel": "Omr. Åsterud Åsterudstien 1 - 3  -  17001053  Viken Fiber",
     "arbeidstype": "Gravearbeid",
@@ -734,6 +790,20 @@
     "lon": 10.5559124,
     "status": "pågår",
     "scraped_date": "2026-09-28T05:04:04.080708"
+  },
+  {
+    "id": "26/363",
+    "sakstittel": "Omr. Åsterud Åsterudsletta 102  -  17001053 Viken Fiber",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Åsterudsletta",
+    "entreprenor": "TOM HVAAL AS",
+    "start": "28.09.2026",
+    "slutt": "30.11.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/544848",
+    "lat": 59.9213631,
+    "lon": 10.5488833,
+    "status": "pågår",
+    "scraped_date": "2026-09-29T05:03:31.921910"
   },
   {
     "id": "26/361",
@@ -802,6 +872,20 @@
     "kilde_url": "https://baerum.gravearbeider.no/soknad/view/544715",
     "status": "pågår",
     "scraped_date": "2026-09-28T05:04:04.080708"
+  },
+  {
+    "id": "26/355",
+    "sakstittel": "Sundbakken VA",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Sundbakken",
+    "entreprenor": "BRØDRENE DOKKEN AS",
+    "start": "29.09.2026",
+    "slutt": "01.05.2027",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/544706",
+    "lat": 59.883369,
+    "lon": 10.6129787,
+    "status": "pågår",
+    "scraped_date": "2026-09-29T05:03:31.921910"
   },
   {
     "id": "26/354",
