@@ -708,6 +708,20 @@
     "scraped_date": "2026-09-29T05:03:31.921910"
   },
   {
+    "id": "26/373",
+    "sakstittel": "Kirkeveien 5, Bærum.",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Kirkeveien",
+    "entreprenor": "TOPAAS OG HAUG ENTREPRENØR AS",
+    "start": "28.09.2026",
+    "slutt": "16.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/545008",
+    "lat": 59.9028562,
+    "lon": 10.5669885,
+    "status": "pågår",
+    "scraped_date": "2026-09-30T05:03:23.585423"
+  },
+  {
     "id": "26/37",
     "sakstittel": "Bytte Mast 172138 Fagerstrandveien 71/73",
     "arbeidstype": "Gravearbeid",
@@ -848,6 +862,20 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "26/359",
+    "sakstittel": "Linje rydding",
+    "arbeidstype": "Arbeidstillatelse",
+    "veinavn": "Konvallveien",
+    "entreprenor": "DRIIV VEI AS",
+    "start": "30.09.2026",
+    "slutt": "30.09.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/544809",
+    "lat": 59.8846129,
+    "lon": 10.5138154,
+    "status": "pågår",
+    "scraped_date": "2026-09-30T05:03:23.585423"
+  },
+  {
     "id": "26/358",
     "sakstittel": "375 FV Gjønnes - fase 3",
     "arbeidstype": "Gravearbeid",
@@ -972,6 +1000,20 @@
     "scraped_date": "2026-09-25T05:03:22.987829"
   },
   {
+    "id": "26/344",
+    "sakstittel": "Omr. Åsterud Nesveien 14 - x Neslia  -  17001053 Viken Fiber",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Nesveien",
+    "entreprenor": "TOM HVAAL AS",
+    "start": "23.09.2026",
+    "slutt": "30.11.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/544453",
+    "lat": 59.9114516,
+    "lon": 10.5432523,
+    "status": "pågår",
+    "scraped_date": "2026-09-30T05:03:23.585423"
+  },
+  {
     "id": "26/343",
     "sakstittel": "Omr. Åsterud Christian Skredsvigs vei 1b - 4, 5 - 11 og 8 - 15  -  17001053 Viken Fiber",
     "arbeidstype": "Gravearbeid",
@@ -998,6 +1040,34 @@
     "lon": 10.542055,
     "status": "pågår",
     "scraped_date": "2026-09-24T05:03:06.130311"
+  },
+  {
+    "id": "26/341",
+    "sakstittel": "Omr. Åsterud Vallerveien 60 - 64, 92 - 93 og 102 - 105  -  170010534 Viken Fiber",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Vallerveien",
+    "entreprenor": "TOM HVAAL AS",
+    "start": "23.09.2026",
+    "slutt": "30.11.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/544441",
+    "lat": 59.9096422,
+    "lon": 10.5360859,
+    "status": "pågår",
+    "scraped_date": "2026-09-30T05:03:23.585423"
+  },
+  {
+    "id": "26/340",
+    "sakstittel": "Sandvika fjernvarme",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Rådhustorget, Rådmann Halmrasts vei",
+    "entreprenor": "BK-ANLEGG AS",
+    "start": "29.09.2026",
+    "slutt": "31.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/544399",
+    "lat": 59.8903667,
+    "lon": 10.5258168,
+    "status": "pågår",
+    "scraped_date": "2026-09-30T05:03:23.585423"
   },
   {
     "id": "26/34",
@@ -1320,6 +1390,20 @@
     "lon": 10.5031222,
     "status": "pågår",
     "scraped_date": "2026-09-14T05:03:30.620540"
+  },
+  {
+    "id": "26/315",
+    "sakstittel": "Bjerkoddveien",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Bjerkoddveien",
+    "entreprenor": "KIM STEINSHOLT AS",
+    "start": "22.09.2026",
+    "slutt": "19.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/543620",
+    "lat": 59.8827925,
+    "lon": 10.5117373,
+    "status": "pågår",
+    "scraped_date": "2026-09-30T05:03:23.585423"
   },
   {
     "id": "26/314",
