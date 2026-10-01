@@ -680,6 +680,34 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "26/381",
+    "sakstittel": "Grinibråten 48, 1339 Vøyenenga",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Grinibråten",
+    "entreprenor": "BONSTAD ATLE",
+    "start": "01.10.2026",
+    "slutt": "30.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/545124",
+    "lat": 59.9039714,
+    "lon": 10.4721204,
+    "status": "pågår",
+    "scraped_date": "2026-10-01T05:03:32.747267"
+  },
+  {
+    "id": "26/380",
+    "sakstittel": "Bjarne Skaus vei 66",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Bjarne Skaus vei",
+    "entreprenor": "BONSTAD ATLE",
+    "start": "01.10.2026",
+    "slutt": "30.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/545120",
+    "lat": 59.9427341,
+    "lon": 10.5893304,
+    "status": "pågår",
+    "scraped_date": "2026-10-01T05:03:32.747267"
+  },
+  {
     "id": "26/38",
     "sakstittel": "Grave skap KS2157 - Åsløkkveien 16",
     "arbeidstype": "Gravearbeid",
@@ -706,6 +734,20 @@
     "lon": 10.5905949,
     "status": "pågår",
     "scraped_date": "2026-09-29T05:03:31.921910"
+  },
+  {
+    "id": "26/374",
+    "sakstittel": "Fjordveien, Bærum",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Fjordveien",
+    "entreprenor": "TOPAAS OG HAUG ENTREPRENØR AS",
+    "start": "28.09.2026",
+    "slutt": "16.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/545016",
+    "lat": 59.892,
+    "lon": 10.5695498,
+    "status": "pågår",
+    "scraped_date": "2026-10-01T05:03:32.747267"
   },
   {
     "id": "26/373",
@@ -900,6 +942,18 @@
     "kilde_url": "https://baerum.gravearbeider.no/soknad/view/544715",
     "status": "pågår",
     "scraped_date": "2026-09-28T05:04:04.080708"
+  },
+  {
+    "id": "26/356",
+    "sakstittel": "Generell tillatelse, Rammeavtale strømperenovering avløp",
+    "arbeidstype": "Arbeidstillatelse",
+    "veinavn": "",
+    "entreprenor": "KJELDAAS AS",
+    "start": "01.10.2026",
+    "slutt": "09.07.2027",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/544709",
+    "status": "pågår",
+    "scraped_date": "2026-10-01T05:03:32.747267"
   },
   {
     "id": "26/355",
@@ -1208,6 +1262,20 @@
     "lon": 10.6277995,
     "status": "pågår",
     "scraped_date": "2026-04-14T15:41:55.877016"
+  },
+  {
+    "id": "26/329",
+    "sakstittel": "Nadderudkroken",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Nadderudveien",
+    "entreprenor": "VEISKILTING AS",
+    "start": "01.10.2026",
+    "slutt": "08.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/544006",
+    "lat": 59.9254089,
+    "lon": 10.5949637,
+    "status": "pågår",
+    "scraped_date": "2026-10-01T05:03:32.747267"
   },
   {
     "id": "26/328",
