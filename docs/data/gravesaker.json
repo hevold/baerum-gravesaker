@@ -680,6 +680,34 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "26/385",
+    "sakstittel": "Kabeltunnel Hamang-Bærum-Smestad - Geotekniske grunnundersøkelser-del 3- Gamle Ringeriksvei",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Gamle Ringeriksvei",
+    "entreprenor": "MULTICONSULT NORGE AS",
+    "start": "30.09.2026",
+    "slutt": "31.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/545147",
+    "lat": 59.9188739,
+    "lon": 10.5812102,
+    "status": "pågår",
+    "scraped_date": "2026-10-02T05:03:26.246473"
+  },
+  {
+    "id": "26/384",
+    "sakstittel": "Kabeltunnel Hamang-Bærum-Smestad - Geotekniske grunnundersøkelser-del 3- Ekrekroken",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Ekrekroken",
+    "entreprenor": "MULTICONSULT NORGE AS",
+    "start": "30.09.2026",
+    "slutt": "31.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/545141",
+    "lat": 59.9267657,
+    "lon": 10.5747178,
+    "status": "pågår",
+    "scraped_date": "2026-10-02T05:03:26.246473"
+  },
+  {
     "id": "26/381",
     "sakstittel": "Grinibråten 48, 1339 Vøyenenga",
     "arbeidstype": "Gravearbeid",
@@ -720,6 +748,34 @@
     "lon": 10.5003509,
     "status": "pågår",
     "scraped_date": "2026-04-14T15:41:55.877016"
+  },
+  {
+    "id": "26/379",
+    "sakstittel": "Kabeltunnel Hamang-Bærum-Smestad - Geotekniske grunnundersøkelser  Del 2 Erik Werenskiolds vei.",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Erik Werenskiolds vei",
+    "entreprenor": "MULTICONSULT NORGE AS",
+    "start": "30.09.2026",
+    "slutt": "31.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/545107",
+    "lat": 59.9166254,
+    "lon": 10.5474631,
+    "status": "pågår",
+    "scraped_date": "2026-10-02T05:03:26.246473"
+  },
+  {
+    "id": "26/378",
+    "sakstittel": "Geotekniske grunnundersøkelser Kabeltunnel Hamang-Bærum-Smestad Del 2 Åsterudveien",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Åsterudveien",
+    "entreprenor": "MULTICONSULT NORGE AS",
+    "start": "30.09.2026",
+    "slutt": "31.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/545104",
+    "lat": 59.9237356,
+    "lon": 10.5567373,
+    "status": "pågår",
+    "scraped_date": "2026-10-02T05:03:26.246473"
   },
   {
     "id": "26/375",
@@ -776,6 +832,20 @@
     "lon": 10.5907563,
     "status": "pågår",
     "scraped_date": "2026-04-14T15:41:55.877016"
+  },
+  {
+    "id": "26/369",
+    "sakstittel": "Geotekniske grunnundersøkelser Kabeltunnel Hamang-Bærum-Smestad Del 2",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Vestliveien",
+    "entreprenor": "MULTICONSULT NORGE AS",
+    "start": "30.09.2026",
+    "slutt": "31.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/544958",
+    "lat": 59.921136,
+    "lon": 10.5581227,
+    "status": "pågår",
+    "scraped_date": "2026-10-02T05:03:26.246473"
   },
   {
     "id": "26/368",
