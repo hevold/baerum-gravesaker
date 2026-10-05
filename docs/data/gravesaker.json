@@ -666,6 +666,34 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "26/394",
+    "sakstittel": "Jongskollen 15  -  30415 Viken Fiber",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Jongskollen",
+    "entreprenor": "TOM HVAAL AS",
+    "start": "05.10.2026",
+    "slutt": "30.11.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/545359",
+    "lat": 59.8866687,
+    "lon": 10.5151907,
+    "status": "pågår",
+    "scraped_date": "2026-10-05T05:20:31.218953"
+  },
+  {
+    "id": "26/391",
+    "sakstittel": "Jonsokveien 10, 1369 Stabekk",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Jonsokveien",
+    "entreprenor": "Arne Olav Lund A/S",
+    "start": "05.10.2026",
+    "slutt": "23.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/545256",
+    "lat": 59.9065982,
+    "lon": 10.5946977,
+    "status": "pågår",
+    "scraped_date": "2026-10-05T05:20:31.218953"
+  },
+  {
     "id": "26/39",
     "sakstittel": "Kleivveien VA-rehabilitering",
     "arbeidstype": "Gravearbeid",
@@ -778,6 +806,20 @@
     "scraped_date": "2026-10-02T05:03:26.246473"
   },
   {
+    "id": "26/377",
+    "sakstittel": "Avløs Depot",
+    "arbeidstype": "Arbeidstillatelse",
+    "veinavn": "Nesveien",
+    "entreprenor": "MESTA AS",
+    "start": "05.10.2026",
+    "slutt": "30.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/545098",
+    "lat": 59.9114516,
+    "lon": 10.5432523,
+    "status": "pågår",
+    "scraped_date": "2026-10-05T05:20:31.218953"
+  },
+  {
     "id": "26/375",
     "sakstittel": "Markalleen , Bærum",
     "arbeidstype": "Gravearbeid",
@@ -818,6 +860,20 @@
     "lon": 10.5669885,
     "status": "pågår",
     "scraped_date": "2026-09-30T05:03:23.585423"
+  },
+  {
+    "id": "26/372",
+    "sakstittel": "Sarbuvollveien 28 og 30",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Sarbuvollveien",
+    "entreprenor": "IVAR TANUM ENTREPRENØR AS",
+    "start": "05.10.2026",
+    "slutt": "16.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/544997",
+    "lat": 59.8963205,
+    "lon": 10.5863481,
+    "status": "pågår",
+    "scraped_date": "2026-10-05T05:20:31.218953"
   },
   {
     "id": "26/37",
