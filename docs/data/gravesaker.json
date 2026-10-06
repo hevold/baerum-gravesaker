@@ -638,6 +638,20 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "26/400",
+    "sakstittel": "Hastesak!! Erik Werenskiolds vei",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Erik Werenskiolds vei",
+    "entreprenor": "VEISKILTING AS",
+    "start": "05.10.2026",
+    "slutt": "16.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/545526",
+    "lat": 59.9166254,
+    "lon": 10.5474631,
+    "status": "pågår",
+    "scraped_date": "2026-10-06T05:03:32.336182"
+  },
+  {
     "id": "26/40",
     "sakstittel": "Ørneveien _ Vannlekkasje",
     "arbeidstype": "Gravearbeid",
@@ -664,6 +678,20 @@
     "lon": 10.5914189,
     "status": "pågår",
     "scraped_date": "2026-04-14T15:41:55.877016"
+  },
+  {
+    "id": "26/399",
+    "sakstittel": "Skytterdalen 12 - vannlekkasje",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Skytterdalen",
+    "entreprenor": "TRANSGRAV AS",
+    "start": "06.10.2026",
+    "slutt": "09.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/545492",
+    "lat": 59.8972111,
+    "lon": 10.5246556,
+    "status": "pågår",
+    "scraped_date": "2026-10-06T05:03:32.336182"
   },
   {
     "id": "26/394",
@@ -706,6 +734,34 @@
     "lon": 10.5798679,
     "status": "pågår",
     "scraped_date": "2026-04-14T15:41:55.877016"
+  },
+  {
+    "id": "26/388",
+    "sakstittel": "Kabeltunnel Hamang-Bærum-Smestad - Geotekniske grunnundersøkelser-del 4 Wilh. Wilheimsens vei",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Bankveien",
+    "entreprenor": "MULTICONSULT NORGE AS",
+    "start": "30.09.2026",
+    "slutt": "31.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/545161",
+    "lat": 59.9302855,
+    "lon": 10.5935767,
+    "status": "pågår",
+    "scraped_date": "2026-10-06T05:03:32.336182"
+  },
+  {
+    "id": "26/386",
+    "sakstittel": "Kabeltunnel Hamang-Bærum-Smestad - Geotekniske grunnundersøkelser-del 4 Liomveien",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Liomveien",
+    "entreprenor": "MULTICONSULT NORGE AS",
+    "start": "30.09.2026",
+    "slutt": "31.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/545151",
+    "lat": 59.930224,
+    "lon": 10.6003257,
+    "status": "pågår",
+    "scraped_date": "2026-10-06T05:03:32.336182"
   },
   {
     "id": "26/385",
