@@ -694,6 +694,34 @@
     "scraped_date": "2026-10-06T05:03:32.336182"
   },
   {
+    "id": "26/397",
+    "sakstittel": "Graving for HS- Del 4. Tåjeveien",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Tåjeveien, Jarenveien",
+    "entreprenor": "TK MASKINDRIFT AS",
+    "start": "05.10.2026",
+    "slutt": "30.11.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/545437",
+    "lat": 59.9241102,
+    "lon": 10.4487526,
+    "status": "pågår",
+    "scraped_date": "2026-10-07T05:03:55.436117"
+  },
+  {
+    "id": "26/396",
+    "sakstittel": "Gullhauggrenda 14",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Gullhauggrenda",
+    "entreprenor": "JAR ANLEGG AS",
+    "start": "06.10.2026",
+    "slutt": "13.11.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/545435",
+    "lat": 59.9385639,
+    "lon": 10.4915922,
+    "status": "pågår",
+    "scraped_date": "2026-10-07T05:03:55.436117"
+  },
+  {
     "id": "26/394",
     "sakstittel": "Jongskollen 15  -  30415 Viken Fiber",
     "arbeidstype": "Gravearbeid",
@@ -706,6 +734,20 @@
     "lon": 10.5151907,
     "status": "pågår",
     "scraped_date": "2026-10-05T05:20:31.218953"
+  },
+  {
+    "id": "26/393",
+    "sakstittel": "Hiltonkroken 4  -  30145 Viken Fiber",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Hiltonkroken",
+    "entreprenor": "TOM HVAAL AS",
+    "start": "07.10.2026",
+    "slutt": "30.11.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/545328",
+    "lat": 59.8844734,
+    "lon": 10.5000428,
+    "status": "pågår",
+    "scraped_date": "2026-10-07T05:03:55.436117"
   },
   {
     "id": "26/391",
@@ -734,6 +776,20 @@
     "lon": 10.5798679,
     "status": "pågår",
     "scraped_date": "2026-04-14T15:41:55.877016"
+  },
+  {
+    "id": "26/389",
+    "sakstittel": "Arnstein Arnebergs vei 23, 1366 Lysaker",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Arnstein Arnebergs vei",
+    "entreprenor": "BONSTAD ATLE",
+    "start": "01.10.2026",
+    "slutt": "30.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/545185",
+    "lat": 59.9069024,
+    "lon": 10.6250592,
+    "status": "pågår",
+    "scraped_date": "2026-10-07T05:03:55.436117"
   },
   {
     "id": "26/388",
