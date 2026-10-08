@@ -694,6 +694,18 @@
     "scraped_date": "2026-10-06T05:03:32.336182"
   },
   {
+    "id": "26/398",
+    "sakstittel": "Tilstandsregistrering og oppmåling av kommunale veier iht avtale med Bærum kommune",
+    "arbeidstype": "Arbeidstillatelse",
+    "veinavn": "",
+    "entreprenor": "SWECO ASSET MANAGEMENT TECHNOLOGIES AS",
+    "start": "08.10.2026",
+    "slutt": "18.12.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/545490",
+    "status": "pågår",
+    "scraped_date": "2026-10-08T05:04:35.873807"
+  },
+  {
     "id": "26/397",
     "sakstittel": "Graving for HS- Del 4. Tåjeveien",
     "arbeidstype": "Gravearbeid",
