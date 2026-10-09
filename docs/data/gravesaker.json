@@ -638,6 +638,20 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "26/401",
+    "sakstittel": "Graving Jernbaneveien 37-39",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Jernbaneveien",
+    "entreprenor": "NCC INDUSTRY AS",
+    "start": "21.09.2026",
+    "slutt": "09.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/545549",
+    "lat": 59.9066554,
+    "lon": 10.6007897,
+    "status": "pågår",
+    "scraped_date": "2026-10-09T05:04:42.446540"
+  },
+  {
     "id": "26/400",
     "sakstittel": "Hastesak!! Erik Werenskiolds vei",
     "arbeidstype": "Gravearbeid",
