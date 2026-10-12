@@ -638,6 +638,20 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "26/402",
+    "sakstittel": "Rep av brudekke på Bjørum gangbru",
+    "arbeidstype": "Arbeidstillatelse",
+    "veinavn": "Bjørumveien",
+    "entreprenor": "HAST AS",
+    "start": "12.10.2026",
+    "slutt": "26.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/545594",
+    "lat": 59.9355473,
+    "lon": 10.4429208,
+    "status": "pågår",
+    "scraped_date": "2026-10-12T05:10:43.110635"
+  },
+  {
     "id": "26/401",
     "sakstittel": "Graving Jernbaneveien 37-39",
     "arbeidstype": "Gravearbeid",
@@ -774,6 +788,20 @@
     "lon": 10.5000428,
     "status": "pågår",
     "scraped_date": "2026-10-07T05:03:55.436117"
+  },
+  {
+    "id": "26/392",
+    "sakstittel": "Ørneveien NDU - Telenor",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Ørneveien, Ørneveien",
+    "entreprenor": "HAGE AS",
+    "start": "12.10.2026",
+    "slutt": "30.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/545288",
+    "lat": 59.9266652,
+    "lon": 10.5854747,
+    "status": "pågår",
+    "scraped_date": "2026-10-12T05:10:43.110635"
   },
   {
     "id": "26/391",
@@ -1486,6 +1514,20 @@
     "scraped_date": "2026-09-21T05:03:44.917539"
   },
   {
+    "id": "26/332",
+    "sakstittel": "Påkobling til offentlig vann og avløp - Ropernveien 15D",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Ropernveien",
+    "entreprenor": "KVETA TRANSPORT AS",
+    "start": "12.10.2026",
+    "slutt": "16.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/544115",
+    "lat": 59.8801196,
+    "lon": 10.6058556,
+    "status": "pågår",
+    "scraped_date": "2026-10-12T05:10:43.110635"
+  },
+  {
     "id": "26/331",
     "sakstittel": "Riving og oppsetting av garasjer",
     "arbeidstype": "Arbeidstillatelse",
@@ -1946,6 +1988,20 @@
     "lon": 10.5083419,
     "status": "pågår",
     "scraped_date": "2026-08-31T05:03:43.859620"
+  },
+  {
+    "id": "26/295",
+    "sakstittel": "John Strandruds vei,Avallssug",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Oksenøyveien",
+    "entreprenor": "BRØDRENE DOKKEN AS",
+    "start": "12.10.2026",
+    "slutt": "01.12.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/542755",
+    "lat": 59.9002296,
+    "lon": 10.6098495,
+    "status": "pågår",
+    "scraped_date": "2026-10-12T05:10:43.110635"
   },
   {
     "id": "26/294",
