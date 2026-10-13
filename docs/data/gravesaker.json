@@ -638,6 +638,32 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "26/406",
+    "sakstittel": "Rolfsbuktveien, fjerning av kantstein",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Gnr/Bnr: 300/2544",
+    "entreprenor": "CONSTO ANLEGG ØST AS",
+    "start": "12.10.2026",
+    "slutt": "30.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/545736",
+    "status": "pågår",
+    "scraped_date": "2026-10-13T05:05:49.272109"
+  },
+  {
+    "id": "26/405",
+    "sakstittel": "Hovedvei, Rudsveien - gravearbeid etter vannlekkasje - Dønski",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Rudsveien",
+    "entreprenor": "SAFEROAD TRAFFIC AS",
+    "start": "12.10.2026",
+    "slutt": "16.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/545730",
+    "lat": 59.9032538,
+    "lon": 10.5108113,
+    "status": "pågår",
+    "scraped_date": "2026-10-13T05:05:49.272109"
+  },
+  {
     "id": "26/402",
     "sakstittel": "Rep av brudekke på Bjørum gangbru",
     "arbeidstype": "Arbeidstillatelse",
