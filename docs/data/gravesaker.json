@@ -624,6 +624,20 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "26/417",
+    "sakstittel": "Nordjordet 8",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Nordjordet",
+    "entreprenor": "KIM STEINSHOLT AS",
+    "start": "13.10.2026",
+    "slutt": "23.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/546090",
+    "lat": 59.9429131,
+    "lon": 10.629367,
+    "status": "pågår",
+    "scraped_date": "2026-10-14T05:03:32.161566"
+  },
+  {
     "id": "26/41",
     "sakstittel": "Bjerkekroken 1, 1350 LOMMEDALEN-Graving av stikkledning",
     "arbeidstype": "Gravearbeid",
@@ -636,6 +650,20 @@
     "lon": 10.466637,
     "status": "pågår",
     "scraped_date": "2026-04-14T15:41:55.877016"
+  },
+  {
+    "id": "26/409",
+    "sakstittel": "Service solskjerming",
+    "arbeidstype": "Arbeidstillatelse",
+    "veinavn": "Strandveien",
+    "entreprenor": "OSLO LIFTUTLEIE AS",
+    "start": "14.10.2026",
+    "slutt": "14.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/545781",
+    "lat": 59.9138572,
+    "lon": 10.6401848,
+    "status": "pågår",
+    "scraped_date": "2026-10-14T05:03:32.161566"
   },
   {
     "id": "26/406",
@@ -1358,6 +1386,20 @@
     "scraped_date": "2026-09-23T05:03:20.155378"
   },
   {
+    "id": "26/346",
+    "sakstittel": "Kloakkbrudd i Skogfaret 31B",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Skogfaret",
+    "entreprenor": "HJELMERUD MASKIN OG TRANSPORT AS",
+    "start": "14.10.2026",
+    "slutt": "13.11.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/544464",
+    "lat": 59.9082662,
+    "lon": 10.5513131,
+    "status": "pågår",
+    "scraped_date": "2026-10-14T05:03:32.161566"
+  },
+  {
     "id": "26/345",
     "sakstittel": "Omr. Åsterud Nestoppen 14 - 16  -  17001053 Viken Fiber",
     "arbeidstype": "Gravearbeid",
@@ -1874,6 +1916,20 @@
     "lon": 10.6154535,
     "status": "pågår",
     "scraped_date": "2026-04-14T15:41:55.877016"
+  },
+  {
+    "id": "26/308",
+    "sakstittel": "John Strandruds vei,Avallssug fase 2",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Arnstein Arnebergs vei",
+    "entreprenor": "BRØDRENE DOKKEN AS",
+    "start": "14.10.2026",
+    "slutt": "27.11.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/543358",
+    "lat": 59.9062744,
+    "lon": 10.6253281,
+    "status": "pågår",
+    "scraped_date": "2026-10-14T05:03:32.161566"
   },
   {
     "id": "26/307",
@@ -8066,6 +8122,20 @@
     "lon": 10.5636993,
     "status": "pågår",
     "scraped_date": "2026-04-14T15:41:55.877016"
+  },
+  {
+    "id": "23/16",
+    "sakstittel": "Skallum-Tjernsrud fase 2.2",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Peiks vei, Idrettskroken",
+    "entreprenor": "Arne Olav Lund A/S",
+    "start": "03.01.2023",
+    "slutt": "01.06.2027",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/438591",
+    "lat": 59.9190756,
+    "lon": 10.6010118,
+    "status": "pågår",
+    "scraped_date": "2026-10-14T05:03:32.161566"
   },
   {
     "id": "23/153",
