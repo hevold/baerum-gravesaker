@@ -624,6 +624,20 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "26/418",
+    "sakstittel": "Stamnett for fjerning av luftledning",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Fagertunveien",
+    "entreprenor": "INFRAENT AS",
+    "start": "13.10.2026",
+    "slutt": "23.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/546101",
+    "lat": 59.9321138,
+    "lon": 10.6031797,
+    "status": "pågår",
+    "scraped_date": "2026-10-15T05:03:32.519099"
+  },
+  {
     "id": "26/417",
     "sakstittel": "Nordjordet 8",
     "arbeidstype": "Gravearbeid",
@@ -636,6 +650,34 @@
     "lon": 10.629367,
     "status": "pågår",
     "scraped_date": "2026-10-14T05:03:32.161566"
+  },
+  {
+    "id": "26/415",
+    "sakstittel": "Hovedvei, 7250 Bærumsveien 221-223",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Bærumsveien",
+    "entreprenor": "SKOLLERUD ANLEGG AS",
+    "start": "06.10.2026",
+    "slutt": "31.12.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/546012",
+    "lat": 59.9058193,
+    "lon": 10.521179,
+    "status": "pågår",
+    "scraped_date": "2026-10-15T05:03:32.519099"
+  },
+  {
+    "id": "26/411",
+    "sakstittel": "Vestliveien 25",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Vestliveien",
+    "entreprenor": "GRAVER1 AS",
+    "start": "15.10.2026",
+    "slutt": "23.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/545848",
+    "lat": 59.921136,
+    "lon": 10.5581227,
+    "status": "pågår",
+    "scraped_date": "2026-10-15T05:03:32.519099"
   },
   {
     "id": "26/41",
@@ -690,6 +732,20 @@
     "lon": 10.5108113,
     "status": "pågår",
     "scraped_date": "2026-10-13T05:05:49.272109"
+  },
+  {
+    "id": "26/403",
+    "sakstittel": "VA-kumrehabilitering 2026 – Kumgruppe SID 1291 - 1488",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Gamleveien",
+    "entreprenor": "Arne Olav Lund A/S",
+    "start": "12.10.2026",
+    "slutt": "30.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/545609",
+    "lat": 59.9480451,
+    "lon": 10.4881616,
+    "status": "pågår",
+    "scraped_date": "2026-10-15T05:03:32.519099"
   },
   {
     "id": "26/402",
