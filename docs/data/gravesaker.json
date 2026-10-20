@@ -624,6 +624,20 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "26/424",
+    "sakstittel": "Tåjeveien 2A, 1340 Skui",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Tåjeveien",
+    "entreprenor": "BONSTAD ATLE",
+    "start": "19.10.2026",
+    "slutt": "30.11.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/546403",
+    "lat": 59.9241102,
+    "lon": 10.4487526,
+    "status": "pågår",
+    "scraped_date": "2026-10-20T05:03:27.991716"
+  },
+  {
     "id": "26/422",
     "sakstittel": "Bull Trans Oslo - Bruksveien Snarøya",
     "arbeidstype": "Arbeidstillatelse",
@@ -636,6 +650,20 @@
     "lon": 10.6209209,
     "status": "pågår",
     "scraped_date": "2026-10-16T05:03:22.120359"
+  },
+  {
+    "id": "26/421",
+    "sakstittel": "372 Rud vgs stikkledning FV",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Hauger skolevei",
+    "entreprenor": "KAARE MORTENSEN OSLO/AKERSHUS AS",
+    "start": "19.10.2026",
+    "slutt": "27.11.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/546249",
+    "lat": 59.9086795,
+    "lon": 10.5007965,
+    "status": "pågår",
+    "scraped_date": "2026-10-20T05:03:27.991716"
   },
   {
     "id": "26/419",
