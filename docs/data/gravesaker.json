@@ -638,6 +638,20 @@
     "scraped_date": "2026-10-20T05:03:27.991716"
   },
   {
+    "id": "26/423",
+    "sakstittel": "Oreligrenda",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Oreligrenda, Ringstabekkveien, Bjerkelundsveien, Flatveien",
+    "entreprenor": "STENE JOHANSEN AS",
+    "start": "20.10.2026",
+    "slutt": "30.11.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/546397",
+    "lat": 59.929018,
+    "lon": 10.6164777,
+    "status": "pågår",
+    "scraped_date": "2026-10-22T05:03:28.118772"
+  },
+  {
     "id": "26/422",
     "sakstittel": "Bull Trans Oslo - Bruksveien Snarøya",
     "arbeidstype": "Arbeidstillatelse",
