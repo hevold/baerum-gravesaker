@@ -624,6 +624,20 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "26/430",
+    "sakstittel": "2026-100 Jongsåsveien 51",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Jongsåsveien",
+    "entreprenor": "ASKER OG BÆRUM GRAVESERVICE AS",
+    "start": "21.10.2026",
+    "slutt": "06.11.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/546557",
+    "lat": 59.8906058,
+    "lon": 10.5125406,
+    "status": "pågår",
+    "scraped_date": "2026-10-23T05:03:33.706190"
+  },
+  {
     "id": "26/424",
     "sakstittel": "Tåjeveien 2A, 1340 Skui",
     "arbeidstype": "Gravearbeid",
