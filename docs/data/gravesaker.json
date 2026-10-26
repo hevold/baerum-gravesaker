@@ -624,6 +624,20 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "26/438",
+    "sakstittel": "26108 VA Gravsbekken etappe 2",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Brageveien",
+    "entreprenor": "ANLEGG ØST ENTREPRENØR AS",
+    "start": "26.10.2026",
+    "slutt": "31.05.2027",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/546887",
+    "lat": 59.9214648,
+    "lon": 10.5944236,
+    "status": "pågår",
+    "scraped_date": "2026-10-26T05:04:31.960813"
+  },
+  {
     "id": "26/430",
     "sakstittel": "2026-100 Jongsåsveien 51",
     "arbeidstype": "Gravearbeid",
