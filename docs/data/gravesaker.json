@@ -638,6 +638,34 @@
     "scraped_date": "2026-10-26T05:04:31.960813"
   },
   {
+    "id": "26/436",
+    "sakstittel": "Generell arbeidsvarsling og arbeidstillatelse drift og feilretting veilys Bærum kommune",
+    "arbeidstype": "Arbeidstillatelse",
+    "veinavn": "Skolegata",
+    "entreprenor": "LAJE AS",
+    "start": "20.10.2026",
+    "slutt": "31.01.2027",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/546697",
+    "lat": 59.9612703,
+    "lon": 10.4728237,
+    "status": "pågår",
+    "scraped_date": "2026-10-27T05:03:24.934394"
+  },
+  {
+    "id": "26/432",
+    "sakstittel": "Konvallveien 5 og 7  -  30415 Viken Fiber",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Konvallveien",
+    "entreprenor": "TOM HVAAL AS",
+    "start": "23.10.2026",
+    "slutt": "14.12.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/546626",
+    "lat": 59.8846129,
+    "lon": 10.5138154,
+    "status": "pågår",
+    "scraped_date": "2026-10-27T05:03:24.934394"
+  },
+  {
     "id": "26/430",
     "sakstittel": "2026-100 Jongsåsveien 51",
     "arbeidstype": "Gravearbeid",
@@ -650,6 +678,20 @@
     "lon": 10.5125406,
     "status": "pågår",
     "scraped_date": "2026-10-23T05:03:33.706190"
+  },
+  {
+    "id": "26/426",
+    "sakstittel": "Egne Hjems vei",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Egne Hjems vei",
+    "entreprenor": "KIM STEINSHOLT AS",
+    "start": "22.10.2026",
+    "slutt": "20.11.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/546424",
+    "lat": 59.9188027,
+    "lon": 10.5964197,
+    "status": "pågår",
+    "scraped_date": "2026-10-27T05:03:24.934394"
   },
   {
     "id": "26/424",
@@ -788,6 +830,20 @@
     "lon": 10.5581227,
     "status": "pågår",
     "scraped_date": "2026-10-15T05:03:32.519099"
+  },
+  {
+    "id": "26/410",
+    "sakstittel": "Fasade arbeid",
+    "arbeidstype": "Arbeidstillatelse",
+    "veinavn": "Malmskriverveien",
+    "entreprenor": "OSLO LIFTUTLEIE AS",
+    "start": "27.10.2026",
+    "slutt": "28.10.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/545783",
+    "lat": 59.89308,
+    "lon": 10.5271901,
+    "status": "pågår",
+    "scraped_date": "2026-10-27T05:03:24.934394"
   },
   {
     "id": "26/41",
