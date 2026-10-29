@@ -1620,6 +1620,20 @@
     "scraped_date": "2026-09-28T05:04:04.080708"
   },
   {
+    "id": "26/353",
+    "sakstittel": "Snoveien fra x Terrasseveien  Stabekk  -  Viken Fiber",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Snoveien",
+    "entreprenor": "TOM HVAAL AS",
+    "start": "27.10.2026",
+    "slutt": "10.12.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/544648",
+    "lat": 59.9023225,
+    "lon": 10.5824895,
+    "status": "pågår",
+    "scraped_date": "2026-10-29T05:02:44.568239"
+  },
+  {
     "id": "26/352",
     "sakstittel": "Prøvegraving John Strandruds vei til Teleplan",
     "arbeidstype": "Gravearbeid",
@@ -1632,6 +1646,20 @@
     "lon": 10.6182852,
     "status": "pågår",
     "scraped_date": "2026-09-28T05:04:04.080708"
+  },
+  {
+    "id": "26/351",
+    "sakstittel": "Terrasseveien Stabekk  -  Viken Fiber",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Terrasseveien",
+    "entreprenor": "TOM HVAAL AS",
+    "start": "27.10.2026",
+    "slutt": "10.12.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/544642",
+    "lat": 59.9041459,
+    "lon": 10.5910778,
+    "status": "pågår",
+    "scraped_date": "2026-10-29T05:02:44.568239"
   },
   {
     "id": "26/35",
