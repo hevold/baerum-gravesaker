@@ -804,6 +804,20 @@
     "scraped_date": "2026-10-15T05:03:32.519099"
   },
   {
+    "id": "26/413",
+    "sakstittel": "Ny asfaltert, 36065 OP MDU - ØYGARDVEIEN 13 A-C",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Øygardveien",
+    "entreprenor": "HAGE AS",
+    "start": "26.10.2026",
+    "slutt": "26.11.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/545976",
+    "lat": 59.9201764,
+    "lon": 10.5779876,
+    "status": "pågår",
+    "scraped_date": "2026-10-30T05:02:35.630595"
+  },
+  {
     "id": "26/412",
     "sakstittel": "Kolsåsstien",
     "arbeidstype": "Gravearbeid",
