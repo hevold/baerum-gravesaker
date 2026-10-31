@@ -638,6 +638,20 @@
     "scraped_date": "2026-10-26T05:04:31.960813"
   },
   {
+    "id": "26/437",
+    "sakstittel": "VA-kumrehabilitering 2026 Gamleveien 1350 Lommedalen",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Gamleveien, Skolegata, Elen Weeas vei, Eineveien",
+    "entreprenor": "Arne Olav Lund A/S",
+    "start": "26.10.2026",
+    "slutt": "01.07.2027",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/546834",
+    "lat": 59.9803873,
+    "lon": 10.4310472,
+    "status": "pågår",
+    "scraped_date": "2026-10-31T05:01:46.826461"
+  },
+  {
     "id": "26/436",
     "sakstittel": "Generell arbeidsvarsling og arbeidstillatelse drift og feilretting veilys Bærum kommune",
     "arbeidstype": "Arbeidstillatelse",
@@ -678,6 +692,20 @@
     "lon": 10.5125406,
     "status": "pågår",
     "scraped_date": "2026-10-23T05:03:33.706190"
+  },
+  {
+    "id": "26/427",
+    "sakstittel": "Østenåsveien",
+    "arbeidstype": "Arbeidstillatelse",
+    "veinavn": "Østenåsveien",
+    "entreprenor": "JAR ANLEGG AS",
+    "start": "30.10.2026",
+    "slutt": "01.06.2027",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/546523",
+    "lat": 59.9206233,
+    "lon": 10.5663915,
+    "status": "pågår",
+    "scraped_date": "2026-10-31T05:01:46.826461"
   },
   {
     "id": "26/426",
