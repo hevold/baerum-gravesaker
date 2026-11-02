@@ -612,6 +612,18 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "26/441",
+    "sakstittel": "Prøvegraving + Rigg - Hamang Nord",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Gnr/Bnr: 200/33",
+    "entreprenor": "BK-ANLEGG AS",
+    "start": "02.11.2026",
+    "slutt": "01.05.2027",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/547336",
+    "status": "pågår",
+    "scraped_date": "2026-11-02T05:02:58.525129"
+  },
+  {
     "id": "26/44",
     "sakstittel": "Brambanigården - Søknad om leie av kommunal gategrunn, riggplass",
     "arbeidstype": "Arbeidstillatelse",
@@ -694,6 +706,20 @@
     "scraped_date": "2026-10-23T05:03:33.706190"
   },
   {
+    "id": "26/428",
+    "sakstittel": "Jonsokveien",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Jonsokveien",
+    "entreprenor": "GRAVER1 AS",
+    "start": "02.11.2026",
+    "slutt": "20.11.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/546527",
+    "lat": 59.9065982,
+    "lon": 10.5946977,
+    "status": "pågår",
+    "scraped_date": "2026-11-02T05:02:58.525129"
+  },
+  {
     "id": "26/427",
     "sakstittel": "Østenåsveien",
     "arbeidstype": "Arbeidstillatelse",
@@ -720,6 +746,20 @@
     "lon": 10.5964197,
     "status": "pågår",
     "scraped_date": "2026-10-27T05:03:24.934394"
+  },
+  {
+    "id": "26/425",
+    "sakstittel": "Skogveien 128",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Skogveien",
+    "entreprenor": "RØNAAS ENTREPRENØR AS",
+    "start": "02.11.2026",
+    "slutt": "20.11.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/546409",
+    "lat": 59.9192658,
+    "lon": 10.614317,
+    "status": "pågår",
+    "scraped_date": "2026-11-02T05:02:58.525129"
   },
   {
     "id": "26/424",
