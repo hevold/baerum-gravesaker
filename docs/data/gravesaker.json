@@ -678,6 +678,20 @@
     "scraped_date": "2026-10-27T05:03:24.934394"
   },
   {
+    "id": "26/434",
+    "sakstittel": "Midlertidlig parkering snarøya kirke",
+    "arbeidstype": "Arbeidstillatelse",
+    "veinavn": "Mario Caprinos Vei",
+    "entreprenor": "BRØDRENE DOKKEN AS",
+    "start": "21.10.2026",
+    "slutt": "01.09.2027",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/546669",
+    "lat": 59.8809562,
+    "lon": 10.6122068,
+    "status": "pågår",
+    "scraped_date": "2026-11-03T05:01:56.860183"
+  },
+  {
     "id": "26/432",
     "sakstittel": "Konvallveien 5 og 7  -  30415 Viken Fiber",
     "arbeidstype": "Gravearbeid",
