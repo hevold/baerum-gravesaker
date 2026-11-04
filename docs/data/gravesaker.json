@@ -624,6 +624,20 @@
     "scraped_date": "2026-11-02T05:02:58.525129"
   },
   {
+    "id": "26/440",
+    "sakstittel": "Vallertunet 6 Gjettum  -  30218 Viken Fiber",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Vallertunet",
+    "entreprenor": "TOM HVAAL AS",
+    "start": "04.11.2026",
+    "slutt": "10.12.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/547297",
+    "lat": 59.9028395,
+    "lon": 10.5279707,
+    "status": "pågår",
+    "scraped_date": "2026-11-04T05:01:53.436217"
+  },
+  {
     "id": "26/44",
     "sakstittel": "Brambanigården - Søknad om leie av kommunal gategrunn, riggplass",
     "arbeidstype": "Arbeidstillatelse",
@@ -870,6 +884,20 @@
     "lon": 10.629367,
     "status": "pågår",
     "scraped_date": "2026-10-14T05:03:32.161566"
+  },
+  {
+    "id": "26/416",
+    "sakstittel": "373 FV Rud - trekkerør",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Johs. Haugeruds vei",
+    "entreprenor": "KAARE MORTENSEN OSLO/AKERSHUS AS",
+    "start": "29.10.2026",
+    "slutt": "20.12.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/546075",
+    "lat": 59.9114855,
+    "lon": 10.4937206,
+    "status": "pågår",
+    "scraped_date": "2026-11-04T05:01:53.436217"
   },
   {
     "id": "26/415",
