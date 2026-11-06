@@ -612,6 +612,20 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "26/443",
+    "sakstittel": "375 FV Gjønnes - fase 3 og 4",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Gamle Ringeriksvei, Gjønnesskogen, Gjønnesjordet",
+    "entreprenor": "KAARE MORTENSEN OSLO/AKERSHUS AS",
+    "start": "02.11.2026",
+    "slutt": "18.12.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/547378",
+    "lat": 59.9183001,
+    "lon": 10.5844051,
+    "status": "pågår",
+    "scraped_date": "2026-11-06T05:02:10.603983"
+  },
+  {
     "id": "26/441",
     "sakstittel": "Prøvegraving + Rigg - Hamang Nord",
     "arbeidstype": "Gravearbeid",
@@ -2342,6 +2356,20 @@
     "lon": 10.521179,
     "status": "pågår",
     "scraped_date": "2026-09-17T05:03:45.392301"
+  },
+  {
+    "id": "26/311",
+    "sakstittel": "Anton walles vei 3",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Anthon Walles vei",
+    "entreprenor": "MORTEN GULTVEDT ENTREPRENØR AS",
+    "start": "06.11.2026",
+    "slutt": "09.12.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/543528",
+    "lat": 59.891525,
+    "lon": 10.5274669,
+    "status": "pågår",
+    "scraped_date": "2026-11-06T05:02:10.603983"
   },
   {
     "id": "26/310",
