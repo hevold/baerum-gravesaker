@@ -598,6 +598,20 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "26/450",
+    "sakstittel": "Claude Monets alle 19, Bærum. Solheim og Larsen Klima AS",
+    "arbeidstype": "Arbeidstillatelse",
+    "veinavn": "Claude Monets alle",
+    "entreprenor": "SOLHEIM OG LARSEN KLIMA AS",
+    "start": "09.11.2026",
+    "slutt": "09.11.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/547657",
+    "lat": 59.8901613,
+    "lon": 10.5212803,
+    "status": "pågår",
+    "scraped_date": "2026-11-09T05:02:54.199192"
+  },
+  {
     "id": "26/45",
     "sakstittel": "Provann fra kum 6873",
     "arbeidstype": "Gravearbeid",
@@ -612,6 +626,20 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "26/446",
+    "sakstittel": "Snaret 36",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Snaret",
+    "entreprenor": "KIM STEINSHOLT AS",
+    "start": "09.11.2026",
+    "slutt": "18.12.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/547526",
+    "lat": 59.9471045,
+    "lon": 10.6230063,
+    "status": "pågår",
+    "scraped_date": "2026-11-09T05:02:54.199192"
+  },
+  {
     "id": "26/443",
     "sakstittel": "375 FV Gjønnes - fase 3 og 4",
     "arbeidstype": "Gravearbeid",
@@ -624,6 +652,18 @@
     "lon": 10.5844051,
     "status": "pågår",
     "scraped_date": "2026-11-06T05:02:10.603983"
+  },
+  {
+    "id": "26/442",
+    "sakstittel": "Lossing fra Rolfsbuktveien",
+    "arbeidstype": "Arbeidstillatelse",
+    "veinavn": "Gnr/Bnr: 119/20",
+    "entreprenor": "SIEMENS ENERGY AS",
+    "start": "09.11.2026",
+    "slutt": "16.11.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/547341",
+    "status": "pågår",
+    "scraped_date": "2026-11-09T05:02:54.199192"
   },
   {
     "id": "26/441",
