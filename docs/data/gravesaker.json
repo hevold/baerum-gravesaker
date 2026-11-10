@@ -598,6 +598,34 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "26/455",
+    "sakstittel": "arboristtjenester Bærum vest - fjerning av oppstuvet av trevirke - Vangsbrua ved Vøyen mølle",
+    "arbeidstype": "Arbeidstillatelse",
+    "veinavn": "Vangkroken",
+    "entreprenor": "NORSK TREFELLING AS",
+    "start": "10.11.2026",
+    "slutt": "10.11.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/547783",
+    "lat": 59.909589,
+    "lon": 10.4881056,
+    "status": "pågår",
+    "scraped_date": "2026-11-10T05:02:06.813057"
+  },
+  {
+    "id": "26/453",
+    "sakstittel": "100 Løkketangen",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Løkketangen",
+    "entreprenor": "KAARE MORTENSEN OSLO/AKERSHUS AS",
+    "start": "09.11.2026",
+    "slutt": "14.12.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/547770",
+    "lat": 59.8917429,
+    "lon": 10.5212612,
+    "status": "pågår",
+    "scraped_date": "2026-11-10T05:02:06.813057"
+  },
+  {
     "id": "26/450",
     "sakstittel": "Claude Monets alle 19, Bærum. Solheim og Larsen Klima AS",
     "arbeidstype": "Arbeidstillatelse",
@@ -624,6 +652,20 @@
     "lon": 10.620796,
     "status": "pågår",
     "scraped_date": "2026-04-14T15:41:55.877016"
+  },
+  {
+    "id": "26/448",
+    "sakstittel": "Halfdan Jønssons vei 18a-d  -  30138 Viken Fiber",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Halfdan Jønssons vei",
+    "entreprenor": "TOM HVAAL AS",
+    "start": "10.11.2026",
+    "slutt": "01.05.2027",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/547625",
+    "lat": 59.9259036,
+    "lon": 10.5943991,
+    "status": "pågår",
+    "scraped_date": "2026-11-10T05:02:06.813057"
   },
   {
     "id": "26/446",
