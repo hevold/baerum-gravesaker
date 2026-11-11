@@ -682,6 +682,20 @@
     "scraped_date": "2026-11-09T05:02:54.199192"
   },
   {
+    "id": "26/445",
+    "sakstittel": "Graving for HS- Del 5. Berghoffveien",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Berghoffveien, Bjørumveien, Bjørumdalen",
+    "entreprenor": "TK MASKINDRIFT AS",
+    "start": "09.11.2026",
+    "slutt": "31.05.2027",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/547451",
+    "lat": 59.9306054,
+    "lon": 10.448017,
+    "status": "pågår",
+    "scraped_date": "2026-11-11T05:01:57.604847"
+  },
+  {
     "id": "26/443",
     "sakstittel": "375 FV Gjønnes - fase 3 og 4",
     "arbeidstype": "Gravearbeid",
