@@ -598,6 +598,20 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "26/468",
+    "sakstittel": "Bytte påkjørt mast Ringstabekkveien 47B",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Ringstabekkveien",
+    "entreprenor": "INFRATEK NORGE AS",
+    "start": "12.11.2026",
+    "slutt": "19.11.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/547933",
+    "lat": 59.9274474,
+    "lon": 10.6146641,
+    "status": "pågår",
+    "scraped_date": "2026-11-12T05:02:09.935703"
+  },
+  {
     "id": "26/455",
     "sakstittel": "arboristtjenester Bærum vest - fjerning av oppstuvet av trevirke - Vangsbrua ved Vøyen mølle",
     "arbeidstype": "Arbeidstillatelse",
@@ -624,6 +638,20 @@
     "lon": 10.5212612,
     "status": "pågår",
     "scraped_date": "2026-11-10T05:02:06.813057"
+  },
+  {
+    "id": "26/452",
+    "sakstittel": "723 - 43007",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Solvikveien",
+    "entreprenor": "ATRACK ENTREPRENØR AS",
+    "start": "12.11.2026",
+    "slutt": "04.12.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/547760",
+    "lat": 59.892871,
+    "lon": 10.5656322,
+    "status": "pågår",
+    "scraped_date": "2026-11-12T05:02:09.935703"
   },
   {
     "id": "26/450",
@@ -954,6 +982,20 @@
     "lon": 10.5007965,
     "status": "pågår",
     "scraped_date": "2026-10-20T05:03:27.991716"
+  },
+  {
+    "id": "26/420",
+    "sakstittel": "Hasselbakken 16",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Hasselbakken",
+    "entreprenor": "REIERSEN ENTREPRENØR AS",
+    "start": "11.11.2026",
+    "slutt": "01.05.2027",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/546242",
+    "lat": 59.9433028,
+    "lon": 10.6238692,
+    "status": "pågår",
+    "scraped_date": "2026-11-12T05:02:09.935703"
   },
   {
     "id": "26/419",
