@@ -584,6 +584,20 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "26/472",
+    "sakstittel": "Graving for bytte av vann og avløp",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Skaujordveien",
+    "entreprenor": "NORGRAV AS",
+    "start": "12.11.2026",
+    "slutt": "04.12.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/548107",
+    "lat": 59.9220998,
+    "lon": 10.5890627,
+    "status": "pågår",
+    "scraped_date": "2026-11-14T05:01:53.933506"
+  },
+  {
     "id": "26/47",
     "sakstittel": "Elgefaret",
     "arbeidstype": "Gravearbeid",
