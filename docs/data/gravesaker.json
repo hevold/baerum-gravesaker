@@ -570,6 +570,20 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "26/480",
+    "sakstittel": "VA-kumrehabilitering 7960609 2026 – Kumgruppene i Børjergrenda",
+    "arbeidstype": "Arbeidstillatelse",
+    "veinavn": "Børjergrenda, Stabburfaret",
+    "entreprenor": "Arne Olav Lund A/S",
+    "start": "16.11.2026",
+    "slutt": "01.07.2027",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/548256",
+    "lat": 59.9524885,
+    "lon": 10.481932,
+    "status": "pågår",
+    "scraped_date": "2026-11-16T05:03:14.411847"
+  },
+  {
     "id": "26/48",
     "sakstittel": "Langoddveien 37B - Bytte mast 110508",
     "arbeidstype": "Gravearbeid",
@@ -584,6 +598,34 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "26/476",
+    "sakstittel": "Graving for HS- Del 5. Berghoffveien",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Berghoffveien, Bjørumveien, Bjørumdalen",
+    "entreprenor": "TK MASKINDRIFT AS",
+    "start": "16.11.2026",
+    "slutt": "30.04.2027",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/548199",
+    "lat": 59.9306054,
+    "lon": 10.448017,
+    "status": "pågår",
+    "scraped_date": "2026-11-16T05:03:14.411847"
+  },
+  {
+    "id": "26/475",
+    "sakstittel": "Konvallveien Linjerydding",
+    "arbeidstype": "Arbeidstillatelse",
+    "veinavn": "Konvallveien",
+    "entreprenor": "SKOGSKRAFT AS",
+    "start": "16.11.2026",
+    "slutt": "20.11.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/548186",
+    "lat": 59.8846129,
+    "lon": 10.5138154,
+    "status": "pågår",
+    "scraped_date": "2026-11-16T05:03:14.411847"
+  },
+  {
     "id": "26/472",
     "sakstittel": "Graving for bytte av vann og avløp",
     "arbeidstype": "Gravearbeid",
@@ -596,6 +638,20 @@
     "lon": 10.5890627,
     "status": "pågår",
     "scraped_date": "2026-11-14T05:01:53.933506"
+  },
+  {
+    "id": "26/471",
+    "sakstittel": "Graving for HS- Del 6. Bjørumveien",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Berghoffveien, Bjørumveien, Bjørumdalen",
+    "entreprenor": "TK MASKINDRIFT AS",
+    "start": "16.11.2026",
+    "slutt": "30.01.2027",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/548094",
+    "lat": 59.9306054,
+    "lon": 10.448017,
+    "status": "pågår",
+    "scraped_date": "2026-11-16T05:03:14.411847"
   },
   {
     "id": "26/47",
@@ -802,6 +858,18 @@
     "scraped_date": "2026-11-12T05:02:09.935703"
   },
   {
+    "id": "26/451",
+    "sakstittel": "Bru vedlikehold-Sleiverud Bru",
+    "arbeidstype": "Arbeidstillatelse",
+    "veinavn": "",
+    "entreprenor": "BMO ENTREPRENØR AS",
+    "start": "16.11.2026",
+    "slutt": "27.11.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/547726",
+    "status": "pågår",
+    "scraped_date": "2026-11-16T05:03:14.411847"
+  },
+  {
     "id": "26/450",
     "sakstittel": "Claude Monets alle 19, Bærum. Solheim og Larsen Klima AS",
     "arbeidstype": "Arbeidstillatelse",
@@ -828,6 +896,20 @@
     "lon": 10.620796,
     "status": "pågår",
     "scraped_date": "2026-04-14T15:41:55.877016"
+  },
+  {
+    "id": "26/449",
+    "sakstittel": "Ny asfaltert, Jarveien 22B, Bærum",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Jarveien",
+    "entreprenor": "SFK GRAVING AS",
+    "start": "16.11.2026",
+    "slutt": "01.05.2027",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/547639",
+    "lat": 59.9252417,
+    "lon": 10.6197926,
+    "status": "pågår",
+    "scraped_date": "2026-11-16T05:03:14.411847"
   },
   {
     "id": "26/448",
@@ -870,6 +952,20 @@
     "lon": 10.448017,
     "status": "pågår",
     "scraped_date": "2026-11-11T05:01:57.604847"
+  },
+  {
+    "id": "26/444",
+    "sakstittel": "Øvrevollveien 7, Bærum - Stikkledning",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Øvrevollveien",
+    "entreprenor": "INFRAENT AS",
+    "start": "16.11.2026",
+    "slutt": "01.05.2027",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/547426",
+    "lat": 59.9352361,
+    "lon": 10.6189918,
+    "status": "pågår",
+    "scraped_date": "2026-11-16T05:03:14.411847"
   },
   {
     "id": "26/443",
