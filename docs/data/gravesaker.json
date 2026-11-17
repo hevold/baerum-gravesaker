@@ -570,6 +570,20 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "26/481",
+    "sakstittel": "Graving for vannlekkasje",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Bjørnsvikveien",
+    "entreprenor": "NORGRAV AS",
+    "start": "17.11.2026",
+    "slutt": "27.11.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/548368",
+    "lat": 59.8813761,
+    "lon": 10.5179724,
+    "status": "pågår",
+    "scraped_date": "2026-11-17T05:02:32.781149"
+  },
+  {
     "id": "26/480",
     "sakstittel": "VA-kumrehabilitering 7960609 2026 – Kumgruppene i Børjergrenda",
     "arbeidstype": "Arbeidstillatelse",
@@ -624,6 +638,20 @@
     "lon": 10.5138154,
     "status": "pågår",
     "scraped_date": "2026-11-16T05:03:14.411847"
+  },
+  {
+    "id": "26/473",
+    "sakstittel": "Åsløkklia 7  -  30145 Viken Fiber",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Åsløkklia",
+    "entreprenor": "TOM HVAAL AS",
+    "start": "16.11.2026",
+    "slutt": "18.12.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/548110",
+    "lat": 59.8792672,
+    "lon": 10.4983034,
+    "status": "pågår",
+    "scraped_date": "2026-11-17T05:02:32.781149"
   },
   {
     "id": "26/472",
