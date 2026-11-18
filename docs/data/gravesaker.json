@@ -612,6 +612,20 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "26/477",
+    "sakstittel": "83333 - EDR&Medeso AS, Strandveien 50",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Strandveien",
+    "entreprenor": "TOM HVAAL AS",
+    "start": "16.11.2026",
+    "slutt": "18.12.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/548205",
+    "lat": 59.9115945,
+    "lon": 10.6351973,
+    "status": "pågår",
+    "scraped_date": "2026-11-18T05:02:32.225311"
+  },
+  {
     "id": "26/476",
     "sakstittel": "Graving for HS- Del 5. Berghoffveien",
     "arbeidstype": "Gravearbeid",
