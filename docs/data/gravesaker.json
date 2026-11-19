@@ -612,6 +612,20 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "26/479",
+    "sakstittel": "Hundsundveien 15 - 22  -  30382 Viken Fiber",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Hundsundveien",
+    "entreprenor": "TOM HVAAL AS",
+    "start": "19.11.2026",
+    "slutt": "18.12.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/548238",
+    "lat": 59.8831857,
+    "lon": 10.6030257,
+    "status": "pågår",
+    "scraped_date": "2026-11-19T05:02:22.153968"
+  },
+  {
     "id": "26/477",
     "sakstittel": "83333 - EDR&Medeso AS, Strandveien 50",
     "arbeidstype": "Gravearbeid",
