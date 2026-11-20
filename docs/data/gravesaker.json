@@ -570,6 +570,20 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "26/484",
+    "sakstittel": "Gjettumveien 2 - 32 + Dæliveien til trafo  -  100376 Viken Fiber",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Gjettumveien",
+    "entreprenor": "TOM HVAAL AS",
+    "start": "20.11.2026",
+    "slutt": "22.12.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/548469",
+    "lat": 59.9099256,
+    "lon": 10.5357734,
+    "status": "pågår",
+    "scraped_date": "2026-11-20T05:02:43.655514"
+  },
+  {
     "id": "26/481",
     "sakstittel": "Graving for vannlekkasje",
     "arbeidstype": "Gravearbeid",
@@ -624,6 +638,20 @@
     "lon": 10.6030257,
     "status": "pågår",
     "scraped_date": "2026-11-19T05:02:22.153968"
+  },
+  {
+    "id": "26/478",
+    "sakstittel": "26108 VA Gravsbekken etappe 2 - Fagertunveien",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Fagertunveien, Parksvingen, Gimleveien, Nadderudveien, Carl Johnsens vei, Bjerkelundsveien, Hosleveien",
+    "entreprenor": "ANLEGG ØST ENTREPRENØR AS",
+    "start": "16.11.2026",
+    "slutt": "22.01.2027",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/548220",
+    "lat": 59.9321138,
+    "lon": 10.6031797,
+    "status": "pågår",
+    "scraped_date": "2026-11-20T05:02:43.655514"
   },
   {
     "id": "26/477",
@@ -980,6 +1008,20 @@
     "lon": 10.5943991,
     "status": "pågår",
     "scraped_date": "2026-11-10T05:02:06.813057"
+  },
+  {
+    "id": "26/447",
+    "sakstittel": "26108 VA Gravsbekken etappe 2 - Carl Johnsens vei",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Fagertunveien, Parksvingen, Gimleveien, Nadderudveien, Nadderudkroken, Carl Johnsens vei, Bjerkelundsveien, Hosleveien",
+    "entreprenor": "ANLEGG ØST ENTREPRENØR AS",
+    "start": "16.11.2026",
+    "slutt": "22.01.2027",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/547537",
+    "lat": 59.9321138,
+    "lon": 10.6031797,
+    "status": "pågår",
+    "scraped_date": "2026-11-20T05:02:43.655514"
   },
   {
     "id": "26/446",
