@@ -570,6 +570,20 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "26/489",
+    "sakstittel": "Graving for avløpskollaps",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Ståvihagan",
+    "entreprenor": "NORGRAV AS",
+    "start": "19.11.2026",
+    "slutt": "01.05.2027",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/548624",
+    "lat": 59.9083211,
+    "lon": 10.4713951,
+    "status": "pågår",
+    "scraped_date": "2026-11-21T05:01:38.066821"
+  },
+  {
     "id": "26/484",
     "sakstittel": "Gjettumveien 2 - 32 + Dæliveien til trafo  -  100376 Viken Fiber",
     "arbeidstype": "Gravearbeid",
