@@ -584,6 +584,20 @@
     "scraped_date": "2026-11-21T05:01:38.066821"
   },
   {
+    "id": "26/485",
+    "sakstittel": "Vierveien 19",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Vierveien",
+    "entreprenor": "KIM STEINSHOLT AS",
+    "start": "23.11.2026",
+    "slutt": "27.11.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/548480",
+    "lat": 59.905818,
+    "lon": 10.5472342,
+    "status": "pågår",
+    "scraped_date": "2026-11-23T05:03:09.174610"
+  },
+  {
     "id": "26/484",
     "sakstittel": "Gjettumveien 2 - 32 + Dæliveien til trafo  -  100376 Viken Fiber",
     "arbeidstype": "Gravearbeid",
@@ -596,6 +610,20 @@
     "lon": 10.5357734,
     "status": "pågår",
     "scraped_date": "2026-11-20T05:02:43.655514"
+  },
+  {
+    "id": "26/483",
+    "sakstittel": "Vestfjordgaten",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Vestfjordgaten",
+    "entreprenor": "VEISKILTING AS",
+    "start": "23.11.2026",
+    "slutt": "07.12.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/548461",
+    "lat": 59.8904175,
+    "lon": 10.5218365,
+    "status": "pågår",
+    "scraped_date": "2026-11-23T05:03:09.174610"
   },
   {
     "id": "26/481",
@@ -750,6 +778,20 @@
     "lon": 10.448017,
     "status": "pågår",
     "scraped_date": "2026-11-16T05:03:14.411847"
+  },
+  {
+    "id": "26/470",
+    "sakstittel": "Bytte strømlinjer på Vierveien",
+    "arbeidstype": "Arbeidstillatelse",
+    "veinavn": "Vierveien",
+    "entreprenor": "ROAD SAFETY GROUP AS",
+    "start": "23.11.2026",
+    "slutt": "24.11.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/548051",
+    "lat": 59.905818,
+    "lon": 10.5472342,
+    "status": "pågår",
+    "scraped_date": "2026-11-23T05:03:09.174610"
   },
   {
     "id": "26/47",
@@ -914,6 +956,34 @@
     "scraped_date": "2026-11-13T05:01:58.877011"
   },
   {
+    "id": "26/457",
+    "sakstittel": "Borgenhaug, del Kristian Køllesvei",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Kristian Kølles vei",
+    "entreprenor": "Arne Olav Lund A/S",
+    "start": "23.11.2026",
+    "slutt": "31.05.2027",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/547803",
+    "lat": 59.8801853,
+    "lon": 10.6193706,
+    "status": "pågår",
+    "scraped_date": "2026-11-23T05:03:09.174610"
+  },
+  {
+    "id": "26/456",
+    "sakstittel": "Hovedvei, Borgenhaug, del Snarøyveien",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Snarøyveien",
+    "entreprenor": "Arne Olav Lund A/S",
+    "start": "23.11.2026",
+    "slutt": "31.05.2027",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/547800",
+    "lat": 59.9046453,
+    "lon": 10.6291372,
+    "status": "pågår",
+    "scraped_date": "2026-11-23T05:03:09.174610"
+  },
+  {
     "id": "26/455",
     "sakstittel": "arboristtjenester Bærum vest - fjerning av oppstuvet av trevirke - Vangsbrua ved Vøyen mølle",
     "arbeidstype": "Arbeidstillatelse",
@@ -926,6 +996,20 @@
     "lon": 10.4881056,
     "status": "pågår",
     "scraped_date": "2026-11-10T05:02:06.813057"
+  },
+  {
+    "id": "26/454",
+    "sakstittel": "Borgenhaug",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Borgenhaug",
+    "entreprenor": "Arne Olav Lund A/S",
+    "start": "23.11.2026",
+    "slutt": "31.05.2027",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/547778",
+    "lat": 59.8789201,
+    "lon": 10.6138505,
+    "status": "pågår",
+    "scraped_date": "2026-11-23T05:03:09.174610"
   },
   {
     "id": "26/453",
