@@ -556,6 +556,20 @@
     "scraped_date": "2026-04-20T05:51:55.282936"
   },
   {
+    "id": "26/492",
+    "sakstittel": "Voll Terrasse 2B _ Vannlekkasje",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Voll terrasse",
+    "entreprenor": "BÆRUM KOMMUNE",
+    "start": "19.11.2026",
+    "slutt": "31.05.2027",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/548801",
+    "lat": 59.935229,
+    "lon": 10.6310105,
+    "status": "pågår",
+    "scraped_date": "2026-11-24T05:02:27.855219"
+  },
+  {
     "id": "26/49",
     "sakstittel": "Kabelfeil HS. Horniveien 106, Bærum",
     "arbeidstype": "Gravearbeid",
