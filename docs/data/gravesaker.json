@@ -570,6 +570,20 @@
     "scraped_date": "2026-11-24T05:02:27.855219"
   },
   {
+    "id": "26/490",
+    "sakstittel": "Forneburingen 140",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Forneburingen",
+    "entreprenor": "VEISKILTING AS",
+    "start": "24.11.2026",
+    "slutt": "08.12.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/548639",
+    "lat": 59.8934589,
+    "lon": 10.6153267,
+    "status": "pågår",
+    "scraped_date": "2026-11-25T05:02:21.159881"
+  },
+  {
     "id": "26/49",
     "sakstittel": "Kabelfeil HS. Horniveien 106, Bærum",
     "arbeidstype": "Gravearbeid",
