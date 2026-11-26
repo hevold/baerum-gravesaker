@@ -556,6 +556,20 @@
     "scraped_date": "2026-04-20T05:51:55.282936"
   },
   {
+    "id": "26/495",
+    "sakstittel": "3064 Storøya varmesentral",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Forneburingen",
+    "entreprenor": "KJELDAAS AS",
+    "start": "25.11.2026",
+    "slutt": "31.12.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/548867",
+    "lat": 59.8934589,
+    "lon": 10.6153267,
+    "status": "pågår",
+    "scraped_date": "2026-11-26T05:02:39.990234"
+  },
+  {
     "id": "26/492",
     "sakstittel": "Voll Terrasse 2B _ Vannlekkasje",
     "arbeidstype": "Gravearbeid",
@@ -612,6 +626,34 @@
     "scraped_date": "2026-11-21T05:01:38.066821"
   },
   {
+    "id": "26/487",
+    "sakstittel": "Hiltonveien - grunnundersøkelse",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Hiltonveien",
+    "entreprenor": "Arne Olav Lund A/S",
+    "start": "26.11.2026",
+    "slutt": "18.12.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/548617",
+    "lat": 59.8840753,
+    "lon": 10.5004744,
+    "status": "pågår",
+    "scraped_date": "2026-11-26T05:02:39.990234"
+  },
+  {
+    "id": "26/486",
+    "sakstittel": "Berghoff - prøveboring grunndundersøkelse",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Berghoffveien",
+    "entreprenor": "Arne Olav Lund A/S",
+    "start": "26.11.2026",
+    "slutt": "18.12.2026",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/548601",
+    "lat": 59.9306054,
+    "lon": 10.448017,
+    "status": "pågår",
+    "scraped_date": "2026-11-26T05:02:39.990234"
+  },
+  {
     "id": "26/485",
     "sakstittel": "Vierveien 19",
     "arbeidstype": "Gravearbeid",
@@ -652,6 +694,20 @@
     "lon": 10.5218365,
     "status": "pågår",
     "scraped_date": "2026-11-23T05:03:09.174610"
+  },
+  {
+    "id": "26/482",
+    "sakstittel": "Fossveien, strøm",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Fossveien",
+    "entreprenor": "JAR ANLEGG AS",
+    "start": "19.11.2026",
+    "slutt": "01.05.2027",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/548407",
+    "lat": 59.908282,
+    "lon": 10.5618199,
+    "status": "pågår",
+    "scraped_date": "2026-11-26T05:02:39.990234"
   },
   {
     "id": "26/481",
