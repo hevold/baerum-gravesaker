@@ -1312,6 +1312,18 @@
     "scraped_date": "2026-04-14T15:41:55.877016"
   },
   {
+    "id": "26/439",
+    "sakstittel": "Hamang Nord",
+    "arbeidstype": "Gravearbeid",
+    "veinavn": "Hamanskogen",
+    "entreprenor": "BK-ANLEGG AS",
+    "start": "18.11.2026",
+    "slutt": "31.08.2027",
+    "kilde_url": "https://baerum.gravearbeider.no/soknad/view/547065",
+    "status": "pågår",
+    "scraped_date": "2026-11-27T05:02:25.305817"
+  },
+  {
     "id": "26/438",
     "sakstittel": "26108 VA Gravsbekken etappe 2",
     "arbeidstype": "Gravearbeid",
